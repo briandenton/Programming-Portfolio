@@ -1,0 +1,2874 @@
+
+Importing raw data...
+
+Computing relative frequency of words in documents...
+*********************************
+---------------------------------
+  Simulation Number: 0
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood: -197.649	abs( Change in Log-Likelihood ):   9.9998e+06
+Logisitic Regression Iteration:   100	Log-Likelihood: -48.9336	abs( Change in Log-Likelihood ):     0.315146
+Logisitic Regression Iteration:   200	Log-Likelihood: -30.0938	abs( Change in Log-Likelihood ):     0.115075
+Logisitic Regression Iteration:   300	Log-Likelihood: -21.8029	abs( Change in Log-Likelihood ):    0.0602347
+Logisitic Regression Iteration:   400	Log-Likelihood: -17.0872	abs( Change in Log-Likelihood ):    0.0371133
+Logisitic Regression Iteration:   500	Log-Likelihood: -14.0377	abs( Change in Log-Likelihood ):    0.0251553
+Logisitic Regression Iteration:   600	Log-Likelihood: -11.9036	abs( Change in Log-Likelihood ):     0.018163
+Logisitic Regression Iteration:   700	Log-Likelihood: -10.3271	abs( Change in Log-Likelihood ):    0.0137211
+Logisitic Regression Iteration:   800	Log-Likelihood: -9.11545	abs( Change in Log-Likelihood ):    0.0107246
+Logisitic Regression Iteration:   900	Log-Likelihood: -8.15561	abs( Change in Log-Likelihood ):   0.00860871
+Logisitic Regression Iteration:  1000	Log-Likelihood: -7.37677	abs( Change in Log-Likelihood ):   0.00705978
+Logisitic Regression Iteration:  1100	Log-Likelihood: -6.73237	abs( Change in Log-Likelihood ):   0.00589234
+Logisitic Regression Iteration:  1200	Log-Likelihood: -6.19551	abs( Change in Log-Likelihood ):    0.0049989
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate:  0.064
+*********************************
+---------------------------------
+  Simulation Number: 1
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -198.1	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -50.74	abs( Change in Log-Likelihood ):        0.326
+Logisitic Regression Iteration:   200	Log-Likelihood:   -31.14	abs( Change in Log-Likelihood ):       0.1203
+Logisitic Regression Iteration:   300	Log-Likelihood:   -22.46	abs( Change in Log-Likelihood ):       0.0631
+Logisitic Regression Iteration:   400	Log-Likelihood:   -17.53	abs( Change in Log-Likelihood ):      0.03879
+Logisitic Regression Iteration:   500	Log-Likelihood:   -14.34	abs( Change in Log-Likelihood ):       0.0262
+Logisitic Regression Iteration:   600	Log-Likelihood:   -12.13	abs( Change in Log-Likelihood ):      0.01885
+Logisitic Regression Iteration:   700	Log-Likelihood:   -10.49	abs( Change in Log-Likelihood ):      0.01419
+Logisitic Regression Iteration:   800	Log-Likelihood:   -9.241	abs( Change in Log-Likelihood ):      0.01106
+Logisitic Regression Iteration:   900	Log-Likelihood:   -8.253	abs( Change in Log-Likelihood ):     0.008849
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -7.454	abs( Change in Log-Likelihood ):     0.007239
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -6.794	abs( Change in Log-Likelihood ):     0.006028
+Logisitic Regression Iteration:  1200	Log-Likelihood:    -6.24	abs( Change in Log-Likelihood ):     0.005096
+Logisitic Regression Iteration:  1213	Log-Likelihood:   -6.179	abs( Change in Log-Likelihood ):     0.004999
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate: 0.0705
+*********************************
+---------------------------------
+  Simulation Number: 2
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -196.4	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -47.81	abs( Change in Log-Likelihood ):       0.3042
+Logisitic Regression Iteration:   200	Log-Likelihood:   -29.49	abs( Change in Log-Likelihood ):       0.1128
+Logisitic Regression Iteration:   300	Log-Likelihood:   -21.34	abs( Change in Log-Likelihood ):      0.05926
+Logisitic Regression Iteration:   400	Log-Likelihood:    -16.7	abs( Change in Log-Likelihood ):      0.03652
+Logisitic Regression Iteration:   500	Log-Likelihood:    -13.7	abs( Change in Log-Likelihood ):      0.02474
+Logisitic Regression Iteration:   600	Log-Likelihood:    -11.6	abs( Change in Log-Likelihood ):      0.01784
+Logisitic Regression Iteration:   700	Log-Likelihood:   -10.06	abs( Change in Log-Likelihood ):      0.01346
+Logisitic Regression Iteration:   800	Log-Likelihood:   -8.868	abs( Change in Log-Likelihood ):      0.01051
+Logisitic Regression Iteration:   900	Log-Likelihood:   -7.928	abs( Change in Log-Likelihood ):     0.008427
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -7.166	abs( Change in Log-Likelihood ):     0.006904
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -6.536	abs( Change in Log-Likelihood ):     0.005757
+Logisitic Regression Iteration:  1185	Log-Likelihood:   -6.086	abs( Change in Log-Likelihood ):     0.004999
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate: 0.0755
+*********************************
+---------------------------------
+  Simulation Number: 3
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -196.9	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -46.21	abs( Change in Log-Likelihood ):       0.3089
+Logisitic Regression Iteration:   200	Log-Likelihood:   -27.99	abs( Change in Log-Likelihood ):       0.1098
+Logisitic Regression Iteration:   300	Log-Likelihood:   -20.14	abs( Change in Log-Likelihood ):       0.0567
+Logisitic Regression Iteration:   400	Log-Likelihood:   -15.71	abs( Change in Log-Likelihood ):      0.03467
+Logisitic Regression Iteration:   500	Log-Likelihood:   -12.87	abs( Change in Log-Likelihood ):      0.02339
+Logisitic Regression Iteration:   600	Log-Likelihood:   -10.89	abs( Change in Log-Likelihood ):      0.01682
+Logisitic Regression Iteration:   700	Log-Likelihood:   -9.433	abs( Change in Log-Likelihood ):      0.01267
+Logisitic Regression Iteration:   800	Log-Likelihood:   -8.315	abs( Change in Log-Likelihood ):     0.009883
+Logisitic Regression Iteration:   900	Log-Likelihood:   -7.431	abs( Change in Log-Likelihood ):     0.007918
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -6.715	abs( Change in Log-Likelihood ):     0.006483
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -6.124	abs( Change in Log-Likelihood ):     0.005404
+Logisitic Regression Iteration:  1147	Log-Likelihood:   -5.885	abs( Change in Log-Likelihood ):     0.004995
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate: 0.0775
+*********************************
+---------------------------------
+  Simulation Number: 4
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -196.5	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -51.54	abs( Change in Log-Likelihood ):       0.3056
+Logisitic Regression Iteration:   200	Log-Likelihood:   -32.59	abs( Change in Log-Likelihood ):       0.1207
+Logisitic Regression Iteration:   300	Log-Likelihood:   -23.73	abs( Change in Log-Likelihood ):      0.06538
+Logisitic Regression Iteration:   400	Log-Likelihood:   -18.58	abs( Change in Log-Likelihood ):      0.04075
+Logisitic Regression Iteration:   500	Log-Likelihood:   -15.22	abs( Change in Log-Likelihood ):       0.0277
+Logisitic Regression Iteration:   600	Log-Likelihood:   -12.87	abs( Change in Log-Likelihood ):      0.01999
+Logisitic Regression Iteration:   700	Log-Likelihood:   -11.14	abs( Change in Log-Likelihood ):      0.01507
+Logisitic Regression Iteration:   800	Log-Likelihood:    -9.81	abs( Change in Log-Likelihood ):      0.01176
+Logisitic Regression Iteration:   900	Log-Likelihood:   -8.759	abs( Change in Log-Likelihood ):     0.009415
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -7.909	abs( Change in Log-Likelihood ):     0.007703
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -7.206	abs( Change in Log-Likelihood ):     0.006415
+Logisitic Regression Iteration:  1200	Log-Likelihood:   -6.617	abs( Change in Log-Likelihood ):     0.005423
+Logisitic Regression Iteration:  1253	Log-Likelihood:   -6.346	abs( Change in Log-Likelihood ):     0.004995
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate:  0.062
+*********************************
+---------------------------------
+  Simulation Number: 5
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:     -197	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -51.08	abs( Change in Log-Likelihood ):       0.3109
+Logisitic Regression Iteration:   200	Log-Likelihood:    -32.2	abs( Change in Log-Likelihood ):       0.1179
+Logisitic Regression Iteration:   300	Log-Likelihood:   -23.58	abs( Change in Log-Likelihood ):      0.06363
+Logisitic Regression Iteration:   400	Log-Likelihood:   -18.55	abs( Change in Log-Likelihood ):      0.03996
+Logisitic Regression Iteration:   500	Log-Likelihood:   -15.25	abs( Change in Log-Likelihood ):      0.02737
+Logisitic Regression Iteration:   600	Log-Likelihood:   -12.92	abs( Change in Log-Likelihood ):      0.01987
+Logisitic Regression Iteration:   700	Log-Likelihood:   -11.19	abs( Change in Log-Likelihood ):      0.01505
+Logisitic Regression Iteration:   800	Log-Likelihood:   -9.861	abs( Change in Log-Likelihood ):      0.01177
+Logisitic Regression Iteration:   900	Log-Likelihood:   -8.808	abs( Change in Log-Likelihood ):     0.009443
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -7.954	abs( Change in Log-Likelihood ):     0.007737
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -7.248	abs( Change in Log-Likelihood ):      0.00645
+Logisitic Regression Iteration:  1200	Log-Likelihood:   -6.655	abs( Change in Log-Likelihood ):     0.005457
+Logisitic Regression Iteration:  1257	Log-Likelihood:   -6.363	abs( Change in Log-Likelihood ):     0.004996
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate:  0.079
+*********************************
+---------------------------------
+  Simulation Number: 6
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -196.8	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -49.03	abs( Change in Log-Likelihood ):       0.3134
+Logisitic Regression Iteration:   200	Log-Likelihood:    -30.2	abs( Change in Log-Likelihood ):       0.1156
+Logisitic Regression Iteration:   300	Log-Likelihood:   -21.85	abs( Change in Log-Likelihood ):      0.06077
+Logisitic Regression Iteration:   400	Log-Likelihood:   -17.09	abs( Change in Log-Likelihood ):      0.03748
+Logisitic Regression Iteration:   500	Log-Likelihood:   -14.01	abs( Change in Log-Likelihood ):      0.02538
+Logisitic Regression Iteration:   600	Log-Likelihood:   -11.86	abs( Change in Log-Likelihood ):       0.0183
+Logisitic Regression Iteration:   700	Log-Likelihood:   -10.27	abs( Change in Log-Likelihood ):      0.01381
+Logisitic Regression Iteration:   800	Log-Likelihood:   -9.052	abs( Change in Log-Likelihood ):      0.01077
+Logisitic Regression Iteration:   900	Log-Likelihood:   -8.089	abs( Change in Log-Likelihood ):     0.008635
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -7.308	abs( Change in Log-Likelihood ):     0.007071
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -6.663	abs( Change in Log-Likelihood ):     0.005894
+Logisitic Regression Iteration:  1200	Log-Likelihood:   -6.126	abs( Change in Log-Likelihood ):     0.004994
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate: 0.0685
+*********************************
+---------------------------------
+  Simulation Number: 7
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -197.6	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -50.72	abs( Change in Log-Likelihood ):       0.3274
+Logisitic Regression Iteration:   200	Log-Likelihood:   -30.92	abs( Change in Log-Likelihood ):       0.1219
+Logisitic Regression Iteration:   300	Log-Likelihood:   -22.15	abs( Change in Log-Likelihood ):      0.06344
+Logisitic Regression Iteration:   400	Log-Likelihood:   -17.21	abs( Change in Log-Likelihood ):      0.03872
+Logisitic Regression Iteration:   500	Log-Likelihood:   -14.04	abs( Change in Log-Likelihood ):        0.026
+Logisitic Regression Iteration:   600	Log-Likelihood:   -11.84	abs( Change in Log-Likelihood ):      0.01863
+Logisitic Regression Iteration:   700	Log-Likelihood:   -10.23	abs( Change in Log-Likelihood ):      0.01398
+Logisitic Regression Iteration:   800	Log-Likelihood:   -8.998	abs( Change in Log-Likelihood ):      0.01086
+Logisitic Regression Iteration:   900	Log-Likelihood:   -8.028	abs( Change in Log-Likelihood ):     0.008678
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -7.245	abs( Change in Log-Likelihood ):     0.007087
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -6.599	abs( Change in Log-Likelihood ):     0.005894
+Logisitic Regression Iteration:  1199	Log-Likelihood:   -6.068	abs( Change in Log-Likelihood ):     0.004993
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate: 0.0705
+*********************************
+---------------------------------
+  Simulation Number: 8
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -197.8	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:    -50.3	abs( Change in Log-Likelihood ):        0.327
+Logisitic Regression Iteration:   200	Log-Likelihood:   -30.67	abs( Change in Log-Likelihood ):         0.12
+Logisitic Regression Iteration:   300	Log-Likelihood:   -22.05	abs( Change in Log-Likelihood ):      0.06238
+Logisitic Regression Iteration:   400	Log-Likelihood:   -17.19	abs( Change in Log-Likelihood ):      0.03815
+Logisitic Regression Iteration:   500	Log-Likelihood:   -14.06	abs( Change in Log-Likelihood ):      0.02569
+Logisitic Regression Iteration:   600	Log-Likelihood:   -11.89	abs( Change in Log-Likelihood ):      0.01846
+Logisitic Regression Iteration:   700	Log-Likelihood:   -10.29	abs( Change in Log-Likelihood ):      0.01389
+Logisitic Regression Iteration:   800	Log-Likelihood:   -9.063	abs( Change in Log-Likelihood ):      0.01082
+Logisitic Regression Iteration:   900	Log-Likelihood:   -8.096	abs( Change in Log-Likelihood ):     0.008659
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -7.314	abs( Change in Log-Likelihood ):     0.007085
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -6.668	abs( Change in Log-Likelihood ):     0.005902
+Logisitic Regression Iteration:  1200	Log-Likelihood:   -6.131	abs( Change in Log-Likelihood ):     0.004998
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate:  0.077
+*********************************
+---------------------------------
+  Simulation Number: 9
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -195.7	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -48.68	abs( Change in Log-Likelihood ):       0.2912
+Logisitic Regression Iteration:   200	Log-Likelihood:   -30.94	abs( Change in Log-Likelihood ):       0.1111
+Logisitic Regression Iteration:   300	Log-Likelihood:    -22.8	abs( Change in Log-Likelihood ):      0.06016
+Logisitic Regression Iteration:   400	Log-Likelihood:   -18.04	abs( Change in Log-Likelihood ):      0.03791
+Logisitic Regression Iteration:   500	Log-Likelihood:    -14.9	abs( Change in Log-Likelihood ):      0.02608
+Logisitic Regression Iteration:   600	Log-Likelihood:   -12.68	abs( Change in Log-Likelihood ):      0.01902
+Logisitic Regression Iteration:   700	Log-Likelihood:   -11.02	abs( Change in Log-Likelihood ):      0.01447
+Logisitic Regression Iteration:   800	Log-Likelihood:    -9.74	abs( Change in Log-Likelihood ):      0.01136
+Logisitic Regression Iteration:   900	Log-Likelihood:   -8.721	abs( Change in Log-Likelihood ):     0.009152
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -7.892	abs( Change in Log-Likelihood ):     0.007524
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -7.205	abs( Change in Log-Likelihood ):     0.006291
+Logisitic Regression Iteration:  1200	Log-Likelihood:   -6.626	abs( Change in Log-Likelihood ):     0.005336
+Logisitic Regression Iteration:  1243	Log-Likelihood:   -6.409	abs( Change in Log-Likelihood ):     0.004998
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate:  0.074
+*********************************
+---------------------------------
+  Simulation Number: 10
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -196.7	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -44.48	abs( Change in Log-Likelihood ):          0.3
+Logisitic Regression Iteration:   200	Log-Likelihood:   -26.87	abs( Change in Log-Likelihood ):       0.1057
+Logisitic Regression Iteration:   300	Log-Likelihood:   -19.32	abs( Change in Log-Likelihood ):      0.05449
+Logisitic Regression Iteration:   400	Log-Likelihood:   -15.07	abs( Change in Log-Likelihood ):      0.03329
+Logisitic Regression Iteration:   500	Log-Likelihood:   -12.34	abs( Change in Log-Likelihood ):      0.02244
+Logisitic Regression Iteration:   600	Log-Likelihood:   -10.44	abs( Change in Log-Likelihood ):      0.01613
+Logisitic Regression Iteration:   700	Log-Likelihood:   -9.043	abs( Change in Log-Likelihood ):      0.01215
+Logisitic Regression Iteration:   800	Log-Likelihood:   -7.971	abs( Change in Log-Likelihood ):     0.009471
+Logisitic Regression Iteration:   900	Log-Likelihood:   -7.125	abs( Change in Log-Likelihood ):     0.007587
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -6.439	abs( Change in Log-Likelihood ):     0.006212
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -5.872	abs( Change in Log-Likelihood ):     0.005177
+Logisitic Regression Iteration:  1122	Log-Likelihood:   -5.766	abs( Change in Log-Likelihood ):     0.004993
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate:  0.091
+*********************************
+---------------------------------
+  Simulation Number: 11
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:     -196	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -45.39	abs( Change in Log-Likelihood ):       0.2953
+Logisitic Regression Iteration:   200	Log-Likelihood:   -27.83	abs( Change in Log-Likelihood ):       0.1069
+Logisitic Regression Iteration:   300	Log-Likelihood:   -20.14	abs( Change in Log-Likelihood ):       0.0559
+Logisitic Regression Iteration:   400	Log-Likelihood:   -15.76	abs( Change in Log-Likelihood ):      0.03445
+Logisitic Regression Iteration:   500	Log-Likelihood:   -12.93	abs( Change in Log-Likelihood ):      0.02334
+Logisitic Regression Iteration:   600	Log-Likelihood:   -10.95	abs( Change in Log-Likelihood ):      0.01684
+Logisitic Regression Iteration:   700	Log-Likelihood:   -9.491	abs( Change in Log-Likelihood ):      0.01271
+Logisitic Regression Iteration:   800	Log-Likelihood:   -8.369	abs( Change in Log-Likelihood ):     0.009923
+Logisitic Regression Iteration:   900	Log-Likelihood:   -7.481	abs( Change in Log-Likelihood ):     0.007957
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -6.762	abs( Change in Log-Likelihood ):     0.006519
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -6.167	abs( Change in Log-Likelihood ):     0.005436
+Logisitic Regression Iteration:  1151	Log-Likelihood:   -5.907	abs( Change in Log-Likelihood ):     0.004992
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate:  0.082
+*********************************
+---------------------------------
+  Simulation Number: 12
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -197.5	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -51.61	abs( Change in Log-Likelihood ):       0.3126
+Logisitic Regression Iteration:   200	Log-Likelihood:    -32.5	abs( Change in Log-Likelihood ):       0.1199
+Logisitic Regression Iteration:   300	Log-Likelihood:   -23.74	abs( Change in Log-Likelihood ):      0.06448
+Logisitic Regression Iteration:   400	Log-Likelihood:   -18.65	abs( Change in Log-Likelihood ):      0.04026
+Logisitic Regression Iteration:   500	Log-Likelihood:   -15.34	abs( Change in Log-Likelihood ):      0.02747
+Logisitic Regression Iteration:   600	Log-Likelihood:      -13	abs( Change in Log-Likelihood ):       0.0199
+Logisitic Regression Iteration:   700	Log-Likelihood:   -11.27	abs( Change in Log-Likelihood ):      0.01505
+Logisitic Regression Iteration:   800	Log-Likelihood:   -9.943	abs( Change in Log-Likelihood ):      0.01177
+Logisitic Regression Iteration:   900	Log-Likelihood:    -8.89	abs( Change in Log-Likelihood ):     0.009448
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -8.035	abs( Change in Log-Likelihood ):     0.007746
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -7.328	abs( Change in Log-Likelihood ):     0.006462
+Logisitic Regression Iteration:  1200	Log-Likelihood:   -6.734	abs( Change in Log-Likelihood ):      0.00547
+Logisitic Regression Iteration:  1259	Log-Likelihood:   -6.431	abs( Change in Log-Likelihood ):     0.004995
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate:  0.085
+*********************************
+---------------------------------
+  Simulation Number: 13
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -197.8	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -48.81	abs( Change in Log-Likelihood ):       0.3188
+Logisitic Regression Iteration:   200	Log-Likelihood:   -29.83	abs( Change in Log-Likelihood ):       0.1157
+Logisitic Regression Iteration:   300	Log-Likelihood:    -21.5	abs( Change in Log-Likelihood ):      0.06048
+Logisitic Regression Iteration:   400	Log-Likelihood:   -16.77	abs( Change in Log-Likelihood ):      0.03718
+Logisitic Regression Iteration:   500	Log-Likelihood:   -13.72	abs( Change in Log-Likelihood ):      0.02512
+Logisitic Regression Iteration:   600	Log-Likelihood:   -11.59	abs( Change in Log-Likelihood ):      0.01807
+Logisitic Regression Iteration:   700	Log-Likelihood:   -10.02	abs( Change in Log-Likelihood ):       0.0136
+Logisitic Regression Iteration:   800	Log-Likelihood:   -8.822	abs( Change in Log-Likelihood ):       0.0106
+Logisitic Regression Iteration:   900	Log-Likelihood:   -7.876	abs( Change in Log-Likelihood ):     0.008479
+Logisitic Regression Iteration:  1000	Log-Likelihood:    -7.11	abs( Change in Log-Likelihood ):     0.006933
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -6.478	abs( Change in Log-Likelihood ):     0.005771
+Logisitic Regression Iteration:  1186	Log-Likelihood:   -6.021	abs( Change in Log-Likelihood ):     0.004997
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate: 0.0785
+*********************************
+---------------------------------
+  Simulation Number: 14
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -197.9	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -49.69	abs( Change in Log-Likelihood ):       0.3243
+Logisitic Regression Iteration:   200	Log-Likelihood:   -30.37	abs( Change in Log-Likelihood ):       0.1174
+Logisitic Regression Iteration:   300	Log-Likelihood:   -21.94	abs( Change in Log-Likelihood ):      0.06094
+Logisitic Regression Iteration:   400	Log-Likelihood:   -17.18	abs( Change in Log-Likelihood ):      0.03738
+Logisitic Regression Iteration:   500	Log-Likelihood:   -14.12	abs( Change in Log-Likelihood ):      0.02527
+Logisitic Regression Iteration:   600	Log-Likelihood:   -11.97	abs( Change in Log-Likelihood ):      0.01823
+Logisitic Regression Iteration:   700	Log-Likelihood:   -10.39	abs( Change in Log-Likelihood ):      0.01376
+Logisitic Regression Iteration:   800	Log-Likelihood:   -9.176	abs( Change in Log-Likelihood ):      0.01076
+Logisitic Regression Iteration:   900	Log-Likelihood:   -8.213	abs( Change in Log-Likelihood ):     0.008636
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -7.431	abs( Change in Log-Likelihood ):     0.007085
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -6.785	abs( Change in Log-Likelihood ):     0.005915
+Logisitic Regression Iteration:  1200	Log-Likelihood:    -6.24	abs( Change in Log-Likelihood ):     0.005013
+Logisitic Regression Iteration:  1203	Log-Likelihood:    -6.23	abs( Change in Log-Likelihood ):     0.004997
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate: 0.0735
+*********************************
+---------------------------------
+  Simulation Number: 15
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -196.8	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -51.78	abs( Change in Log-Likelihood ):       0.3138
+Logisitic Regression Iteration:   200	Log-Likelihood:    -32.4	abs( Change in Log-Likelihood ):        0.122
+Logisitic Regression Iteration:   300	Log-Likelihood:   -23.51	abs( Change in Log-Likelihood ):       0.0651
+Logisitic Regression Iteration:   400	Log-Likelihood:    -18.4	abs( Change in Log-Likelihood ):      0.04034
+Logisitic Regression Iteration:   500	Log-Likelihood:   -15.08	abs( Change in Log-Likelihood ):      0.02736
+Logisitic Regression Iteration:   600	Log-Likelihood:   -12.76	abs( Change in Log-Likelihood ):      0.01974
+Logisitic Regression Iteration:   700	Log-Likelihood:   -11.05	abs( Change in Log-Likelihood ):      0.01489
+Logisitic Regression Iteration:   800	Log-Likelihood:   -9.739	abs( Change in Log-Likelihood ):      0.01162
+Logisitic Regression Iteration:   900	Log-Likelihood:     -8.7	abs( Change in Log-Likelihood ):     0.009307
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -7.859	abs( Change in Log-Likelihood ):     0.007619
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -7.164	abs( Change in Log-Likelihood ):     0.006349
+Logisitic Regression Iteration:  1200	Log-Likelihood:    -6.58	abs( Change in Log-Likelihood ):      0.00537
+Logisitic Regression Iteration:  1247	Log-Likelihood:   -6.342	abs( Change in Log-Likelihood ):     0.004994
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate:  0.076
+*********************************
+---------------------------------
+  Simulation Number: 16
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -196.6	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -50.63	abs( Change in Log-Likelihood ):       0.3075
+Logisitic Regression Iteration:   200	Log-Likelihood:   -31.86	abs( Change in Log-Likelihood ):       0.1175
+Logisitic Regression Iteration:   300	Log-Likelihood:   -23.28	abs( Change in Log-Likelihood ):      0.06309
+Logisitic Regression Iteration:   400	Log-Likelihood:   -18.31	abs( Change in Log-Likelihood ):      0.03944
+Logisitic Regression Iteration:   500	Log-Likelihood:   -15.05	abs( Change in Log-Likelihood ):      0.02695
+Logisitic Regression Iteration:   600	Log-Likelihood:   -12.76	abs( Change in Log-Likelihood ):      0.01955
+Logisitic Regression Iteration:   700	Log-Likelihood:   -11.06	abs( Change in Log-Likelihood ):      0.01481
+Logisitic Regression Iteration:   800	Log-Likelihood:   -9.754	abs( Change in Log-Likelihood ):      0.01159
+Logisitic Regression Iteration:   900	Log-Likelihood:   -8.717	abs( Change in Log-Likelihood ):     0.009306
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -7.875	abs( Change in Log-Likelihood ):      0.00763
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -7.179	abs( Change in Log-Likelihood ):     0.006366
+Logisitic Regression Iteration:  1200	Log-Likelihood:   -6.594	abs( Change in Log-Likelihood ):     0.005388
+Logisitic Regression Iteration:  1249	Log-Likelihood:   -6.345	abs( Change in Log-Likelihood ):     0.004996
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate: 0.0875
+*********************************
+---------------------------------
+  Simulation Number: 17
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -199.6	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:    -55.9	abs( Change in Log-Likelihood ):       0.3423
+Logisitic Regression Iteration:   200	Log-Likelihood:   -35.06	abs( Change in Log-Likelihood ):       0.1301
+Logisitic Regression Iteration:   300	Log-Likelihood:   -25.58	abs( Change in Log-Likelihood ):      0.06963
+Logisitic Regression Iteration:   400	Log-Likelihood:   -20.09	abs( Change in Log-Likelihood ):      0.04342
+Logisitic Regression Iteration:   500	Log-Likelihood:   -16.51	abs( Change in Log-Likelihood ):      0.02962
+Logisitic Regression Iteration:   600	Log-Likelihood:   -13.99	abs( Change in Log-Likelihood ):      0.02146
+Logisitic Regression Iteration:   700	Log-Likelihood:   -12.13	abs( Change in Log-Likelihood ):      0.01623
+Logisitic Regression Iteration:   800	Log-Likelihood:    -10.7	abs( Change in Log-Likelihood ):      0.01269
+Logisitic Regression Iteration:   900	Log-Likelihood:   -9.561	abs( Change in Log-Likelihood ):      0.01019
+Logisitic Regression Iteration:  1000	Log-Likelihood:    -8.64	abs( Change in Log-Likelihood ):     0.008351
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -7.878	abs( Change in Log-Likelihood ):     0.006965
+Logisitic Regression Iteration:  1200	Log-Likelihood:   -7.237	abs( Change in Log-Likelihood ):     0.005896
+Logisitic Regression Iteration:  1300	Log-Likelihood:   -6.692	abs( Change in Log-Likelihood ):     0.005053
+Logisitic Regression Iteration:  1309	Log-Likelihood:   -6.652	abs( Change in Log-Likelihood ):     0.004993
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate:  0.065
+*********************************
+---------------------------------
+  Simulation Number: 18
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -198.3	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -50.61	abs( Change in Log-Likelihood ):        0.319
+Logisitic Regression Iteration:   200	Log-Likelihood:   -31.45	abs( Change in Log-Likelihood ):       0.1179
+Logisitic Regression Iteration:   300	Log-Likelihood:    -22.9	abs( Change in Log-Likelihood ):      0.06258
+Logisitic Regression Iteration:   400	Log-Likelihood:   -17.98	abs( Change in Log-Likelihood ):      0.03895
+Logisitic Regression Iteration:   500	Log-Likelihood:   -14.77	abs( Change in Log-Likelihood ):      0.02655
+Logisitic Regression Iteration:   600	Log-Likelihood:   -12.51	abs( Change in Log-Likelihood ):      0.01922
+Logisitic Regression Iteration:   700	Log-Likelihood:   -10.84	abs( Change in Log-Likelihood ):      0.01454
+Logisitic Regression Iteration:   800	Log-Likelihood:   -9.557	abs( Change in Log-Likelihood ):      0.01136
+Logisitic Regression Iteration:   900	Log-Likelihood:   -8.541	abs( Change in Log-Likelihood ):     0.009112
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -7.717	abs( Change in Log-Likelihood ):     0.007466
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -7.035	abs( Change in Log-Likelihood ):     0.006225
+Logisitic Regression Iteration:  1200	Log-Likelihood:   -6.463	abs( Change in Log-Likelihood ):     0.005268
+Logisitic Regression Iteration:  1234	Log-Likelihood:   -6.294	abs( Change in Log-Likelihood ):     0.004999
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate:  0.076
+*********************************
+---------------------------------
+  Simulation Number: 19
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -196.6	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -48.69	abs( Change in Log-Likelihood ):       0.3006
+Logisitic Regression Iteration:   200	Log-Likelihood:   -30.49	abs( Change in Log-Likelihood ):       0.1131
+Logisitic Regression Iteration:   300	Log-Likelihood:   -22.25	abs( Change in Log-Likelihood ):      0.06055
+Logisitic Regression Iteration:   400	Log-Likelihood:   -17.48	abs( Change in Log-Likelihood ):      0.03778
+Logisitic Regression Iteration:   500	Log-Likelihood:   -14.37	abs( Change in Log-Likelihood ):      0.02579
+Logisitic Regression Iteration:   600	Log-Likelihood:   -12.17	abs( Change in Log-Likelihood ):      0.01869
+Logisitic Regression Iteration:   700	Log-Likelihood:   -10.55	abs( Change in Log-Likelihood ):      0.01415
+Logisitic Regression Iteration:   800	Log-Likelihood:   -9.301	abs( Change in Log-Likelihood ):      0.01106
+Logisitic Regression Iteration:   900	Log-Likelihood:   -8.311	abs( Change in Log-Likelihood ):     0.008882
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -7.507	abs( Change in Log-Likelihood ):     0.007281
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -6.843	abs( Change in Log-Likelihood ):     0.006072
+Logisitic Regression Iteration:  1200	Log-Likelihood:   -6.285	abs( Change in Log-Likelihood ):     0.005139
+Logisitic Regression Iteration:  1219	Log-Likelihood:   -6.194	abs( Change in Log-Likelihood ):     0.004994
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate: 0.0675
+*********************************
+---------------------------------
+  Simulation Number: 20
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -197.4	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -48.87	abs( Change in Log-Likelihood ):       0.3133
+Logisitic Regression Iteration:   200	Log-Likelihood:   -30.12	abs( Change in Log-Likelihood ):       0.1148
+Logisitic Regression Iteration:   300	Log-Likelihood:   -21.83	abs( Change in Log-Likelihood ):      0.06031
+Logisitic Regression Iteration:   400	Log-Likelihood:   -17.11	abs( Change in Log-Likelihood ):      0.03723
+Logisitic Regression Iteration:   500	Log-Likelihood:   -14.05	abs( Change in Log-Likelihood ):      0.02526
+Logisitic Regression Iteration:   600	Log-Likelihood:    -11.9	abs( Change in Log-Likelihood ):      0.01824
+Logisitic Regression Iteration:   700	Log-Likelihood:   -10.32	abs( Change in Log-Likelihood ):      0.01378
+Logisitic Regression Iteration:   800	Log-Likelihood:   -9.102	abs( Change in Log-Likelihood ):      0.01077
+Logisitic Regression Iteration:   900	Log-Likelihood:   -8.139	abs( Change in Log-Likelihood ):      0.00864
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -7.357	abs( Change in Log-Likelihood ):     0.007083
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -6.711	abs( Change in Log-Likelihood ):     0.005909
+Logisitic Regression Iteration:  1200	Log-Likelihood:   -6.168	abs( Change in Log-Likelihood ):     0.005003
+Logisitic Regression Iteration:  1202	Log-Likelihood:   -6.163	abs( Change in Log-Likelihood ):     0.004995
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate: 0.0775
+*********************************
+---------------------------------
+  Simulation Number: 21
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -196.6	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -48.61	abs( Change in Log-Likelihood ):       0.3079
+Logisitic Regression Iteration:   200	Log-Likelihood:   -30.05	abs( Change in Log-Likelihood ):       0.1144
+Logisitic Regression Iteration:   300	Log-Likelihood:   -21.76	abs( Change in Log-Likelihood ):      0.06046
+Logisitic Regression Iteration:   400	Log-Likelihood:   -17.02	abs( Change in Log-Likelihood ):      0.03737
+Logisitic Regression Iteration:   500	Log-Likelihood:   -13.95	abs( Change in Log-Likelihood ):      0.02533
+Logisitic Regression Iteration:   600	Log-Likelihood:    -11.8	abs( Change in Log-Likelihood ):      0.01826
+Logisitic Regression Iteration:   700	Log-Likelihood:   -10.22	abs( Change in Log-Likelihood ):      0.01377
+Logisitic Regression Iteration:   800	Log-Likelihood:   -9.004	abs( Change in Log-Likelihood ):      0.01074
+Logisitic Regression Iteration:   900	Log-Likelihood:   -8.043	abs( Change in Log-Likelihood ):     0.008603
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -7.266	abs( Change in Log-Likelihood ):     0.007042
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -6.623	abs( Change in Log-Likelihood ):     0.005867
+Logisitic Regression Iteration:  1197	Log-Likelihood:   -6.104	abs( Change in Log-Likelihood ):     0.004994
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate: 0.0915
+*********************************
+---------------------------------
+  Simulation Number: 22
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -198.6	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -50.07	abs( Change in Log-Likelihood ):       0.3207
+Logisitic Regression Iteration:   200	Log-Likelihood:    -30.9	abs( Change in Log-Likelihood ):       0.1174
+Logisitic Regression Iteration:   300	Log-Likelihood:   -22.42	abs( Change in Log-Likelihood ):       0.0618
+Logisitic Regression Iteration:   400	Log-Likelihood:   -17.57	abs( Change in Log-Likelihood ):      0.03821
+Logisitic Regression Iteration:   500	Log-Likelihood:   -14.43	abs( Change in Log-Likelihood ):      0.02594
+Logisitic Regression Iteration:   600	Log-Likelihood:   -12.23	abs( Change in Log-Likelihood ):      0.01874
+Logisitic Regression Iteration:   700	Log-Likelihood:    -10.6	abs( Change in Log-Likelihood ):      0.01416
+Logisitic Regression Iteration:   800	Log-Likelihood:   -9.353	abs( Change in Log-Likelihood ):      0.01106
+Logisitic Regression Iteration:   900	Log-Likelihood:   -8.363	abs( Change in Log-Likelihood ):     0.008875
+Logisitic Regression Iteration:  1000	Log-Likelihood:    -7.56	abs( Change in Log-Likelihood ):     0.007275
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -6.896	abs( Change in Log-Likelihood ):     0.006069
+Logisitic Regression Iteration:  1200	Log-Likelihood:   -6.338	abs( Change in Log-Likelihood ):     0.005138
+Logisitic Regression Iteration:  1219	Log-Likelihood:   -6.247	abs( Change in Log-Likelihood ):     0.004993
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate: 0.0795
+*********************************
+---------------------------------
+  Simulation Number: 23
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -196.7	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -46.32	abs( Change in Log-Likelihood ):       0.2941
+Logisitic Regression Iteration:   200	Log-Likelihood:   -28.74	abs( Change in Log-Likelihood ):       0.1079
+Logisitic Regression Iteration:   300	Log-Likelihood:   -20.92	abs( Change in Log-Likelihood ):      0.05708
+Logisitic Regression Iteration:   400	Log-Likelihood:   -16.44	abs( Change in Log-Likelihood ):      0.03541
+Logisitic Regression Iteration:   500	Log-Likelihood:   -13.52	abs( Change in Log-Likelihood ):      0.02411
+Logisitic Regression Iteration:   600	Log-Likelihood:   -11.47	abs( Change in Log-Likelihood ):      0.01745
+Logisitic Regression Iteration:   700	Log-Likelihood:   -9.958	abs( Change in Log-Likelihood ):       0.0132
+Logisitic Regression Iteration:   800	Log-Likelihood:   -8.791	abs( Change in Log-Likelihood ):      0.01033
+Logisitic Regression Iteration:   900	Log-Likelihood:   -7.866	abs( Change in Log-Likelihood ):     0.008299
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -7.115	abs( Change in Log-Likelihood ):     0.006809
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -6.494	abs( Change in Log-Likelihood ):     0.005685
+Logisitic Regression Iteration:  1178	Log-Likelihood:   -6.083	abs( Change in Log-Likelihood ):     0.004997
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate:  0.078
+*********************************
+---------------------------------
+  Simulation Number: 24
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -197.2	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -51.03	abs( Change in Log-Likelihood ):       0.3023
+Logisitic Regression Iteration:   200	Log-Likelihood:   -32.66	abs( Change in Log-Likelihood ):        0.115
+Logisitic Regression Iteration:   300	Log-Likelihood:   -24.22	abs( Change in Log-Likelihood ):      0.06254
+Logisitic Regression Iteration:   400	Log-Likelihood:   -19.26	abs( Change in Log-Likelihood ):      0.03967
+Logisitic Regression Iteration:   500	Log-Likelihood:   -15.96	abs( Change in Log-Likelihood ):      0.02747
+Logisitic Regression Iteration:   600	Log-Likelihood:   -13.61	abs( Change in Log-Likelihood ):      0.02015
+Logisitic Regression Iteration:   700	Log-Likelihood:   -11.85	abs( Change in Log-Likelihood ):       0.0154
+Logisitic Regression Iteration:   800	Log-Likelihood:   -10.49	abs( Change in Log-Likelihood ):      0.01214
+Logisitic Regression Iteration:   900	Log-Likelihood:   -9.397	abs( Change in Log-Likelihood ):     0.009809
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -8.508	abs( Change in Log-Likelihood ):     0.008082
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -7.768	abs( Change in Log-Likelihood ):      0.00677
+Logisitic Regression Iteration:  1200	Log-Likelihood:   -7.145	abs( Change in Log-Likelihood ):      0.00575
+Logisitic Regression Iteration:  1293	Log-Likelihood:   -6.652	abs( Change in Log-Likelihood ):        0.005
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate: 0.0795
+*********************************
+---------------------------------
+  Simulation Number: 25
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -197.2	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -52.03	abs( Change in Log-Likelihood ):       0.3173
+Logisitic Regression Iteration:   200	Log-Likelihood:   -32.55	abs( Change in Log-Likelihood ):       0.1223
+Logisitic Regression Iteration:   300	Log-Likelihood:   -23.63	abs( Change in Log-Likelihood ):      0.06553
+Logisitic Regression Iteration:   400	Log-Likelihood:   -18.47	abs( Change in Log-Likelihood ):      0.04075
+Logisitic Regression Iteration:   500	Log-Likelihood:   -15.12	abs( Change in Log-Likelihood ):      0.02768
+Logisitic Regression Iteration:   600	Log-Likelihood:   -12.77	abs( Change in Log-Likelihood ):      0.01997
+Logisitic Regression Iteration:   700	Log-Likelihood:   -11.04	abs( Change in Log-Likelihood ):      0.01505
+Logisitic Regression Iteration:   800	Log-Likelihood:    -9.71	abs( Change in Log-Likelihood ):      0.01173
+Logisitic Regression Iteration:   900	Log-Likelihood:   -8.662	abs( Change in Log-Likelihood ):     0.009385
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -7.814	abs( Change in Log-Likelihood ):     0.007673
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -7.114	abs( Change in Log-Likelihood ):     0.006385
+Logisitic Regression Iteration:  1200	Log-Likelihood:   -6.528	abs( Change in Log-Likelihood ):     0.005393
+Logisitic Regression Iteration:  1249	Log-Likelihood:   -6.279	abs( Change in Log-Likelihood ):     0.004996
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate:  0.082
+*********************************
+---------------------------------
+  Simulation Number: 26
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -197.7	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:    -52.5	abs( Change in Log-Likelihood ):         0.32
+Logisitic Regression Iteration:   200	Log-Likelihood:   -33.05	abs( Change in Log-Likelihood ):       0.1212
+Logisitic Regression Iteration:   300	Log-Likelihood:    -24.2	abs( Change in Log-Likelihood ):      0.06516
+Logisitic Regression Iteration:   400	Log-Likelihood:   -19.06	abs( Change in Log-Likelihood ):      0.04085
+Logisitic Regression Iteration:   500	Log-Likelihood:   -15.68	abs( Change in Log-Likelihood ):      0.02799
+Logisitic Regression Iteration:   600	Log-Likelihood:    -13.3	abs( Change in Log-Likelihood ):      0.02034
+Logisitic Regression Iteration:   700	Log-Likelihood:   -11.53	abs( Change in Log-Likelihood ):      0.01542
+Logisitic Regression Iteration:   800	Log-Likelihood:   -10.17	abs( Change in Log-Likelihood ):      0.01207
+Logisitic Regression Iteration:   900	Log-Likelihood:   -9.086	abs( Change in Log-Likelihood ):     0.009695
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -8.209	abs( Change in Log-Likelihood ):      0.00795
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -7.483	abs( Change in Log-Likelihood ):     0.006633
+Logisitic Regression Iteration:  1200	Log-Likelihood:   -6.874	abs( Change in Log-Likelihood ):     0.005614
+Logisitic Regression Iteration:  1276	Log-Likelihood:   -6.477	abs( Change in Log-Likelihood ):     0.004995
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate: 0.0615
+*********************************
+---------------------------------
+  Simulation Number: 27
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -197.8	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -53.54	abs( Change in Log-Likelihood ):       0.3245
+Logisitic Regression Iteration:   200	Log-Likelihood:   -33.64	abs( Change in Log-Likelihood ):       0.1248
+Logisitic Regression Iteration:   300	Log-Likelihood:   -24.54	abs( Change in Log-Likelihood ):      0.06683
+Logisitic Regression Iteration:   400	Log-Likelihood:   -19.28	abs( Change in Log-Likelihood ):      0.04161
+Logisitic Regression Iteration:   500	Log-Likelihood:   -15.85	abs( Change in Log-Likelihood ):      0.02835
+Logisitic Regression Iteration:   600	Log-Likelihood:   -13.44	abs( Change in Log-Likelihood ):      0.02053
+Logisitic Regression Iteration:   700	Log-Likelihood:   -11.66	abs( Change in Log-Likelihood ):      0.01553
+Logisitic Regression Iteration:   800	Log-Likelihood:   -10.29	abs( Change in Log-Likelihood ):      0.01215
+Logisitic Regression Iteration:   900	Log-Likelihood:     -9.2	abs( Change in Log-Likelihood ):     0.009752
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -8.318	abs( Change in Log-Likelihood ):     0.007998
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -7.588	abs( Change in Log-Likelihood ):     0.006675
+Logisitic Regression Iteration:  1200	Log-Likelihood:   -6.974	abs( Change in Log-Likelihood ):     0.005653
+Logisitic Regression Iteration:  1281	Log-Likelihood:    -6.55	abs( Change in Log-Likelihood ):     0.004994
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate:  0.066
+*********************************
+---------------------------------
+  Simulation Number: 28
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -195.6	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -48.03	abs( Change in Log-Likelihood ):        0.276
+Logisitic Regression Iteration:   200	Log-Likelihood:   -31.08	abs( Change in Log-Likelihood ):       0.1078
+Logisitic Regression Iteration:   300	Log-Likelihood:   -23.09	abs( Change in Log-Likelihood ):      0.05979
+Logisitic Regression Iteration:   400	Log-Likelihood:   -18.32	abs( Change in Log-Likelihood ):      0.03824
+Logisitic Regression Iteration:   500	Log-Likelihood:   -15.14	abs( Change in Log-Likelihood ):      0.02652
+Logisitic Regression Iteration:   600	Log-Likelihood:   -12.88	abs( Change in Log-Likelihood ):      0.01942
+Logisitic Regression Iteration:   700	Log-Likelihood:   -11.18	abs( Change in Log-Likelihood ):      0.01479
+Logisitic Regression Iteration:   800	Log-Likelihood:   -9.875	abs( Change in Log-Likelihood ):      0.01162
+Logisitic Regression Iteration:   900	Log-Likelihood:   -8.833	abs( Change in Log-Likelihood ):     0.009358
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -7.986	abs( Change in Log-Likelihood ):     0.007689
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -7.283	abs( Change in Log-Likelihood ):     0.006424
+Logisitic Regression Iteration:  1200	Log-Likelihood:   -6.692	abs( Change in Log-Likelihood ):     0.005445
+Logisitic Regression Iteration:  1256	Log-Likelihood:   -6.406	abs( Change in Log-Likelihood ):     0.004997
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate:  0.084
+*********************************
+---------------------------------
+  Simulation Number: 29
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -198.5	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -48.27	abs( Change in Log-Likelihood ):       0.3247
+Logisitic Regression Iteration:   200	Log-Likelihood:   -29.08	abs( Change in Log-Likelihood ):       0.1157
+Logisitic Regression Iteration:   300	Log-Likelihood:    -20.8	abs( Change in Log-Likelihood ):      0.05966
+Logisitic Regression Iteration:   400	Log-Likelihood:   -16.16	abs( Change in Log-Likelihood ):      0.03632
+Logisitic Regression Iteration:   500	Log-Likelihood:   -13.19	abs( Change in Log-Likelihood ):      0.02438
+Logisitic Regression Iteration:   600	Log-Likelihood:   -11.13	abs( Change in Log-Likelihood ):      0.01747
+Logisitic Regression Iteration:   700	Log-Likelihood:   -9.616	abs( Change in Log-Likelihood ):      0.01311
+Logisitic Regression Iteration:   800	Log-Likelihood:   -8.461	abs( Change in Log-Likelihood ):      0.01019
+Logisitic Regression Iteration:   900	Log-Likelihood:   -7.552	abs( Change in Log-Likelihood ):     0.008143
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -6.816	abs( Change in Log-Likelihood ):     0.006652
+Logisitic Regression Iteration:  1100	Log-Likelihood:    -6.21	abs( Change in Log-Likelihood ):     0.005533
+Logisitic Regression Iteration:  1161	Log-Likelihood:   -5.895	abs( Change in Log-Likelihood ):     0.004992
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate: 0.0615
+*********************************
+---------------------------------
+  Simulation Number: 30
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -196.5	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -45.65	abs( Change in Log-Likelihood ):       0.2875
+Logisitic Regression Iteration:   200	Log-Likelihood:   -28.45	abs( Change in Log-Likelihood ):       0.1059
+Logisitic Regression Iteration:   300	Log-Likelihood:   -20.76	abs( Change in Log-Likelihood ):      0.05627
+Logisitic Regression Iteration:   400	Log-Likelihood:   -16.34	abs( Change in Log-Likelihood ):      0.03503
+Logisitic Regression Iteration:   500	Log-Likelihood:   -13.45	abs( Change in Log-Likelihood ):      0.02391
+Logisitic Regression Iteration:   600	Log-Likelihood:   -11.41	abs( Change in Log-Likelihood ):      0.01733
+Logisitic Regression Iteration:   700	Log-Likelihood:   -9.908	abs( Change in Log-Likelihood ):      0.01313
+Logisitic Regression Iteration:   800	Log-Likelihood:   -8.747	abs( Change in Log-Likelihood ):      0.01028
+Logisitic Regression Iteration:   900	Log-Likelihood:   -7.826	abs( Change in Log-Likelihood ):     0.008265
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -7.078	abs( Change in Log-Likelihood ):     0.006784
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -6.459	abs( Change in Log-Likelihood ):     0.005665
+Logisitic Regression Iteration:  1176	Log-Likelihood:    -6.06	abs( Change in Log-Likelihood ):     0.004997
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate: 0.0895
+*********************************
+---------------------------------
+  Simulation Number: 31
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -196.3	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:    -51.9	abs( Change in Log-Likelihood ):       0.3113
+Logisitic Regression Iteration:   200	Log-Likelihood:   -32.76	abs( Change in Log-Likelihood ):       0.1204
+Logisitic Regression Iteration:   300	Log-Likelihood:   -23.97	abs( Change in Log-Likelihood ):      0.06476
+Logisitic Regression Iteration:   400	Log-Likelihood:   -18.86	abs( Change in Log-Likelihood ):      0.04046
+Logisitic Regression Iteration:   500	Log-Likelihood:   -15.52	abs( Change in Log-Likelihood ):      0.02763
+Logisitic Regression Iteration:   600	Log-Likelihood:   -13.17	abs( Change in Log-Likelihood ):      0.02004
+Logisitic Regression Iteration:   700	Log-Likelihood:   -11.43	abs( Change in Log-Likelihood ):      0.01518
+Logisitic Regression Iteration:   800	Log-Likelihood:   -10.09	abs( Change in Log-Likelihood ):      0.01188
+Logisitic Regression Iteration:   900	Log-Likelihood:   -9.025	abs( Change in Log-Likelihood ):     0.009549
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -8.161	abs( Change in Log-Likelihood ):     0.007836
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -7.445	abs( Change in Log-Likelihood ):     0.006542
+Logisitic Regression Iteration:  1200	Log-Likelihood:   -6.844	abs( Change in Log-Likelihood ):     0.005542
+Logisitic Regression Iteration:  1268	Log-Likelihood:   -6.491	abs( Change in Log-Likelihood ):     0.004994
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate: 0.0675
+*********************************
+---------------------------------
+  Simulation Number: 32
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -198.1	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -51.74	abs( Change in Log-Likelihood ):       0.3113
+Logisitic Regression Iteration:   200	Log-Likelihood:   -32.89	abs( Change in Log-Likelihood ):       0.1175
+Logisitic Regression Iteration:   300	Log-Likelihood:   -24.29	abs( Change in Log-Likelihood ):      0.06349
+Logisitic Regression Iteration:   400	Log-Likelihood:   -19.26	abs( Change in Log-Likelihood ):      0.04006
+Logisitic Regression Iteration:   500	Log-Likelihood:   -15.94	abs( Change in Log-Likelihood ):      0.02762
+Logisitic Regression Iteration:   600	Log-Likelihood:   -13.59	abs( Change in Log-Likelihood ):      0.02019
+Logisitic Regression Iteration:   700	Log-Likelihood:   -11.83	abs( Change in Log-Likelihood ):      0.01539
+Logisitic Regression Iteration:   800	Log-Likelihood:   -10.46	abs( Change in Log-Likelihood ):      0.01212
+Logisitic Regression Iteration:   900	Log-Likelihood:   -9.374	abs( Change in Log-Likelihood ):     0.009776
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -8.488	abs( Change in Log-Likelihood ):     0.008049
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -7.752	abs( Change in Log-Likelihood ):     0.006738
+Logisitic Regression Iteration:  1200	Log-Likelihood:   -7.132	abs( Change in Log-Likelihood ):     0.005721
+Logisitic Regression Iteration:  1290	Log-Likelihood:   -6.656	abs( Change in Log-Likelihood ):     0.004996
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate: 0.0775
+*********************************
+---------------------------------
+  Simulation Number: 33
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -195.9	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -44.66	abs( Change in Log-Likelihood ):       0.2933
+Logisitic Regression Iteration:   200	Log-Likelihood:   -27.24	abs( Change in Log-Likelihood ):       0.1058
+Logisitic Regression Iteration:   300	Log-Likelihood:   -19.64	abs( Change in Log-Likelihood ):      0.05498
+Logisitic Regression Iteration:   400	Log-Likelihood:   -15.35	abs( Change in Log-Likelihood ):       0.0337
+Logisitic Regression Iteration:   500	Log-Likelihood:   -12.59	abs( Change in Log-Likelihood ):      0.02276
+Logisitic Regression Iteration:   600	Log-Likelihood:   -10.66	abs( Change in Log-Likelihood ):      0.01639
+Logisitic Regression Iteration:   700	Log-Likelihood:   -9.238	abs( Change in Log-Likelihood ):      0.01235
+Logisitic Regression Iteration:   800	Log-Likelihood:   -8.148	abs( Change in Log-Likelihood ):      0.00964
+Logisitic Regression Iteration:   900	Log-Likelihood:   -7.286	abs( Change in Log-Likelihood ):     0.007728
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -6.587	abs( Change in Log-Likelihood ):     0.006332
+Logisitic Regression Iteration:  1100	Log-Likelihood:    -6.01	abs( Change in Log-Likelihood ):     0.005281
+Logisitic Regression Iteration:  1133	Log-Likelihood:   -5.845	abs( Change in Log-Likelihood ):     0.004999
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate: 0.0695
+*********************************
+---------------------------------
+  Simulation Number: 34
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -198.6	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -51.96	abs( Change in Log-Likelihood ):       0.3335
+Logisitic Regression Iteration:   200	Log-Likelihood:   -31.92	abs( Change in Log-Likelihood ):       0.1228
+Logisitic Regression Iteration:   300	Log-Likelihood:   -23.07	abs( Change in Log-Likelihood ):      0.06432
+Logisitic Regression Iteration:   400	Log-Likelihood:   -18.04	abs( Change in Log-Likelihood ):      0.03956
+Logisitic Regression Iteration:   500	Log-Likelihood:   -14.79	abs( Change in Log-Likelihood ):      0.02676
+Logisitic Regression Iteration:   600	Log-Likelihood:   -12.52	abs( Change in Log-Likelihood ):      0.01928
+Logisitic Regression Iteration:   700	Log-Likelihood:   -10.85	abs( Change in Log-Likelihood ):      0.01454
+Logisitic Regression Iteration:   800	Log-Likelihood:   -9.568	abs( Change in Log-Likelihood ):      0.01135
+Logisitic Regression Iteration:   900	Log-Likelihood:   -8.553	abs( Change in Log-Likelihood ):     0.009098
+Logisitic Regression Iteration:  1000	Log-Likelihood:    -7.73	abs( Change in Log-Likelihood ):     0.007452
+Logisitic Regression Iteration:  1100	Log-Likelihood:    -7.05	abs( Change in Log-Likelihood ):     0.006213
+Logisitic Regression Iteration:  1200	Log-Likelihood:   -6.479	abs( Change in Log-Likelihood ):     0.005258
+Logisitic Regression Iteration:  1233	Log-Likelihood:   -6.315	abs( Change in Log-Likelihood ):     0.004999
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate: 0.0705
+*********************************
+---------------------------------
+  Simulation Number: 35
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -197.6	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -53.37	abs( Change in Log-Likelihood ):       0.3221
+Logisitic Regression Iteration:   200	Log-Likelihood:   -33.58	abs( Change in Log-Likelihood ):       0.1244
+Logisitic Regression Iteration:   300	Log-Likelihood:   -24.49	abs( Change in Log-Likelihood ):      0.06699
+Logisitic Regression Iteration:   400	Log-Likelihood:   -19.21	abs( Change in Log-Likelihood ):      0.04182
+Logisitic Regression Iteration:   500	Log-Likelihood:   -15.76	abs( Change in Log-Likelihood ):      0.02851
+Logisitic Regression Iteration:   600	Log-Likelihood:   -13.34	abs( Change in Log-Likelihood ):      0.02062
+Logisitic Regression Iteration:   700	Log-Likelihood:   -11.55	abs( Change in Log-Likelihood ):      0.01558
+Logisitic Regression Iteration:   800	Log-Likelihood:   -10.17	abs( Change in Log-Likelihood ):      0.01217
+Logisitic Regression Iteration:   900	Log-Likelihood:   -9.085	abs( Change in Log-Likelihood ):     0.009751
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -8.203	abs( Change in Log-Likelihood ):     0.007984
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -7.475	abs( Change in Log-Likelihood ):     0.006653
+Logisitic Regression Iteration:  1200	Log-Likelihood:   -6.864	abs( Change in Log-Likelihood ):     0.005626
+Logisitic Regression Iteration:  1277	Log-Likelihood:   -6.461	abs( Change in Log-Likelihood ):     0.004995
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate:  0.079
+*********************************
+---------------------------------
+  Simulation Number: 36
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -196.6	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -50.07	abs( Change in Log-Likelihood ):        0.312
+Logisitic Regression Iteration:   200	Log-Likelihood:   -31.11	abs( Change in Log-Likelihood ):       0.1176
+Logisitic Regression Iteration:   300	Log-Likelihood:   -22.59	abs( Change in Log-Likelihood ):      0.06231
+Logisitic Regression Iteration:   400	Log-Likelihood:    -17.7	abs( Change in Log-Likelihood ):      0.03861
+Logisitic Regression Iteration:   500	Log-Likelihood:   -14.52	abs( Change in Log-Likelihood ):      0.02623
+Logisitic Regression Iteration:   600	Log-Likelihood:   -12.29	abs( Change in Log-Likelihood ):      0.01896
+Logisitic Regression Iteration:   700	Log-Likelihood:   -10.65	abs( Change in Log-Likelihood ):      0.01432
+Logisitic Regression Iteration:   800	Log-Likelihood:   -9.383	abs( Change in Log-Likelihood ):      0.01118
+Logisitic Regression Iteration:   900	Log-Likelihood:   -8.382	abs( Change in Log-Likelihood ):     0.008968
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -7.571	abs( Change in Log-Likelihood ):     0.007346
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -6.901	abs( Change in Log-Likelihood ):     0.006124
+Logisitic Regression Iteration:  1200	Log-Likelihood:   -6.338	abs( Change in Log-Likelihood ):     0.005181
+Logisitic Regression Iteration:  1224	Log-Likelihood:   -6.222	abs( Change in Log-Likelihood ):     0.004995
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate:  0.069
+*********************************
+---------------------------------
+  Simulation Number: 37
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:     -196	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -46.75	abs( Change in Log-Likelihood ):       0.3037
+Logisitic Regression Iteration:   200	Log-Likelihood:   -28.48	abs( Change in Log-Likelihood ):       0.1122
+Logisitic Regression Iteration:   300	Log-Likelihood:   -20.41	abs( Change in Log-Likelihood ):      0.05843
+Logisitic Regression Iteration:   400	Log-Likelihood:   -15.85	abs( Change in Log-Likelihood ):      0.03567
+Logisitic Regression Iteration:   500	Log-Likelihood:   -12.93	abs( Change in Log-Likelihood ):      0.02395
+Logisitic Regression Iteration:   600	Log-Likelihood:   -10.91	abs( Change in Log-Likelihood ):      0.01715
+Logisitic Regression Iteration:   700	Log-Likelihood:   -9.427	abs( Change in Log-Likelihood ):      0.01287
+Logisitic Regression Iteration:   800	Log-Likelihood:   -8.294	abs( Change in Log-Likelihood ):         0.01
+Logisitic Regression Iteration:   900	Log-Likelihood:   -7.401	abs( Change in Log-Likelihood ):      0.00799
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -6.679	abs( Change in Log-Likelihood ):     0.006526
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -6.085	abs( Change in Log-Likelihood ):     0.005428
+Logisitic Regression Iteration:  1149	Log-Likelihood:   -5.835	abs( Change in Log-Likelihood ):     0.004996
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate:  0.073
+*********************************
+---------------------------------
+  Simulation Number: 38
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -194.7	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -42.07	abs( Change in Log-Likelihood ):       0.2779
+Logisitic Regression Iteration:   200	Log-Likelihood:   -25.65	abs( Change in Log-Likelihood ):      0.09924
+Logisitic Regression Iteration:   300	Log-Likelihood:   -18.53	abs( Change in Log-Likelihood ):      0.05159
+Logisitic Regression Iteration:   400	Log-Likelihood:    -14.5	abs( Change in Log-Likelihood ):      0.03167
+Logisitic Regression Iteration:   500	Log-Likelihood:    -11.9	abs( Change in Log-Likelihood ):      0.02141
+Logisitic Regression Iteration:   600	Log-Likelihood:   -10.08	abs( Change in Log-Likelihood ):      0.01544
+Logisitic Regression Iteration:   700	Log-Likelihood:   -8.742	abs( Change in Log-Likelihood ):      0.01165
+Logisitic Regression Iteration:   800	Log-Likelihood:   -7.714	abs( Change in Log-Likelihood ):     0.009095
+Logisitic Regression Iteration:   900	Log-Likelihood:   -6.901	abs( Change in Log-Likelihood ):     0.007296
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -6.241	abs( Change in Log-Likelihood ):      0.00598
+Logisitic Regression Iteration:  1100	Log-Likelihood:     -5.7	abs( Change in Log-Likelihood ):     0.004998
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate:  0.085
+*********************************
+---------------------------------
+  Simulation Number: 39
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -195.6	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -50.36	abs( Change in Log-Likelihood ):       0.3028
+Logisitic Regression Iteration:   200	Log-Likelihood:   -31.83	abs( Change in Log-Likelihood ):       0.1161
+Logisitic Regression Iteration:   300	Log-Likelihood:   -23.34	abs( Change in Log-Likelihood ):      0.06256
+Logisitic Regression Iteration:   400	Log-Likelihood:    -18.4	abs( Change in Log-Likelihood ):      0.03926
+Logisitic Regression Iteration:   500	Log-Likelihood:   -15.15	abs( Change in Log-Likelihood ):      0.02691
+Logisitic Regression Iteration:   600	Log-Likelihood:   -12.86	abs( Change in Log-Likelihood ):      0.01957
+Logisitic Regression Iteration:   700	Log-Likelihood:   -11.16	abs( Change in Log-Likelihood ):      0.01484
+Logisitic Regression Iteration:   800	Log-Likelihood:   -9.847	abs( Change in Log-Likelihood ):      0.01162
+Logisitic Regression Iteration:   900	Log-Likelihood:   -8.806	abs( Change in Log-Likelihood ):     0.009342
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -7.961	abs( Change in Log-Likelihood ):     0.007665
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -7.261	abs( Change in Log-Likelihood ):     0.006398
+Logisitic Regression Iteration:  1200	Log-Likelihood:   -6.673	abs( Change in Log-Likelihood ):     0.005418
+Logisitic Regression Iteration:  1253	Log-Likelihood:   -6.402	abs( Change in Log-Likelihood ):     0.004995
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate: 0.0765
+*********************************
+---------------------------------
+  Simulation Number: 40
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -196.4	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -49.88	abs( Change in Log-Likelihood ):       0.3106
+Logisitic Regression Iteration:   200	Log-Likelihood:   -30.99	abs( Change in Log-Likelihood ):       0.1174
+Logisitic Regression Iteration:   300	Log-Likelihood:   -22.48	abs( Change in Log-Likelihood ):      0.06219
+Logisitic Regression Iteration:   400	Log-Likelihood:   -17.59	abs( Change in Log-Likelihood ):       0.0385
+Logisitic Regression Iteration:   500	Log-Likelihood:   -14.43	abs( Change in Log-Likelihood ):      0.02613
+Logisitic Regression Iteration:   600	Log-Likelihood:   -12.21	abs( Change in Log-Likelihood ):      0.01886
+Logisitic Regression Iteration:   700	Log-Likelihood:   -10.57	abs( Change in Log-Likelihood ):      0.01423
+Logisitic Regression Iteration:   800	Log-Likelihood:   -9.319	abs( Change in Log-Likelihood ):      0.01111
+Logisitic Regression Iteration:   900	Log-Likelihood:   -8.326	abs( Change in Log-Likelihood ):     0.008903
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -7.521	abs( Change in Log-Likelihood ):      0.00729
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -6.856	abs( Change in Log-Likelihood ):     0.006076
+Logisitic Regression Iteration:  1200	Log-Likelihood:   -6.297	abs( Change in Log-Likelihood ):     0.005139
+Logisitic Regression Iteration:  1219	Log-Likelihood:   -6.206	abs( Change in Log-Likelihood ):     0.004994
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate:  0.066
+*********************************
+---------------------------------
+  Simulation Number: 41
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -197.4	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -50.61	abs( Change in Log-Likelihood ):       0.3092
+Logisitic Regression Iteration:   200	Log-Likelihood:   -31.93	abs( Change in Log-Likelihood ):       0.1161
+Logisitic Regression Iteration:   300	Log-Likelihood:   -23.44	abs( Change in Log-Likelihood ):      0.06262
+Logisitic Regression Iteration:   400	Log-Likelihood:   -18.49	abs( Change in Log-Likelihood ):      0.03944
+Logisitic Regression Iteration:   500	Log-Likelihood:   -15.22	abs( Change in Log-Likelihood ):      0.02711
+Logisitic Regression Iteration:   600	Log-Likelihood:   -12.92	abs( Change in Log-Likelihood ):      0.01973
+Logisitic Regression Iteration:   700	Log-Likelihood:    -11.2	abs( Change in Log-Likelihood ):      0.01497
+Logisitic Regression Iteration:   800	Log-Likelihood:   -9.876	abs( Change in Log-Likelihood ):      0.01172
+Logisitic Regression Iteration:   900	Log-Likelihood:   -8.826	abs( Change in Log-Likelihood ):     0.009417
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -7.974	abs( Change in Log-Likelihood ):     0.007722
+Logisitic Regression Iteration:  1100	Log-Likelihood:    -7.27	abs( Change in Log-Likelihood ):     0.006442
+Logisitic Regression Iteration:  1200	Log-Likelihood:   -6.677	abs( Change in Log-Likelihood ):     0.005452
+Logisitic Regression Iteration:  1257	Log-Likelihood:   -6.385	abs( Change in Log-Likelihood ):     0.004993
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate:  0.071
+*********************************
+---------------------------------
+  Simulation Number: 42
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:     -198	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -53.21	abs( Change in Log-Likelihood ):       0.3351
+Logisitic Regression Iteration:   200	Log-Likelihood:   -32.87	abs( Change in Log-Likelihood ):       0.1259
+Logisitic Regression Iteration:   300	Log-Likelihood:   -23.77	abs( Change in Log-Likelihood ):      0.06638
+Logisitic Regression Iteration:   400	Log-Likelihood:   -18.57	abs( Change in Log-Likelihood ):      0.04094
+Logisitic Regression Iteration:   500	Log-Likelihood:    -15.2	abs( Change in Log-Likelihood ):       0.0277
+Logisitic Regression Iteration:   600	Log-Likelihood:   -12.86	abs( Change in Log-Likelihood ):      0.01995
+Logisitic Regression Iteration:   700	Log-Likelihood:   -11.13	abs( Change in Log-Likelihood ):      0.01503
+Logisitic Regression Iteration:   800	Log-Likelihood:   -9.801	abs( Change in Log-Likelihood ):      0.01172
+Logisitic Regression Iteration:   900	Log-Likelihood:   -8.753	abs( Change in Log-Likelihood ):     0.009385
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -7.905	abs( Change in Log-Likelihood ):     0.007679
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -7.205	abs( Change in Log-Likelihood ):     0.006397
+Logisitic Regression Iteration:  1200	Log-Likelihood:   -6.617	abs( Change in Log-Likelihood ):     0.005409
+Logisitic Regression Iteration:  1251	Log-Likelihood:   -6.358	abs( Change in Log-Likelihood ):     0.004998
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate:   0.07
+*********************************
+---------------------------------
+  Simulation Number: 43
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -197.6	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -48.55	abs( Change in Log-Likelihood ):       0.3111
+Logisitic Regression Iteration:   200	Log-Likelihood:   -29.99	abs( Change in Log-Likelihood ):       0.1134
+Logisitic Regression Iteration:   300	Log-Likelihood:    -21.8	abs( Change in Log-Likelihood ):      0.05974
+Logisitic Regression Iteration:   400	Log-Likelihood:   -17.11	abs( Change in Log-Likelihood ):        0.037
+Logisitic Regression Iteration:   500	Log-Likelihood:   -14.06	abs( Change in Log-Likelihood ):      0.02516
+Logisitic Regression Iteration:   600	Log-Likelihood:   -11.93	abs( Change in Log-Likelihood ):      0.01821
+Logisitic Regression Iteration:   700	Log-Likelihood:   -10.34	abs( Change in Log-Likelihood ):      0.01377
+Logisitic Regression Iteration:   800	Log-Likelihood:   -9.127	abs( Change in Log-Likelihood ):      0.01077
+Logisitic Regression Iteration:   900	Log-Likelihood:   -8.163	abs( Change in Log-Likelihood ):      0.00865
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -7.381	abs( Change in Log-Likelihood ):     0.007094
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -6.733	abs( Change in Log-Likelihood ):      0.00592
+Logisitic Regression Iteration:  1200	Log-Likelihood:   -6.189	abs( Change in Log-Likelihood ):     0.005013
+Logisitic Regression Iteration:  1203	Log-Likelihood:   -6.179	abs( Change in Log-Likelihood ):     0.004997
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate: 0.0755
+*********************************
+---------------------------------
+  Simulation Number: 44
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -198.1	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:    -54.5	abs( Change in Log-Likelihood ):       0.3094
+Logisitic Regression Iteration:   200	Log-Likelihood:   -35.39	abs( Change in Log-Likelihood ):       0.1218
+Logisitic Regression Iteration:   300	Log-Likelihood:   -26.37	abs( Change in Log-Likelihood ):      0.06752
+Logisitic Regression Iteration:   400	Log-Likelihood:   -20.98	abs( Change in Log-Likelihood ):      0.04325
+Logisitic Regression Iteration:   500	Log-Likelihood:   -17.38	abs( Change in Log-Likelihood ):      0.03008
+Logisitic Regression Iteration:   600	Log-Likelihood:   -14.81	abs( Change in Log-Likelihood ):      0.02209
+Logisitic Regression Iteration:   700	Log-Likelihood:   -12.88	abs( Change in Log-Likelihood ):      0.01688
+Logisitic Regression Iteration:   800	Log-Likelihood:   -11.38	abs( Change in Log-Likelihood ):      0.01329
+Logisitic Regression Iteration:   900	Log-Likelihood:   -10.19	abs( Change in Log-Likelihood ):      0.01072
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -9.218	abs( Change in Log-Likelihood ):     0.008825
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -8.412	abs( Change in Log-Likelihood ):     0.007384
+Logisitic Regression Iteration:  1200	Log-Likelihood:   -7.732	abs( Change in Log-Likelihood ):     0.006264
+Logisitic Regression Iteration:  1300	Log-Likelihood:   -7.152	abs( Change in Log-Likelihood ):     0.005379
+Logisitic Regression Iteration:  1352	Log-Likelihood:   -6.888	abs( Change in Log-Likelihood ):     0.004997
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate: 0.0695
+*********************************
+---------------------------------
+  Simulation Number: 45
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -197.3	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -49.13	abs( Change in Log-Likelihood ):       0.3169
+Logisitic Regression Iteration:   200	Log-Likelihood:    -30.2	abs( Change in Log-Likelihood ):       0.1155
+Logisitic Regression Iteration:   300	Log-Likelihood:   -21.88	abs( Change in Log-Likelihood ):      0.06046
+Logisitic Regression Iteration:   400	Log-Likelihood:   -17.14	abs( Change in Log-Likelihood ):      0.03728
+Logisitic Regression Iteration:   500	Log-Likelihood:   -14.08	abs( Change in Log-Likelihood ):      0.02527
+Logisitic Regression Iteration:   600	Log-Likelihood:   -11.93	abs( Change in Log-Likelihood ):      0.01825
+Logisitic Regression Iteration:   700	Log-Likelihood:   -10.35	abs( Change in Log-Likelihood ):      0.01378
+Logisitic Regression Iteration:   800	Log-Likelihood:   -9.133	abs( Change in Log-Likelihood ):      0.01077
+Logisitic Regression Iteration:   900	Log-Likelihood:   -8.169	abs( Change in Log-Likelihood ):     0.008643
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -7.387	abs( Change in Log-Likelihood ):     0.007085
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -6.741	abs( Change in Log-Likelihood ):     0.005912
+Logisitic Regression Iteration:  1200	Log-Likelihood:   -6.197	abs( Change in Log-Likelihood ):     0.005006
+Logisitic Regression Iteration:  1202	Log-Likelihood:   -6.192	abs( Change in Log-Likelihood ):     0.004998
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate: 0.0695
+*********************************
+---------------------------------
+  Simulation Number: 46
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -197.1	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:    -49.9	abs( Change in Log-Likelihood ):       0.3171
+Logisitic Regression Iteration:   200	Log-Likelihood:   -30.65	abs( Change in Log-Likelihood ):        0.119
+Logisitic Regression Iteration:   300	Log-Likelihood:   -22.05	abs( Change in Log-Likelihood ):      0.06252
+Logisitic Regression Iteration:   400	Log-Likelihood:   -17.17	abs( Change in Log-Likelihood ):      0.03837
+Logisitic Regression Iteration:   500	Log-Likelihood:   -14.02	abs( Change in Log-Likelihood ):      0.02586
+Logisitic Regression Iteration:   600	Log-Likelihood:   -11.84	abs( Change in Log-Likelihood ):      0.01856
+Logisitic Regression Iteration:   700	Log-Likelihood:   -10.23	abs( Change in Log-Likelihood ):      0.01395
+Logisitic Regression Iteration:   800	Log-Likelihood:       -9	abs( Change in Log-Likelihood ):      0.01085
+Logisitic Regression Iteration:   900	Log-Likelihood:   -8.031	abs( Change in Log-Likelihood ):     0.008672
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -7.248	abs( Change in Log-Likelihood ):     0.007085
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -6.602	abs( Change in Log-Likelihood ):     0.005894
+Logisitic Regression Iteration:  1199	Log-Likelihood:   -6.071	abs( Change in Log-Likelihood ):     0.004995
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate: 0.0745
+*********************************
+---------------------------------
+  Simulation Number: 47
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -195.8	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -48.46	abs( Change in Log-Likelihood ):       0.2973
+Logisitic Regression Iteration:   200	Log-Likelihood:   -30.42	abs( Change in Log-Likelihood ):       0.1124
+Logisitic Regression Iteration:   300	Log-Likelihood:   -22.22	abs( Change in Log-Likelihood ):      0.06021
+Logisitic Regression Iteration:   400	Log-Likelihood:   -17.48	abs( Change in Log-Likelihood ):      0.03757
+Logisitic Regression Iteration:   500	Log-Likelihood:   -14.38	abs( Change in Log-Likelihood ):      0.02565
+Logisitic Regression Iteration:   600	Log-Likelihood:    -12.2	abs( Change in Log-Likelihood ):      0.01859
+Logisitic Regression Iteration:   700	Log-Likelihood:   -10.58	abs( Change in Log-Likelihood ):      0.01407
+Logisitic Regression Iteration:   800	Log-Likelihood:   -9.341	abs( Change in Log-Likelihood ):      0.01101
+Logisitic Regression Iteration:   900	Log-Likelihood:   -8.355	abs( Change in Log-Likelihood ):     0.008846
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -7.554	abs( Change in Log-Likelihood ):     0.007256
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -6.892	abs( Change in Log-Likelihood ):     0.006056
+Logisitic Regression Iteration:  1200	Log-Likelihood:   -6.335	abs( Change in Log-Likelihood ):     0.005129
+Logisitic Regression Iteration:  1218	Log-Likelihood:   -6.249	abs( Change in Log-Likelihood ):     0.004992
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate:  0.076
+*********************************
+---------------------------------
+  Simulation Number: 48
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -197.1	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -49.27	abs( Change in Log-Likelihood ):       0.3063
+Logisitic Regression Iteration:   200	Log-Likelihood:   -30.63	abs( Change in Log-Likelihood ):       0.1161
+Logisitic Regression Iteration:   300	Log-Likelihood:   -22.19	abs( Change in Log-Likelihood ):      0.06176
+Logisitic Regression Iteration:   400	Log-Likelihood:   -17.34	abs( Change in Log-Likelihood ):      0.03822
+Logisitic Regression Iteration:   500	Log-Likelihood:    -14.2	abs( Change in Log-Likelihood ):       0.0259
+Logisitic Regression Iteration:   600	Log-Likelihood:   -12.01	abs( Change in Log-Likelihood ):      0.01866
+Logisitic Regression Iteration:   700	Log-Likelihood:   -10.39	abs( Change in Log-Likelihood ):      0.01406
+Logisitic Regression Iteration:   800	Log-Likelihood:   -9.151	abs( Change in Log-Likelihood ):      0.01096
+Logisitic Regression Iteration:   900	Log-Likelihood:   -8.172	abs( Change in Log-Likelihood ):      0.00877
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -7.379	abs( Change in Log-Likelihood ):     0.007175
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -6.725	abs( Change in Log-Likelihood ):     0.005975
+Logisitic Regression Iteration:  1200	Log-Likelihood:   -6.176	abs( Change in Log-Likelihood ):     0.005051
+Logisitic Regression Iteration:  1208	Log-Likelihood:   -6.141	abs( Change in Log-Likelihood ):     0.004994
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate: 0.0675
+*********************************
+---------------------------------
+  Simulation Number: 49
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -195.9	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -51.64	abs( Change in Log-Likelihood ):       0.2993
+Logisitic Regression Iteration:   200	Log-Likelihood:   -33.18	abs( Change in Log-Likelihood ):        0.117
+Logisitic Regression Iteration:   300	Log-Likelihood:   -24.56	abs( Change in Log-Likelihood ):      0.06397
+Logisitic Regression Iteration:   400	Log-Likelihood:   -19.48	abs( Change in Log-Likelihood ):      0.04054
+Logisitic Regression Iteration:   500	Log-Likelihood:   -16.12	abs( Change in Log-Likelihood ):        0.028
+Logisitic Regression Iteration:   600	Log-Likelihood:   -13.73	abs( Change in Log-Likelihood ):      0.02048
+Logisitic Regression Iteration:   700	Log-Likelihood:   -11.94	abs( Change in Log-Likelihood ):      0.01562
+Logisitic Regression Iteration:   800	Log-Likelihood:   -10.56	abs( Change in Log-Likelihood ):      0.01229
+Logisitic Regression Iteration:   900	Log-Likelihood:   -9.457	abs( Change in Log-Likelihood ):     0.009909
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -8.559	abs( Change in Log-Likelihood ):     0.008155
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -7.813	abs( Change in Log-Likelihood ):     0.006823
+Logisitic Regression Iteration:  1200	Log-Likelihood:   -7.185	abs( Change in Log-Likelihood ):     0.005791
+Logisitic Regression Iteration:  1298	Log-Likelihood:   -6.664	abs( Change in Log-Likelihood ):     0.004995
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate: 0.0755
+*********************************
+---------------------------------
+  Simulation Number: 50
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:     -198	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -50.58	abs( Change in Log-Likelihood ):       0.3091
+Logisitic Regression Iteration:   200	Log-Likelihood:   -31.97	abs( Change in Log-Likelihood ):       0.1154
+Logisitic Regression Iteration:   300	Log-Likelihood:   -23.55	abs( Change in Log-Likelihood ):      0.06208
+Logisitic Regression Iteration:   400	Log-Likelihood:   -18.64	abs( Change in Log-Likelihood ):      0.03907
+Logisitic Regression Iteration:   500	Log-Likelihood:    -15.4	abs( Change in Log-Likelihood ):      0.02688
+Logisitic Regression Iteration:   600	Log-Likelihood:   -13.11	abs( Change in Log-Likelihood ):      0.01961
+Logisitic Regression Iteration:   700	Log-Likelihood:    -11.4	abs( Change in Log-Likelihood ):      0.01492
+Logisitic Regression Iteration:   800	Log-Likelihood:   -10.08	abs( Change in Log-Likelihood ):      0.01173
+Logisitic Regression Iteration:   900	Log-Likelihood:   -9.028	abs( Change in Log-Likelihood ):      0.00945
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -8.172	abs( Change in Log-Likelihood ):     0.007772
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -7.461	abs( Change in Log-Likelihood ):     0.006501
+Logisitic Regression Iteration:  1200	Log-Likelihood:   -6.863	abs( Change in Log-Likelihood ):     0.005516
+Logisitic Regression Iteration:  1265	Log-Likelihood:   -6.527	abs( Change in Log-Likelihood ):     0.004998
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate: 0.0705
+*********************************
+---------------------------------
+  Simulation Number: 51
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -197.3	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:      -49	abs( Change in Log-Likelihood ):       0.3173
+Logisitic Regression Iteration:   200	Log-Likelihood:   -29.95	abs( Change in Log-Likelihood ):       0.1167
+Logisitic Regression Iteration:   300	Log-Likelihood:   -21.55	abs( Change in Log-Likelihood ):      0.06094
+Logisitic Regression Iteration:   400	Log-Likelihood:   -16.79	abs( Change in Log-Likelihood ):      0.03735
+Logisitic Regression Iteration:   500	Log-Likelihood:   -13.73	abs( Change in Log-Likelihood ):      0.02517
+Logisitic Regression Iteration:   600	Log-Likelihood:    -11.6	abs( Change in Log-Likelihood ):      0.01808
+Logisitic Regression Iteration:   700	Log-Likelihood:   -10.03	abs( Change in Log-Likelihood ):       0.0136
+Logisitic Regression Iteration:   800	Log-Likelihood:   -8.832	abs( Change in Log-Likelihood ):      0.01059
+Logisitic Regression Iteration:   900	Log-Likelihood:   -7.886	abs( Change in Log-Likelihood ):     0.008469
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -7.121	abs( Change in Log-Likelihood ):     0.006925
+Logisitic Regression Iteration:  1100	Log-Likelihood:    -6.49	abs( Change in Log-Likelihood ):     0.005765
+Logisitic Regression Iteration:  1186	Log-Likelihood:   -6.034	abs( Change in Log-Likelihood ):     0.004992
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate: 0.0765
+*********************************
+---------------------------------
+  Simulation Number: 52
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -197.1	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -50.89	abs( Change in Log-Likelihood ):       0.3043
+Logisitic Regression Iteration:   200	Log-Likelihood:   -32.34	abs( Change in Log-Likelihood ):       0.1162
+Logisitic Regression Iteration:   300	Log-Likelihood:   -23.84	abs( Change in Log-Likelihood ):      0.06276
+Logisitic Regression Iteration:   400	Log-Likelihood:   -18.87	abs( Change in Log-Likelihood ):      0.03953
+Logisitic Regression Iteration:   500	Log-Likelihood:    -15.6	abs( Change in Log-Likelihood ):       0.0272
+Logisitic Regression Iteration:   600	Log-Likelihood:   -13.28	abs( Change in Log-Likelihood ):      0.01985
+Logisitic Regression Iteration:   700	Log-Likelihood:   -11.55	abs( Change in Log-Likelihood ):      0.01511
+Logisitic Regression Iteration:   800	Log-Likelihood:   -10.21	abs( Change in Log-Likelihood ):      0.01188
+Logisitic Regression Iteration:   900	Log-Likelihood:   -9.146	abs( Change in Log-Likelihood ):     0.009575
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -8.279	abs( Change in Log-Likelihood ):     0.007877
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -7.559	abs( Change in Log-Likelihood ):      0.00659
+Logisitic Regression Iteration:  1200	Log-Likelihood:   -6.952	abs( Change in Log-Likelihood ):     0.005592
+Logisitic Regression Iteration:  1274	Log-Likelihood:   -6.567	abs( Change in Log-Likelihood ):     0.004999
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate: 0.0755
+*********************************
+---------------------------------
+  Simulation Number: 53
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -195.7	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -46.89	abs( Change in Log-Likelihood ):       0.2949
+Logisitic Regression Iteration:   200	Log-Likelihood:   -29.16	abs( Change in Log-Likelihood ):       0.1092
+Logisitic Regression Iteration:   300	Log-Likelihood:   -21.25	abs( Change in Log-Likelihood ):      0.05771
+Logisitic Regression Iteration:   400	Log-Likelihood:   -16.72	abs( Change in Log-Likelihood ):       0.0358
+Logisitic Regression Iteration:   500	Log-Likelihood:   -13.77	abs( Change in Log-Likelihood ):      0.02439
+Logisitic Regression Iteration:   600	Log-Likelihood:    -11.7	abs( Change in Log-Likelihood ):      0.01768
+Logisitic Regression Iteration:   700	Log-Likelihood:   -10.16	abs( Change in Log-Likelihood ):       0.0134
+Logisitic Regression Iteration:   800	Log-Likelihood:   -8.978	abs( Change in Log-Likelihood ):       0.0105
+Logisitic Regression Iteration:   900	Log-Likelihood:   -8.038	abs( Change in Log-Likelihood ):     0.008442
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -7.274	abs( Change in Log-Likelihood ):     0.006934
+Logisitic Regression Iteration:  1100	Log-Likelihood:    -6.64	abs( Change in Log-Likelihood ):     0.005794
+Logisitic Regression Iteration:  1190	Log-Likelihood:   -6.162	abs( Change in Log-Likelihood ):     0.004999
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate: 0.0765
+*********************************
+---------------------------------
+  Simulation Number: 54
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -196.2	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -46.35	abs( Change in Log-Likelihood ):       0.3019
+Logisitic Regression Iteration:   200	Log-Likelihood:    -28.3	abs( Change in Log-Likelihood ):         0.11
+Logisitic Regression Iteration:   300	Log-Likelihood:   -20.41	abs( Change in Log-Likelihood ):        0.057
+Logisitic Regression Iteration:   400	Log-Likelihood:   -15.96	abs( Change in Log-Likelihood ):      0.03488
+Logisitic Regression Iteration:   500	Log-Likelihood:    -13.1	abs( Change in Log-Likelihood ):      0.02354
+Logisitic Regression Iteration:   600	Log-Likelihood:   -11.11	abs( Change in Log-Likelihood ):      0.01696
+Logisitic Regression Iteration:   700	Log-Likelihood:   -9.636	abs( Change in Log-Likelihood ):       0.0128
+Logisitic Regression Iteration:   800	Log-Likelihood:   -8.506	abs( Change in Log-Likelihood ):     0.009994
+Logisitic Regression Iteration:   900	Log-Likelihood:   -7.612	abs( Change in Log-Likelihood ):      0.00802
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -6.886	abs( Change in Log-Likelihood ):     0.006576
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -6.286	abs( Change in Log-Likelihood ):     0.005489
+Logisitic Regression Iteration:  1157	Log-Likelihood:   -5.993	abs( Change in Log-Likelihood ):     0.004994
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate:  0.069
+*********************************
+---------------------------------
+  Simulation Number: 55
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -199.3	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -55.86	abs( Change in Log-Likelihood ):       0.3549
+Logisitic Regression Iteration:   200	Log-Likelihood:   -34.42	abs( Change in Log-Likelihood ):        0.132
+Logisitic Regression Iteration:   300	Log-Likelihood:   -24.89	abs( Change in Log-Likelihood ):      0.06931
+Logisitic Regression Iteration:   400	Log-Likelihood:   -19.47	abs( Change in Log-Likelihood ):      0.04269
+Logisitic Regression Iteration:   500	Log-Likelihood:   -15.96	abs( Change in Log-Likelihood ):      0.02889
+Logisitic Regression Iteration:   600	Log-Likelihood:   -13.51	abs( Change in Log-Likelihood ):      0.02082
+Logisitic Regression Iteration:   700	Log-Likelihood:   -11.71	abs( Change in Log-Likelihood ):       0.0157
+Logisitic Regression Iteration:   800	Log-Likelihood:   -10.32	abs( Change in Log-Likelihood ):      0.01225
+Logisitic Regression Iteration:   900	Log-Likelihood:   -9.225	abs( Change in Log-Likelihood ):     0.009823
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -8.337	abs( Change in Log-Likelihood ):     0.008045
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -7.603	abs( Change in Log-Likelihood ):     0.006707
+Logisitic Regression Iteration:  1200	Log-Likelihood:   -6.987	abs( Change in Log-Likelihood ):     0.005675
+Logisitic Regression Iteration:  1283	Log-Likelihood:   -6.551	abs( Change in Log-Likelihood ):     0.004996
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate:  0.065
+*********************************
+---------------------------------
+  Simulation Number: 56
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -196.8	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -50.19	abs( Change in Log-Likelihood ):       0.3103
+Logisitic Regression Iteration:   200	Log-Likelihood:   -31.38	abs( Change in Log-Likelihood ):       0.1168
+Logisitic Regression Iteration:   300	Log-Likelihood:   -22.88	abs( Change in Log-Likelihood ):      0.06234
+Logisitic Regression Iteration:   400	Log-Likelihood:   -17.97	abs( Change in Log-Likelihood ):      0.03884
+Logisitic Regression Iteration:   500	Log-Likelihood:   -14.77	abs( Change in Log-Likelihood ):      0.02649
+Logisitic Regression Iteration:   600	Log-Likelihood:   -12.52	abs( Change in Log-Likelihood ):      0.01919
+Logisitic Regression Iteration:   700	Log-Likelihood:   -10.85	abs( Change in Log-Likelihood ):      0.01452
+Logisitic Regression Iteration:   800	Log-Likelihood:   -9.568	abs( Change in Log-Likelihood ):      0.01135
+Logisitic Regression Iteration:   900	Log-Likelihood:   -8.552	abs( Change in Log-Likelihood ):     0.009112
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -7.728	abs( Change in Log-Likelihood ):     0.007469
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -7.046	abs( Change in Log-Likelihood ):      0.00623
+Logisitic Regression Iteration:  1200	Log-Likelihood:   -6.474	abs( Change in Log-Likelihood ):     0.005273
+Logisitic Regression Iteration:  1235	Log-Likelihood:   -6.299	abs( Change in Log-Likelihood ):     0.004997
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate: 0.0735
+*********************************
+---------------------------------
+  Simulation Number: 57
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -196.6	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -46.33	abs( Change in Log-Likelihood ):        0.304
+Logisitic Regression Iteration:   200	Log-Likelihood:   -28.16	abs( Change in Log-Likelihood ):       0.1107
+Logisitic Regression Iteration:   300	Log-Likelihood:   -20.22	abs( Change in Log-Likelihood ):      0.05738
+Logisitic Regression Iteration:   400	Log-Likelihood:   -15.75	abs( Change in Log-Likelihood ):      0.03501
+Logisitic Regression Iteration:   500	Log-Likelihood:   -12.88	abs( Change in Log-Likelihood ):      0.02354
+Logisitic Regression Iteration:   600	Log-Likelihood:   -10.89	abs( Change in Log-Likelihood ):      0.01689
+Logisitic Regression Iteration:   700	Log-Likelihood:   -9.427	abs( Change in Log-Likelihood ):       0.0127
+Logisitic Regression Iteration:   800	Log-Likelihood:   -8.307	abs( Change in Log-Likelihood ):     0.009891
+Logisitic Regression Iteration:   900	Log-Likelihood:   -7.423	abs( Change in Log-Likelihood ):     0.007916
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -6.708	abs( Change in Log-Likelihood ):     0.006476
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -6.117	abs( Change in Log-Likelihood ):     0.005395
+Logisitic Regression Iteration:  1146	Log-Likelihood:   -5.884	abs( Change in Log-Likelihood ):     0.004994
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate: 0.0745
+*********************************
+---------------------------------
+  Simulation Number: 58
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -194.7	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -44.05	abs( Change in Log-Likelihood ):       0.2798
+Logisitic Regression Iteration:   200	Log-Likelihood:    -27.3	abs( Change in Log-Likelihood ):       0.1029
+Logisitic Regression Iteration:   300	Log-Likelihood:   -19.84	abs( Change in Log-Likelihood ):      0.05447
+Logisitic Regression Iteration:   400	Log-Likelihood:   -15.57	abs( Change in Log-Likelihood ):      0.03377
+Logisitic Regression Iteration:   500	Log-Likelihood:   -12.79	abs( Change in Log-Likelihood ):      0.02297
+Logisitic Regression Iteration:   600	Log-Likelihood:   -10.84	abs( Change in Log-Likelihood ):      0.01661
+Logisitic Regression Iteration:   700	Log-Likelihood:   -9.394	abs( Change in Log-Likelihood ):      0.01255
+Logisitic Regression Iteration:   800	Log-Likelihood:   -8.286	abs( Change in Log-Likelihood ):     0.009807
+Logisitic Regression Iteration:   900	Log-Likelihood:   -7.409	abs( Change in Log-Likelihood ):     0.007868
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -6.697	abs( Change in Log-Likelihood ):     0.006449
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -6.108	abs( Change in Log-Likelihood ):     0.005379
+Logisitic Regression Iteration:  1144	Log-Likelihood:   -5.886	abs( Change in Log-Likelihood ):     0.004999
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate:   0.07
+*********************************
+---------------------------------
+  Simulation Number: 59
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -196.9	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:    -50.6	abs( Change in Log-Likelihood ):        0.299
+Logisitic Regression Iteration:   200	Log-Likelihood:   -32.32	abs( Change in Log-Likelihood ):       0.1151
+Logisitic Regression Iteration:   300	Log-Likelihood:   -23.86	abs( Change in Log-Likelihood ):      0.06276
+Logisitic Regression Iteration:   400	Log-Likelihood:   -18.88	abs( Change in Log-Likelihood ):      0.03967
+Logisitic Regression Iteration:   500	Log-Likelihood:   -15.59	abs( Change in Log-Likelihood ):      0.02733
+Logisitic Regression Iteration:   600	Log-Likelihood:   -13.26	abs( Change in Log-Likelihood ):      0.01995
+Logisitic Regression Iteration:   700	Log-Likelihood:   -11.52	abs( Change in Log-Likelihood ):      0.01517
+Logisitic Regression Iteration:   800	Log-Likelihood:   -10.18	abs( Change in Log-Likelihood ):      0.01192
+Logisitic Regression Iteration:   900	Log-Likelihood:   -9.111	abs( Change in Log-Likelihood ):     0.009596
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -8.242	abs( Change in Log-Likelihood ):     0.007887
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -7.522	abs( Change in Log-Likelihood ):     0.006593
+Logisitic Regression Iteration:  1200	Log-Likelihood:   -6.915	abs( Change in Log-Likelihood ):      0.00559
+Logisitic Regression Iteration:  1274	Log-Likelihood:    -6.53	abs( Change in Log-Likelihood ):     0.004995
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate:  0.083
+*********************************
+---------------------------------
+  Simulation Number: 60
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -197.6	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -52.29	abs( Change in Log-Likelihood ):       0.3127
+Logisitic Regression Iteration:   200	Log-Likelihood:   -33.07	abs( Change in Log-Likelihood ):       0.1211
+Logisitic Regression Iteration:   300	Log-Likelihood:   -24.21	abs( Change in Log-Likelihood ):      0.06531
+Logisitic Regression Iteration:   400	Log-Likelihood:   -19.06	abs( Change in Log-Likelihood ):      0.04083
+Logisitic Regression Iteration:   500	Log-Likelihood:   -15.69	abs( Change in Log-Likelihood ):      0.02789
+Logisitic Regression Iteration:   600	Log-Likelihood:   -13.32	abs( Change in Log-Likelihood ):      0.02023
+Logisitic Regression Iteration:   700	Log-Likelihood:   -11.56	abs( Change in Log-Likelihood ):      0.01533
+Logisitic Regression Iteration:   800	Log-Likelihood:   -10.21	abs( Change in Log-Likelihood ):        0.012
+Logisitic Regression Iteration:   900	Log-Likelihood:   -9.135	abs( Change in Log-Likelihood ):     0.009647
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -8.262	abs( Change in Log-Likelihood ):     0.007919
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -7.539	abs( Change in Log-Likelihood ):     0.006614
+Logisitic Regression Iteration:  1200	Log-Likelihood:   -6.931	abs( Change in Log-Likelihood ):     0.005604
+Logisitic Regression Iteration:  1275	Log-Likelihood:   -6.539	abs( Change in Log-Likelihood ):     0.004998
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate: 0.0735
+*********************************
+---------------------------------
+  Simulation Number: 61
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -196.1	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -46.96	abs( Change in Log-Likelihood ):       0.2985
+Logisitic Regression Iteration:   200	Log-Likelihood:   -29.12	abs( Change in Log-Likelihood ):       0.1094
+Logisitic Regression Iteration:   300	Log-Likelihood:   -21.21	abs( Change in Log-Likelihood ):      0.05774
+Logisitic Regression Iteration:   400	Log-Likelihood:   -16.67	abs( Change in Log-Likelihood ):      0.03583
+Logisitic Regression Iteration:   500	Log-Likelihood:   -13.72	abs( Change in Log-Likelihood ):      0.02441
+Logisitic Regression Iteration:   600	Log-Likelihood:   -11.65	abs( Change in Log-Likelihood ):      0.01769
+Logisitic Regression Iteration:   700	Log-Likelihood:   -10.11	abs( Change in Log-Likelihood ):       0.0134
+Logisitic Regression Iteration:   800	Log-Likelihood:   -8.923	abs( Change in Log-Likelihood ):      0.01049
+Logisitic Regression Iteration:   900	Log-Likelihood:   -7.983	abs( Change in Log-Likelihood ):     0.008434
+Logisitic Regression Iteration:  1000	Log-Likelihood:    -7.22	abs( Change in Log-Likelihood ):     0.006922
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -6.588	abs( Change in Log-Likelihood ):      0.00578
+Logisitic Regression Iteration:  1189	Log-Likelihood:   -6.115	abs( Change in Log-Likelihood ):     0.004992
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate:  0.072
+*********************************
+---------------------------------
+  Simulation Number: 62
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -195.4	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -46.46	abs( Change in Log-Likelihood ):       0.2967
+Logisitic Regression Iteration:   200	Log-Likelihood:   -28.58	abs( Change in Log-Likelihood ):         0.11
+Logisitic Regression Iteration:   300	Log-Likelihood:   -20.63	abs( Change in Log-Likelihood ):      0.05779
+Logisitic Regression Iteration:   400	Log-Likelihood:   -16.11	abs( Change in Log-Likelihood ):      0.03557
+Logisitic Regression Iteration:   500	Log-Likelihood:   -13.19	abs( Change in Log-Likelihood ):      0.02405
+Logisitic Regression Iteration:   600	Log-Likelihood:   -11.15	abs( Change in Log-Likelihood ):      0.01731
+Logisitic Regression Iteration:   700	Log-Likelihood:   -9.654	abs( Change in Log-Likelihood ):      0.01304
+Logisitic Regression Iteration:   800	Log-Likelihood:   -8.504	abs( Change in Log-Likelihood ):      0.01016
+Logisitic Regression Iteration:   900	Log-Likelihood:   -7.596	abs( Change in Log-Likelihood ):     0.008136
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -6.861	abs( Change in Log-Likelihood ):     0.006657
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -6.254	abs( Change in Log-Likelihood ):     0.005545
+Logisitic Regression Iteration:  1162	Log-Likelihood:   -5.933	abs( Change in Log-Likelihood ):     0.004997
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate:  0.076
+*********************************
+---------------------------------
+  Simulation Number: 63
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:     -194	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -45.03	abs( Change in Log-Likelihood ):       0.2767
+Logisitic Regression Iteration:   200	Log-Likelihood:    -28.3	abs( Change in Log-Likelihood ):        0.104
+Logisitic Regression Iteration:   300	Log-Likelihood:   -20.72	abs( Change in Log-Likelihood ):      0.05571
+Logisitic Regression Iteration:   400	Log-Likelihood:   -16.33	abs( Change in Log-Likelihood ):      0.03483
+Logisitic Regression Iteration:   500	Log-Likelihood:   -13.45	abs( Change in Log-Likelihood ):      0.02382
+Logisitic Regression Iteration:   600	Log-Likelihood:   -11.42	abs( Change in Log-Likelihood ):       0.0173
+Logisitic Regression Iteration:   700	Log-Likelihood:    -9.92	abs( Change in Log-Likelihood ):      0.01312
+Logisitic Regression Iteration:   800	Log-Likelihood:    -8.76	abs( Change in Log-Likelihood ):      0.01028
+Logisitic Regression Iteration:   900	Log-Likelihood:   -7.839	abs( Change in Log-Likelihood ):     0.008267
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -7.091	abs( Change in Log-Likelihood ):     0.006787
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -6.471	abs( Change in Log-Likelihood ):     0.005669
+Logisitic Regression Iteration:  1177	Log-Likelihood:   -6.067	abs( Change in Log-Likelihood ):     0.004993
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate: 0.0865
+*********************************
+---------------------------------
+  Simulation Number: 64
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:     -195	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -46.15	abs( Change in Log-Likelihood ):       0.2858
+Logisitic Regression Iteration:   200	Log-Likelihood:   -28.85	abs( Change in Log-Likelihood ):       0.1077
+Logisitic Regression Iteration:   300	Log-Likelihood:      -21	abs( Change in Log-Likelihood ):      0.05769
+Logisitic Regression Iteration:   400	Log-Likelihood:   -16.45	abs( Change in Log-Likelihood ):      0.03597
+Logisitic Regression Iteration:   500	Log-Likelihood:   -13.49	abs( Change in Log-Likelihood ):      0.02449
+Logisitic Regression Iteration:   600	Log-Likelihood:   -11.41	abs( Change in Log-Likelihood ):       0.0177
+Logisitic Regression Iteration:   700	Log-Likelihood:   -9.875	abs( Change in Log-Likelihood ):      0.01336
+Logisitic Regression Iteration:   800	Log-Likelihood:   -8.696	abs( Change in Log-Likelihood ):      0.01042
+Logisitic Regression Iteration:   900	Log-Likelihood:   -7.765	abs( Change in Log-Likelihood ):     0.008348
+Logisitic Regression Iteration:  1000	Log-Likelihood:    -7.01	abs( Change in Log-Likelihood ):     0.006831
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -6.387	abs( Change in Log-Likelihood ):     0.005689
+Logisitic Regression Iteration:  1178	Log-Likelihood:   -5.977	abs( Change in Log-Likelihood ):     0.004992
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate: 0.0695
+*********************************
+---------------------------------
+  Simulation Number: 65
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -196.4	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -46.09	abs( Change in Log-Likelihood ):       0.2922
+Logisitic Regression Iteration:   200	Log-Likelihood:   -28.55	abs( Change in Log-Likelihood ):        0.108
+Logisitic Regression Iteration:   300	Log-Likelihood:   -20.73	abs( Change in Log-Likelihood ):      0.05707
+Logisitic Regression Iteration:   400	Log-Likelihood:   -16.25	abs( Change in Log-Likelihood ):      0.03536
+Logisitic Regression Iteration:   500	Log-Likelihood:   -13.34	abs( Change in Log-Likelihood ):      0.02403
+Logisitic Regression Iteration:   600	Log-Likelihood:    -11.3	abs( Change in Log-Likelihood ):      0.01737
+Logisitic Regression Iteration:   700	Log-Likelihood:   -9.791	abs( Change in Log-Likelihood ):      0.01312
+Logisitic Regression Iteration:   800	Log-Likelihood:   -8.633	abs( Change in Log-Likelihood ):      0.01025
+Logisitic Regression Iteration:   900	Log-Likelihood:   -7.715	abs( Change in Log-Likelihood ):     0.008225
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -6.972	abs( Change in Log-Likelihood ):     0.006739
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -6.357	abs( Change in Log-Likelihood ):      0.00562
+Logisitic Regression Iteration:  1171	Log-Likelihood:   -5.986	abs( Change in Log-Likelihood ):     0.004993
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate:  0.085
+*********************************
+---------------------------------
+  Simulation Number: 66
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -197.9	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:    -54.2	abs( Change in Log-Likelihood ):       0.3336
+Logisitic Regression Iteration:   200	Log-Likelihood:   -33.75	abs( Change in Log-Likelihood ):        0.128
+Logisitic Regression Iteration:   300	Log-Likelihood:   -24.44	abs( Change in Log-Likelihood ):       0.0682
+Logisitic Regression Iteration:   400	Log-Likelihood:   -19.08	abs( Change in Log-Likelihood ):      0.04225
+Logisitic Regression Iteration:   500	Log-Likelihood:   -15.61	abs( Change in Log-Likelihood ):      0.02863
+Logisitic Regression Iteration:   600	Log-Likelihood:   -13.18	abs( Change in Log-Likelihood ):      0.02062
+Logisitic Regression Iteration:   700	Log-Likelihood:   -11.39	abs( Change in Log-Likelihood ):      0.01552
+Logisitic Regression Iteration:   800	Log-Likelihood:   -10.03	abs( Change in Log-Likelihood ):      0.01208
+Logisitic Regression Iteration:   900	Log-Likelihood:   -8.947	abs( Change in Log-Likelihood ):     0.009665
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -8.074	abs( Change in Log-Likelihood ):     0.007899
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -7.354	abs( Change in Log-Likelihood ):     0.006573
+Logisitic Regression Iteration:  1200	Log-Likelihood:   -6.751	abs( Change in Log-Likelihood ):     0.005552
+Logisitic Regression Iteration:  1268	Log-Likelihood:   -6.398	abs( Change in Log-Likelihood ):     0.004994
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate: 0.0615
+*********************************
+---------------------------------
+  Simulation Number: 67
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -197.8	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:    -53.5	abs( Change in Log-Likelihood ):       0.3322
+Logisitic Regression Iteration:   200	Log-Likelihood:   -33.16	abs( Change in Log-Likelihood ):       0.1268
+Logisitic Regression Iteration:   300	Log-Likelihood:   -23.97	abs( Change in Log-Likelihood ):      0.06696
+Logisitic Regression Iteration:   400	Log-Likelihood:   -18.73	abs( Change in Log-Likelihood ):      0.04125
+Logisitic Regression Iteration:   500	Log-Likelihood:   -15.34	abs( Change in Log-Likelihood ):       0.0279
+Logisitic Regression Iteration:   600	Log-Likelihood:   -12.98	abs( Change in Log-Likelihood ):       0.0201
+Logisitic Regression Iteration:   700	Log-Likelihood:   -11.23	abs( Change in Log-Likelihood ):      0.01515
+Logisitic Regression Iteration:   800	Log-Likelihood:   -9.899	abs( Change in Log-Likelihood ):      0.01181
+Logisitic Regression Iteration:   900	Log-Likelihood:   -8.842	abs( Change in Log-Likelihood ):     0.009462
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -7.987	abs( Change in Log-Likelihood ):     0.007746
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -7.281	abs( Change in Log-Likelihood ):     0.006454
+Logisitic Regression Iteration:  1200	Log-Likelihood:   -6.688	abs( Change in Log-Likelihood ):     0.005459
+Logisitic Regression Iteration:  1257	Log-Likelihood:   -6.395	abs( Change in Log-Likelihood ):     0.004998
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate: 0.0685
+*********************************
+---------------------------------
+  Simulation Number: 68
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:     -197	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -47.23	abs( Change in Log-Likelihood ):       0.2992
+Logisitic Regression Iteration:   200	Log-Likelihood:   -29.37	abs( Change in Log-Likelihood ):       0.1096
+Logisitic Regression Iteration:   300	Log-Likelihood:   -21.42	abs( Change in Log-Likelihood ):      0.05817
+Logisitic Regression Iteration:   400	Log-Likelihood:   -16.85	abs( Change in Log-Likelihood ):       0.0362
+Logisitic Regression Iteration:   500	Log-Likelihood:   -13.86	abs( Change in Log-Likelihood ):      0.02469
+Logisitic Regression Iteration:   600	Log-Likelihood:   -11.76	abs( Change in Log-Likelihood ):      0.01789
+Logisitic Regression Iteration:   700	Log-Likelihood:   -10.21	abs( Change in Log-Likelihood ):      0.01355
+Logisitic Regression Iteration:   800	Log-Likelihood:   -9.013	abs( Change in Log-Likelihood ):       0.0106
+Logisitic Regression Iteration:   900	Log-Likelihood:   -8.064	abs( Change in Log-Likelihood ):     0.008517
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -7.293	abs( Change in Log-Likelihood ):     0.006988
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -6.655	abs( Change in Log-Likelihood ):     0.005834
+Logisitic Regression Iteration:  1194	Log-Likelihood:   -6.153	abs( Change in Log-Likelihood ):     0.004998
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate:  0.083
+*********************************
+---------------------------------
+  Simulation Number: 69
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -195.7	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:      -48	abs( Change in Log-Likelihood ):       0.3091
+Logisitic Regression Iteration:   200	Log-Likelihood:   -29.47	abs( Change in Log-Likelihood ):       0.1136
+Logisitic Regression Iteration:   300	Log-Likelihood:   -21.27	abs( Change in Log-Likelihood ):      0.05962
+Logisitic Regression Iteration:   400	Log-Likelihood:    -16.6	abs( Change in Log-Likelihood ):      0.03668
+Logisitic Regression Iteration:   500	Log-Likelihood:   -13.59	abs( Change in Log-Likelihood ):      0.02478
+Logisitic Regression Iteration:   600	Log-Likelihood:    -11.5	abs( Change in Log-Likelihood ):      0.01784
+Logisitic Regression Iteration:   700	Log-Likelihood:    -9.95	abs( Change in Log-Likelihood ):      0.01343
+Logisitic Regression Iteration:   800	Log-Likelihood:   -8.765	abs( Change in Log-Likelihood ):      0.01047
+Logisitic Regression Iteration:   900	Log-Likelihood:    -7.83	abs( Change in Log-Likelihood ):      0.00838
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -7.072	abs( Change in Log-Likelihood ):     0.006857
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -6.447	abs( Change in Log-Likelihood ):     0.005712
+Logisitic Regression Iteration:  1180	Log-Likelihood:   -6.025	abs( Change in Log-Likelihood ):     0.004997
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate: 0.0735
+*********************************
+---------------------------------
+  Simulation Number: 70
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -199.1	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -50.83	abs( Change in Log-Likelihood ):       0.3302
+Logisitic Regression Iteration:   200	Log-Likelihood:   -31.09	abs( Change in Log-Likelihood ):       0.1206
+Logisitic Regression Iteration:   300	Log-Likelihood:    -22.4	abs( Change in Log-Likelihood ):      0.06311
+Logisitic Regression Iteration:   400	Log-Likelihood:   -17.47	abs( Change in Log-Likelihood ):      0.03876
+Logisitic Regression Iteration:   500	Log-Likelihood:   -14.29	abs( Change in Log-Likelihood ):      0.02616
+Logisitic Regression Iteration:   600	Log-Likelihood:   -12.07	abs( Change in Log-Likelihood ):      0.01881
+Logisitic Regression Iteration:   700	Log-Likelihood:   -10.44	abs( Change in Log-Likelihood ):      0.01415
+Logisitic Regression Iteration:   800	Log-Likelihood:   -9.197	abs( Change in Log-Likelihood ):      0.01102
+Logisitic Regression Iteration:   900	Log-Likelihood:   -8.212	abs( Change in Log-Likelihood ):     0.008818
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -7.416	abs( Change in Log-Likelihood ):     0.007212
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -6.758	abs( Change in Log-Likelihood ):     0.006004
+Logisitic Regression Iteration:  1200	Log-Likelihood:   -6.207	abs( Change in Log-Likelihood ):     0.005075
+Logisitic Regression Iteration:  1211	Log-Likelihood:   -6.156	abs( Change in Log-Likelihood ):     0.004994
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate:  0.063
+*********************************
+---------------------------------
+  Simulation Number: 71
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -196.6	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:      -47	abs( Change in Log-Likelihood ):       0.2948
+Logisitic Regression Iteration:   200	Log-Likelihood:   -29.37	abs( Change in Log-Likelihood ):       0.1083
+Logisitic Regression Iteration:   300	Log-Likelihood:   -21.51	abs( Change in Log-Likelihood ):      0.05763
+Logisitic Regression Iteration:   400	Log-Likelihood:   -16.97	abs( Change in Log-Likelihood ):      0.03603
+Logisitic Regression Iteration:   500	Log-Likelihood:   -13.99	abs( Change in Log-Likelihood ):      0.02468
+Logisitic Regression Iteration:   600	Log-Likelihood:   -11.89	abs( Change in Log-Likelihood ):      0.01795
+Logisitic Regression Iteration:   700	Log-Likelihood:   -10.33	abs( Change in Log-Likelihood ):      0.01363
+Logisitic Regression Iteration:   800	Log-Likelihood:   -9.121	abs( Change in Log-Likelihood ):      0.01069
+Logisitic Regression Iteration:   900	Log-Likelihood:   -8.163	abs( Change in Log-Likelihood ):       0.0086
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -7.384	abs( Change in Log-Likelihood ):     0.007064
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -6.739	abs( Change in Log-Likelihood ):     0.005902
+Logisitic Regression Iteration:  1200	Log-Likelihood:   -6.196	abs( Change in Log-Likelihood ):     0.005003
+Logisitic Regression Iteration:  1202	Log-Likelihood:   -6.191	abs( Change in Log-Likelihood ):     0.004995
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate:  0.085
+*********************************
+---------------------------------
+  Simulation Number: 72
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -198.5	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -55.43	abs( Change in Log-Likelihood ):       0.3298
+Logisitic Regression Iteration:   200	Log-Likelihood:   -35.17	abs( Change in Log-Likelihood ):       0.1277
+Logisitic Regression Iteration:   300	Log-Likelihood:   -25.82	abs( Change in Log-Likelihood ):      0.06904
+Logisitic Regression Iteration:   400	Log-Likelihood:   -20.36	abs( Change in Log-Likelihood ):      0.04333
+Logisitic Regression Iteration:   500	Log-Likelihood:   -16.78	abs( Change in Log-Likelihood ):      0.02969
+Logisitic Regression Iteration:   600	Log-Likelihood:   -14.25	abs( Change in Log-Likelihood ):      0.02159
+Logisitic Regression Iteration:   700	Log-Likelihood:   -12.37	abs( Change in Log-Likelihood ):      0.01638
+Logisitic Regression Iteration:   800	Log-Likelihood:   -10.93	abs( Change in Log-Likelihood ):      0.01284
+Logisitic Regression Iteration:   900	Log-Likelihood:   -9.776	abs( Change in Log-Likelihood ):      0.01032
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -8.841	abs( Change in Log-Likelihood ):     0.008476
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -8.067	abs( Change in Log-Likelihood ):      0.00708
+Logisitic Regression Iteration:  1200	Log-Likelihood:   -7.416	abs( Change in Log-Likelihood ):        0.006
+Logisitic Regression Iteration:  1300	Log-Likelihood:   -6.861	abs( Change in Log-Likelihood ):     0.005148
+Logisitic Regression Iteration:  1321	Log-Likelihood:   -6.759	abs( Change in Log-Likelihood ):     0.004999
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate: 0.0685
+*********************************
+---------------------------------
+  Simulation Number: 73
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -197.6	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -48.34	abs( Change in Log-Likelihood ):        0.319
+Logisitic Regression Iteration:   200	Log-Likelihood:    -29.3	abs( Change in Log-Likelihood ):       0.1157
+Logisitic Regression Iteration:   300	Log-Likelihood:      -21	abs( Change in Log-Likelihood ):      0.05992
+Logisitic Regression Iteration:   400	Log-Likelihood:   -16.33	abs( Change in Log-Likelihood ):      0.03656
+Logisitic Regression Iteration:   500	Log-Likelihood:   -13.34	abs( Change in Log-Likelihood ):      0.02457
+Logisitic Regression Iteration:   600	Log-Likelihood:   -11.27	abs( Change in Log-Likelihood ):      0.01762
+Logisitic Regression Iteration:   700	Log-Likelihood:   -9.741	abs( Change in Log-Likelihood ):      0.01324
+Logisitic Regression Iteration:   800	Log-Likelihood:   -8.575	abs( Change in Log-Likelihood ):       0.0103
+Logisitic Regression Iteration:   900	Log-Likelihood:   -7.655	abs( Change in Log-Likelihood ):     0.008233
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -6.911	abs( Change in Log-Likelihood ):     0.006729
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -6.298	abs( Change in Log-Likelihood ):     0.005601
+Logisitic Regression Iteration:  1168	Log-Likelihood:   -5.944	abs( Change in Log-Likelihood ):     0.004995
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate: 0.0835
+*********************************
+---------------------------------
+  Simulation Number: 74
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -196.5	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -48.47	abs( Change in Log-Likelihood ):       0.3029
+Logisitic Regression Iteration:   200	Log-Likelihood:   -30.16	abs( Change in Log-Likelihood ):       0.1134
+Logisitic Regression Iteration:   300	Log-Likelihood:   -21.94	abs( Change in Log-Likelihood ):      0.06009
+Logisitic Regression Iteration:   400	Log-Likelihood:   -17.22	abs( Change in Log-Likelihood ):      0.03723
+Logisitic Regression Iteration:   500	Log-Likelihood:   -14.16	abs( Change in Log-Likelihood ):      0.02531
+Logisitic Regression Iteration:   600	Log-Likelihood:   -12.01	abs( Change in Log-Likelihood ):       0.0183
+Logisitic Regression Iteration:   700	Log-Likelihood:   -10.42	abs( Change in Log-Likelihood ):      0.01384
+Logisitic Regression Iteration:   800	Log-Likelihood:   -9.197	abs( Change in Log-Likelihood ):      0.01082
+Logisitic Regression Iteration:   900	Log-Likelihood:   -8.228	abs( Change in Log-Likelihood ):     0.008688
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -7.442	abs( Change in Log-Likelihood ):     0.007126
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -6.791	abs( Change in Log-Likelihood ):     0.005949
+Logisitic Regression Iteration:  1200	Log-Likelihood:   -6.244	abs( Change in Log-Likelihood ):     0.005039
+Logisitic Regression Iteration:  1206	Log-Likelihood:   -6.219	abs( Change in Log-Likelihood ):     0.004999
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate:  0.076
+*********************************
+---------------------------------
+  Simulation Number: 75
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -197.3	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -51.61	abs( Change in Log-Likelihood ):       0.3091
+Logisitic Regression Iteration:   200	Log-Likelihood:   -32.67	abs( Change in Log-Likelihood ):       0.1192
+Logisitic Regression Iteration:   300	Log-Likelihood:   -23.95	abs( Change in Log-Likelihood ):      0.06447
+Logisitic Regression Iteration:   400	Log-Likelihood:   -18.85	abs( Change in Log-Likelihood ):      0.04046
+Logisitic Regression Iteration:   500	Log-Likelihood:   -15.51	abs( Change in Log-Likelihood ):       0.0277
+Logisitic Regression Iteration:   600	Log-Likelihood:   -13.15	abs( Change in Log-Likelihood ):      0.02011
+Logisitic Regression Iteration:   700	Log-Likelihood:    -11.4	abs( Change in Log-Likelihood ):      0.01523
+Logisitic Regression Iteration:   800	Log-Likelihood:   -10.06	abs( Change in Log-Likelihood ):      0.01192
+Logisitic Regression Iteration:   900	Log-Likelihood:   -8.991	abs( Change in Log-Likelihood ):     0.009574
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -8.125	abs( Change in Log-Likelihood ):     0.007851
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -7.408	abs( Change in Log-Likelihood ):      0.00655
+Logisitic Regression Iteration:  1200	Log-Likelihood:   -6.806	abs( Change in Log-Likelihood ):     0.005545
+Logisitic Regression Iteration:  1268	Log-Likelihood:   -6.454	abs( Change in Log-Likelihood ):     0.004994
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate:   0.08
+*********************************
+---------------------------------
+  Simulation Number: 76
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -197.1	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -48.77	abs( Change in Log-Likelihood ):       0.3157
+Logisitic Regression Iteration:   200	Log-Likelihood:   -29.92	abs( Change in Log-Likelihood ):        0.115
+Logisitic Regression Iteration:   300	Log-Likelihood:   -21.63	abs( Change in Log-Likelihood ):      0.06023
+Logisitic Regression Iteration:   400	Log-Likelihood:   -16.91	abs( Change in Log-Likelihood ):      0.03712
+Logisitic Regression Iteration:   500	Log-Likelihood:   -13.86	abs( Change in Log-Likelihood ):      0.02514
+Logisitic Regression Iteration:   600	Log-Likelihood:   -11.73	abs( Change in Log-Likelihood ):      0.01813
+Logisitic Regression Iteration:   700	Log-Likelihood:   -10.16	abs( Change in Log-Likelihood ):      0.01368
+Logisitic Regression Iteration:   800	Log-Likelihood:   -8.951	abs( Change in Log-Likelihood ):      0.01067
+Logisitic Regression Iteration:   900	Log-Likelihood:   -7.997	abs( Change in Log-Likelihood ):      0.00855
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -7.224	abs( Change in Log-Likelihood ):     0.007001
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -6.585	abs( Change in Log-Likelihood ):     0.005834
+Logisitic Regression Iteration:  1193	Log-Likelihood:   -6.089	abs( Change in Log-Likelihood ):     0.004999
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate: 0.0665
+*********************************
+---------------------------------
+  Simulation Number: 77
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -196.2	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -49.97	abs( Change in Log-Likelihood ):       0.2984
+Logisitic Regression Iteration:   200	Log-Likelihood:   -31.81	abs( Change in Log-Likelihood ):       0.1136
+Logisitic Regression Iteration:   300	Log-Likelihood:   -23.49	abs( Change in Log-Likelihood ):      0.06158
+Logisitic Regression Iteration:   400	Log-Likelihood:    -18.6	abs( Change in Log-Likelihood ):      0.03901
+Logisitic Regression Iteration:   500	Log-Likelihood:   -15.36	abs( Change in Log-Likelihood ):      0.02697
+Logisitic Regression Iteration:   600	Log-Likelihood:   -13.06	abs( Change in Log-Likelihood ):      0.01973
+Logisitic Regression Iteration:   700	Log-Likelihood:   -11.34	abs( Change in Log-Likelihood ):      0.01503
+Logisitic Regression Iteration:   800	Log-Likelihood:   -10.01	abs( Change in Log-Likelihood ):      0.01181
+Logisitic Regression Iteration:   900	Log-Likelihood:   -8.949	abs( Change in Log-Likelihood ):     0.009508
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -8.088	abs( Change in Log-Likelihood ):      0.00781
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -7.375	abs( Change in Log-Likelihood ):     0.006523
+Logisitic Regression Iteration:  1200	Log-Likelihood:   -6.775	abs( Change in Log-Likelihood ):     0.005526
+Logisitic Regression Iteration:  1266	Log-Likelihood:   -6.433	abs( Change in Log-Likelihood ):     0.004994
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate:   0.07
+*********************************
+---------------------------------
+  Simulation Number: 78
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -197.5	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -47.73	abs( Change in Log-Likelihood ):       0.3148
+Logisitic Regression Iteration:   200	Log-Likelihood:   -28.99	abs( Change in Log-Likelihood ):       0.1138
+Logisitic Regression Iteration:   300	Log-Likelihood:   -20.83	abs( Change in Log-Likelihood ):      0.05908
+Logisitic Regression Iteration:   400	Log-Likelihood:   -16.22	abs( Change in Log-Likelihood ):      0.03615
+Logisitic Regression Iteration:   500	Log-Likelihood:   -13.26	abs( Change in Log-Likelihood ):      0.02435
+Logisitic Regression Iteration:   600	Log-Likelihood:    -11.2	abs( Change in Log-Likelihood ):      0.01748
+Logisitic Regression Iteration:   700	Log-Likelihood:   -9.682	abs( Change in Log-Likelihood ):      0.01314
+Logisitic Regression Iteration:   800	Log-Likelihood:   -8.524	abs( Change in Log-Likelihood ):      0.01023
+Logisitic Regression Iteration:   900	Log-Likelihood:   -7.611	abs( Change in Log-Likelihood ):      0.00818
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -6.872	abs( Change in Log-Likelihood ):     0.006688
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -6.262	abs( Change in Log-Likelihood ):     0.005567
+Logisitic Regression Iteration:  1164	Log-Likelihood:    -5.93	abs( Change in Log-Likelihood ):     0.004998
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate: 0.0705
+*********************************
+---------------------------------
+  Simulation Number: 79
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -197.4	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -51.49	abs( Change in Log-Likelihood ):       0.3092
+Logisitic Regression Iteration:   200	Log-Likelihood:   -32.62	abs( Change in Log-Likelihood ):       0.1183
+Logisitic Regression Iteration:   300	Log-Likelihood:   -23.95	abs( Change in Log-Likelihood ):      0.06405
+Logisitic Regression Iteration:   400	Log-Likelihood:   -18.88	abs( Change in Log-Likelihood ):      0.04029
+Logisitic Regression Iteration:   500	Log-Likelihood:   -15.55	abs( Change in Log-Likelihood ):      0.02765
+Logisitic Regression Iteration:   600	Log-Likelihood:   -13.19	abs( Change in Log-Likelihood ):      0.02011
+Logisitic Regression Iteration:   700	Log-Likelihood:   -11.44	abs( Change in Log-Likelihood ):      0.01525
+Logisitic Regression Iteration:   800	Log-Likelihood:    -10.1	abs( Change in Log-Likelihood ):      0.01195
+Logisitic Regression Iteration:   900	Log-Likelihood:   -9.027	abs( Change in Log-Likelihood ):     0.009599
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -8.158	abs( Change in Log-Likelihood ):     0.007874
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -7.439	abs( Change in Log-Likelihood ):     0.006571
+Logisitic Regression Iteration:  1200	Log-Likelihood:   -6.835	abs( Change in Log-Likelihood ):     0.005564
+Logisitic Regression Iteration:  1270	Log-Likelihood:   -6.472	abs( Change in Log-Likelihood ):     0.004997
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate: 0.0665
+*********************************
+---------------------------------
+  Simulation Number: 80
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -196.9	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -53.09	abs( Change in Log-Likelihood ):       0.3108
+Logisitic Regression Iteration:   200	Log-Likelihood:   -34.01	abs( Change in Log-Likelihood ):       0.1203
+Logisitic Regression Iteration:   300	Log-Likelihood:   -25.18	abs( Change in Log-Likelihood ):      0.06547
+Logisitic Regression Iteration:   400	Log-Likelihood:   -19.98	abs( Change in Log-Likelihood ):      0.04151
+Logisitic Regression Iteration:   500	Log-Likelihood:   -16.53	abs( Change in Log-Likelihood ):      0.02871
+Logisitic Regression Iteration:   600	Log-Likelihood:   -14.08	abs( Change in Log-Likelihood ):      0.02102
+Logisitic Regression Iteration:   700	Log-Likelihood:   -12.24	abs( Change in Log-Likelihood ):      0.01604
+Logisitic Regression Iteration:   800	Log-Likelihood:   -10.82	abs( Change in Log-Likelihood ):      0.01262
+Logisitic Regression Iteration:   900	Log-Likelihood:    -9.69	abs( Change in Log-Likelihood ):      0.01018
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -8.768	abs( Change in Log-Likelihood ):     0.008377
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -8.002	abs( Change in Log-Likelihood ):     0.007008
+Logisitic Regression Iteration:  1200	Log-Likelihood:   -7.357	abs( Change in Log-Likelihood ):     0.005946
+Logisitic Regression Iteration:  1300	Log-Likelihood:   -6.806	abs( Change in Log-Likelihood ):     0.005106
+Logisitic Regression Iteration:  1316	Log-Likelihood:   -6.731	abs( Change in Log-Likelihood ):     0.004995
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate:  0.066
+*********************************
+---------------------------------
+  Simulation Number: 81
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -196.8	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -49.31	abs( Change in Log-Likelihood ):       0.2995
+Logisitic Regression Iteration:   200	Log-Likelihood:   -31.05	abs( Change in Log-Likelihood ):       0.1141
+Logisitic Regression Iteration:   300	Log-Likelihood:   -22.73	abs( Change in Log-Likelihood ):      0.06125
+Logisitic Regression Iteration:   400	Log-Likelihood:    -17.9	abs( Change in Log-Likelihood ):      0.03837
+Logisitic Regression Iteration:   500	Log-Likelihood:   -14.73	abs( Change in Log-Likelihood ):      0.02629
+Logisitic Regression Iteration:   600	Log-Likelihood:   -12.49	abs( Change in Log-Likelihood ):       0.0191
+Logisitic Regression Iteration:   700	Log-Likelihood:   -10.83	abs( Change in Log-Likelihood ):      0.01448
+Logisitic Regression Iteration:   800	Log-Likelihood:   -9.547	abs( Change in Log-Likelihood ):      0.01134
+Logisitic Regression Iteration:   900	Log-Likelihood:   -8.532	abs( Change in Log-Likelihood ):     0.009105
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -7.709	abs( Change in Log-Likelihood ):     0.007466
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -7.027	abs( Change in Log-Likelihood ):     0.006228
+Logisitic Regression Iteration:  1200	Log-Likelihood:   -6.455	abs( Change in Log-Likelihood ):     0.005271
+Logisitic Regression Iteration:  1235	Log-Likelihood:   -6.281	abs( Change in Log-Likelihood ):     0.004995
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate: 0.0715
+*********************************
+---------------------------------
+  Simulation Number: 82
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -198.1	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -52.06	abs( Change in Log-Likelihood ):       0.3217
+Logisitic Regression Iteration:   200	Log-Likelihood:   -32.45	abs( Change in Log-Likelihood ):       0.1221
+Logisitic Regression Iteration:   300	Log-Likelihood:   -23.58	abs( Change in Log-Likelihood ):      0.06492
+Logisitic Regression Iteration:   400	Log-Likelihood:   -18.48	abs( Change in Log-Likelihood ):      0.04024
+Logisitic Regression Iteration:   500	Log-Likelihood:   -15.17	abs( Change in Log-Likelihood ):      0.02733
+Logisitic Regression Iteration:   600	Log-Likelihood:   -12.85	abs( Change in Log-Likelihood ):      0.01974
+Logisitic Regression Iteration:   700	Log-Likelihood:   -11.14	abs( Change in Log-Likelihood ):      0.01491
+Logisitic Regression Iteration:   800	Log-Likelihood:    -9.82	abs( Change in Log-Likelihood ):      0.01164
+Logisitic Regression Iteration:   900	Log-Likelihood:   -8.779	abs( Change in Log-Likelihood ):     0.009338
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -7.934	abs( Change in Log-Likelihood ):     0.007651
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -7.236	abs( Change in Log-Likelihood ):      0.00638
+Logisitic Regression Iteration:  1200	Log-Likelihood:    -6.65	abs( Change in Log-Likelihood ):       0.0054
+Logisitic Regression Iteration:  1250	Log-Likelihood:   -6.395	abs( Change in Log-Likelihood ):     0.004999
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate: 0.0735
+*********************************
+---------------------------------
+  Simulation Number: 83
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -196.6	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -48.05	abs( Change in Log-Likelihood ):       0.3009
+Logisitic Regression Iteration:   200	Log-Likelihood:   -29.87	abs( Change in Log-Likelihood ):       0.1126
+Logisitic Regression Iteration:   300	Log-Likelihood:   -21.69	abs( Change in Log-Likelihood ):      0.05989
+Logisitic Regression Iteration:   400	Log-Likelihood:   -16.99	abs( Change in Log-Likelihood ):      0.03712
+Logisitic Regression Iteration:   500	Log-Likelihood:   -13.93	abs( Change in Log-Likelihood ):       0.0252
+Logisitic Regression Iteration:   600	Log-Likelihood:    -11.8	abs( Change in Log-Likelihood ):      0.01818
+Logisitic Regression Iteration:   700	Log-Likelihood:   -10.22	abs( Change in Log-Likelihood ):      0.01372
+Logisitic Regression Iteration:   800	Log-Likelihood:   -9.008	abs( Change in Log-Likelihood ):      0.01071
+Logisitic Regression Iteration:   900	Log-Likelihood:   -8.051	abs( Change in Log-Likelihood ):     0.008582
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -7.275	abs( Change in Log-Likelihood ):     0.007027
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -6.634	abs( Change in Log-Likelihood ):     0.005858
+Logisitic Regression Iteration:  1196	Log-Likelihood:    -6.12	abs( Change in Log-Likelihood ):     0.004996
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate: 0.0645
+*********************************
+---------------------------------
+  Simulation Number: 84
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -196.8	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -51.71	abs( Change in Log-Likelihood ):       0.3057
+Logisitic Regression Iteration:   200	Log-Likelihood:   -32.95	abs( Change in Log-Likelihood ):       0.1184
+Logisitic Regression Iteration:   300	Log-Likelihood:   -24.25	abs( Change in Log-Likelihood ):      0.06451
+Logisitic Regression Iteration:   400	Log-Likelihood:   -19.13	abs( Change in Log-Likelihood ):      0.04079
+Logisitic Regression Iteration:   500	Log-Likelihood:   -15.75	abs( Change in Log-Likelihood ):      0.02808
+Logisitic Regression Iteration:   600	Log-Likelihood:   -13.36	abs( Change in Log-Likelihood ):      0.02046
+Logisitic Regression Iteration:   700	Log-Likelihood:   -11.58	abs( Change in Log-Likelihood ):      0.01552
+Logisitic Regression Iteration:   800	Log-Likelihood:   -10.21	abs( Change in Log-Likelihood ):      0.01216
+Logisitic Regression Iteration:   900	Log-Likelihood:   -9.118	abs( Change in Log-Likelihood ):     0.009767
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -8.234	abs( Change in Log-Likelihood ):     0.008008
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -7.504	abs( Change in Log-Likelihood ):     0.006679
+Logisitic Regression Iteration:  1200	Log-Likelihood:    -6.89	abs( Change in Log-Likelihood ):     0.005652
+Logisitic Regression Iteration:  1280	Log-Likelihood:    -6.47	abs( Change in Log-Likelihood ):     0.004997
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate:  0.075
+*********************************
+---------------------------------
+  Simulation Number: 85
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -198.5	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -53.77	abs( Change in Log-Likelihood ):       0.3326
+Logisitic Regression Iteration:   200	Log-Likelihood:   -33.61	abs( Change in Log-Likelihood ):       0.1251
+Logisitic Regression Iteration:   300	Log-Likelihood:   -24.52	abs( Change in Log-Likelihood ):      0.06663
+Logisitic Regression Iteration:   400	Log-Likelihood:   -19.27	abs( Change in Log-Likelihood ):      0.04148
+Logisitic Regression Iteration:   500	Log-Likelihood:   -15.85	abs( Change in Log-Likelihood ):       0.0283
+Logisitic Regression Iteration:   600	Log-Likelihood:   -13.45	abs( Change in Log-Likelihood ):      0.02052
+Logisitic Regression Iteration:   700	Log-Likelihood:   -11.66	abs( Change in Log-Likelihood ):      0.01555
+Logisitic Regression Iteration:   800	Log-Likelihood:   -10.29	abs( Change in Log-Likelihood ):      0.01217
+Logisitic Regression Iteration:   900	Log-Likelihood:   -9.199	abs( Change in Log-Likelihood ):     0.009778
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -8.314	abs( Change in Log-Likelihood ):     0.008021
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -7.582	abs( Change in Log-Likelihood ):     0.006695
+Logisitic Regression Iteration:  1200	Log-Likelihood:   -6.966	abs( Change in Log-Likelihood ):     0.005669
+Logisitic Regression Iteration:  1283	Log-Likelihood:    -6.53	abs( Change in Log-Likelihood ):     0.004993
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate: 0.0675
+*********************************
+---------------------------------
+  Simulation Number: 86
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -197.1	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:    -48.4	abs( Change in Log-Likelihood ):         0.31
+Logisitic Regression Iteration:   200	Log-Likelihood:    -29.9	abs( Change in Log-Likelihood ):        0.113
+Logisitic Regression Iteration:   300	Log-Likelihood:   -21.75	abs( Change in Log-Likelihood ):      0.05935
+Logisitic Regression Iteration:   400	Log-Likelihood:   -17.09	abs( Change in Log-Likelihood ):      0.03679
+Logisitic Regression Iteration:   500	Log-Likelihood:   -14.06	abs( Change in Log-Likelihood ):      0.02508
+Logisitic Regression Iteration:   600	Log-Likelihood:   -11.92	abs( Change in Log-Likelihood ):      0.01818
+Logisitic Regression Iteration:   700	Log-Likelihood:   -10.34	abs( Change in Log-Likelihood ):      0.01377
+Logisitic Regression Iteration:   800	Log-Likelihood:   -9.128	abs( Change in Log-Likelihood ):      0.01078
+Logisitic Regression Iteration:   900	Log-Likelihood:   -8.163	abs( Change in Log-Likelihood ):     0.008658
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -7.379	abs( Change in Log-Likelihood ):     0.007102
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -6.731	abs( Change in Log-Likelihood ):     0.005927
+Logisitic Regression Iteration:  1200	Log-Likelihood:   -6.186	abs( Change in Log-Likelihood ):     0.005019
+Logisitic Regression Iteration:  1204	Log-Likelihood:   -6.171	abs( Change in Log-Likelihood ):     0.004995
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate: 0.0835
+*********************************
+---------------------------------
+  Simulation Number: 87
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -195.1	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -47.81	abs( Change in Log-Likelihood ):       0.3009
+Logisitic Regression Iteration:   200	Log-Likelihood:   -29.63	abs( Change in Log-Likelihood ):       0.1122
+Logisitic Regression Iteration:   300	Log-Likelihood:   -21.51	abs( Change in Log-Likelihood ):      0.05916
+Logisitic Regression Iteration:   400	Log-Likelihood:   -16.87	abs( Change in Log-Likelihood ):      0.03656
+Logisitic Regression Iteration:   500	Log-Likelihood:   -13.87	abs( Change in Log-Likelihood ):      0.02482
+Logisitic Regression Iteration:   600	Log-Likelihood:   -11.76	abs( Change in Log-Likelihood ):      0.01794
+Logisitic Regression Iteration:   700	Log-Likelihood:    -10.2	abs( Change in Log-Likelihood ):      0.01356
+Logisitic Regression Iteration:   800	Log-Likelihood:   -9.004	abs( Change in Log-Likelihood ):      0.01061
+Logisitic Regression Iteration:   900	Log-Likelihood:   -8.055	abs( Change in Log-Likelihood ):     0.008516
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -7.284	abs( Change in Log-Likelihood ):     0.006985
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -6.646	abs( Change in Log-Likelihood ):      0.00583
+Logisitic Regression Iteration:  1194	Log-Likelihood:   -6.145	abs( Change in Log-Likelihood ):     0.004994
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate:  0.062
+*********************************
+---------------------------------
+  Simulation Number: 88
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -196.9	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:      -50	abs( Change in Log-Likelihood ):        0.318
+Logisitic Regression Iteration:   200	Log-Likelihood:   -30.84	abs( Change in Log-Likelihood ):        0.118
+Logisitic Regression Iteration:   300	Log-Likelihood:    -22.3	abs( Change in Log-Likelihood ):      0.06219
+Logisitic Regression Iteration:   400	Log-Likelihood:   -17.43	abs( Change in Log-Likelihood ):      0.03837
+Logisitic Regression Iteration:   500	Log-Likelihood:   -14.28	abs( Change in Log-Likelihood ):      0.02598
+Logisitic Regression Iteration:   600	Log-Likelihood:   -12.08	abs( Change in Log-Likelihood ):      0.01872
+Logisitic Regression Iteration:   700	Log-Likelihood:   -10.45	abs( Change in Log-Likelihood ):      0.01411
+Logisitic Regression Iteration:   800	Log-Likelihood:   -9.208	abs( Change in Log-Likelihood ):        0.011
+Logisitic Regression Iteration:   900	Log-Likelihood:   -8.225	abs( Change in Log-Likelihood ):      0.00881
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -7.429	abs( Change in Log-Likelihood ):      0.00721
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -6.771	abs( Change in Log-Likelihood ):     0.006006
+Logisitic Regression Iteration:  1200	Log-Likelihood:   -6.219	abs( Change in Log-Likelihood ):     0.005079
+Logisitic Regression Iteration:  1211	Log-Likelihood:   -6.169	abs( Change in Log-Likelihood ):     0.004998
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate:  0.073
+*********************************
+---------------------------------
+  Simulation Number: 89
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -197.1	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -50.76	abs( Change in Log-Likelihood ):       0.3051
+Logisitic Regression Iteration:   200	Log-Likelihood:   -32.04	abs( Change in Log-Likelihood ):       0.1179
+Logisitic Regression Iteration:   300	Log-Likelihood:    -23.4	abs( Change in Log-Likelihood ):      0.06372
+Logisitic Regression Iteration:   400	Log-Likelihood:   -18.38	abs( Change in Log-Likelihood ):      0.03983
+Logisitic Regression Iteration:   500	Log-Likelihood:   -15.09	abs( Change in Log-Likelihood ):      0.02717
+Logisitic Regression Iteration:   600	Log-Likelihood:   -12.79	abs( Change in Log-Likelihood ):      0.01966
+Logisitic Regression Iteration:   700	Log-Likelihood:   -11.08	abs( Change in Log-Likelihood ):      0.01486
+Logisitic Regression Iteration:   800	Log-Likelihood:   -9.767	abs( Change in Log-Likelihood ):      0.01161
+Logisitic Regression Iteration:   900	Log-Likelihood:   -8.728	abs( Change in Log-Likelihood ):      0.00931
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -7.886	abs( Change in Log-Likelihood ):     0.007627
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -7.191	abs( Change in Log-Likelihood ):     0.006359
+Logisitic Regression Iteration:  1200	Log-Likelihood:   -6.606	abs( Change in Log-Likelihood ):     0.005381
+Logisitic Regression Iteration:  1248	Log-Likelihood:   -6.363	abs( Change in Log-Likelihood ):     0.004996
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate:  0.072
+*********************************
+---------------------------------
+  Simulation Number: 90
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -197.5	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -52.96	abs( Change in Log-Likelihood ):       0.3267
+Logisitic Regression Iteration:   200	Log-Likelihood:   -33.02	abs( Change in Log-Likelihood ):       0.1245
+Logisitic Regression Iteration:   300	Log-Likelihood:   -23.96	abs( Change in Log-Likelihood ):      0.06635
+Logisitic Regression Iteration:   400	Log-Likelihood:   -18.75	abs( Change in Log-Likelihood ):      0.04113
+Logisitic Regression Iteration:   500	Log-Likelihood:   -15.37	abs( Change in Log-Likelihood ):      0.02791
+Logisitic Regression Iteration:   600	Log-Likelihood:      -13	abs( Change in Log-Likelihood ):      0.02013
+Logisitic Regression Iteration:   700	Log-Likelihood:   -11.25	abs( Change in Log-Likelihood ):      0.01518
+Logisitic Regression Iteration:   800	Log-Likelihood:   -9.914	abs( Change in Log-Likelihood ):      0.01184
+Logisitic Regression Iteration:   900	Log-Likelihood:   -8.855	abs( Change in Log-Likelihood ):     0.009486
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -7.998	abs( Change in Log-Likelihood ):     0.007764
+Logisitic Regression Iteration:  1100	Log-Likelihood:    -7.29	abs( Change in Log-Likelihood ):     0.006469
+Logisitic Regression Iteration:  1200	Log-Likelihood:   -6.695	abs( Change in Log-Likelihood ):      0.00547
+Logisitic Regression Iteration:  1259	Log-Likelihood:   -6.392	abs( Change in Log-Likelihood ):     0.004992
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate:  0.066
+*********************************
+---------------------------------
+  Simulation Number: 91
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -197.7	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -51.86	abs( Change in Log-Likelihood ):       0.3305
+Logisitic Regression Iteration:   200	Log-Likelihood:   -31.89	abs( Change in Log-Likelihood ):        0.123
+Logisitic Regression Iteration:   300	Log-Likelihood:   -23.02	abs( Change in Log-Likelihood ):      0.06445
+Logisitic Regression Iteration:   400	Log-Likelihood:   -17.98	abs( Change in Log-Likelihood ):      0.03962
+Logisitic Regression Iteration:   500	Log-Likelihood:   -14.72	abs( Change in Log-Likelihood ):      0.02678
+Logisitic Regression Iteration:   600	Log-Likelihood:   -12.46	abs( Change in Log-Likelihood ):      0.01928
+Logisitic Regression Iteration:   700	Log-Likelihood:   -10.78	abs( Change in Log-Likelihood ):      0.01453
+Logisitic Regression Iteration:   800	Log-Likelihood:   -9.503	abs( Change in Log-Likelihood ):      0.01133
+Logisitic Regression Iteration:   900	Log-Likelihood:    -8.49	abs( Change in Log-Likelihood ):     0.009076
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -7.669	abs( Change in Log-Likelihood ):      0.00743
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -6.992	abs( Change in Log-Likelihood ):     0.006191
+Logisitic Regression Iteration:  1200	Log-Likelihood:   -6.423	abs( Change in Log-Likelihood ):     0.005236
+Logisitic Regression Iteration:  1231	Log-Likelihood:    -6.27	abs( Change in Log-Likelihood ):     0.004993
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate:  0.093
+*********************************
+---------------------------------
+  Simulation Number: 92
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -196.4	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -45.98	abs( Change in Log-Likelihood ):          0.3
+Logisitic Regression Iteration:   200	Log-Likelihood:   -28.07	abs( Change in Log-Likelihood ):       0.1092
+Logisitic Regression Iteration:   300	Log-Likelihood:   -20.21	abs( Change in Log-Likelihood ):      0.05696
+Logisitic Regression Iteration:   400	Log-Likelihood:   -15.76	abs( Change in Log-Likelihood ):      0.03493
+Logisitic Regression Iteration:   500	Log-Likelihood:    -12.9	abs( Change in Log-Likelihood ):      0.02356
+Logisitic Regression Iteration:   600	Log-Likelihood:   -10.91	abs( Change in Log-Likelihood ):      0.01694
+Logisitic Regression Iteration:   700	Log-Likelihood:   -9.438	abs( Change in Log-Likelihood ):      0.01275
+Logisitic Regression Iteration:   800	Log-Likelihood:   -8.314	abs( Change in Log-Likelihood ):     0.009932
+Logisitic Regression Iteration:   900	Log-Likelihood:   -7.426	abs( Change in Log-Likelihood ):      0.00795
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -6.708	abs( Change in Log-Likelihood ):     0.006504
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -6.115	abs( Change in Log-Likelihood ):     0.005417
+Logisitic Regression Iteration:  1148	Log-Likelihood:   -5.871	abs( Change in Log-Likelihood ):     0.004997
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate: 0.0725
+*********************************
+---------------------------------
+  Simulation Number: 93
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -197.6	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:      -53	abs( Change in Log-Likelihood ):       0.3169
+Logisitic Regression Iteration:   200	Log-Likelihood:   -33.49	abs( Change in Log-Likelihood ):       0.1233
+Logisitic Regression Iteration:   300	Log-Likelihood:   -24.45	abs( Change in Log-Likelihood ):      0.06686
+Logisitic Regression Iteration:   400	Log-Likelihood:   -19.17	abs( Change in Log-Likelihood ):      0.04185
+Logisitic Regression Iteration:   500	Log-Likelihood:   -15.72	abs( Change in Log-Likelihood ):      0.02855
+Logisitic Regression Iteration:   600	Log-Likelihood:   -13.29	abs( Change in Log-Likelihood ):      0.02065
+Logisitic Regression Iteration:   700	Log-Likelihood:    -11.5	abs( Change in Log-Likelihood ):      0.01559
+Logisitic Regression Iteration:   800	Log-Likelihood:   -10.12	abs( Change in Log-Likelihood ):      0.01217
+Logisitic Regression Iteration:   900	Log-Likelihood:   -9.036	abs( Change in Log-Likelihood ):     0.009744
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -8.155	abs( Change in Log-Likelihood ):     0.007973
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -7.429	abs( Change in Log-Likelihood ):     0.006639
+Logisitic Regression Iteration:  1200	Log-Likelihood:   -6.819	abs( Change in Log-Likelihood ):     0.005611
+Logisitic Regression Iteration:  1275	Log-Likelihood:   -6.427	abs( Change in Log-Likelihood ):     0.004995
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate:  0.075
+*********************************
+---------------------------------
+  Simulation Number: 94
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -197.5	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -55.63	abs( Change in Log-Likelihood ):       0.3125
+Logisitic Regression Iteration:   200	Log-Likelihood:   -36.23	abs( Change in Log-Likelihood ):       0.1241
+Logisitic Regression Iteration:   300	Log-Likelihood:   -27.03	abs( Change in Log-Likelihood ):      0.06894
+Logisitic Regression Iteration:   400	Log-Likelihood:   -21.52	abs( Change in Log-Likelihood ):      0.04423
+Logisitic Regression Iteration:   500	Log-Likelihood:   -17.84	abs( Change in Log-Likelihood ):      0.03079
+Logisitic Regression Iteration:   600	Log-Likelihood:    -15.2	abs( Change in Log-Likelihood ):      0.02263
+Logisitic Regression Iteration:   700	Log-Likelihood:   -13.22	abs( Change in Log-Likelihood ):       0.0173
+Logisitic Regression Iteration:   800	Log-Likelihood:   -11.69	abs( Change in Log-Likelihood ):      0.01363
+Logisitic Regression Iteration:   900	Log-Likelihood:   -10.47	abs( Change in Log-Likelihood ):        0.011
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -9.468	abs( Change in Log-Likelihood ):     0.009059
+Logisitic Regression Iteration:  1100	Log-Likelihood:    -8.64	abs( Change in Log-Likelihood ):     0.007581
+Logisitic Regression Iteration:  1200	Log-Likelihood:   -7.942	abs( Change in Log-Likelihood ):     0.006433
+Logisitic Regression Iteration:  1300	Log-Likelihood:   -7.347	abs( Change in Log-Likelihood ):     0.005524
+Logisitic Regression Iteration:  1371	Log-Likelihood:   -6.979	abs( Change in Log-Likelihood ):     0.004996
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate:   0.07
+*********************************
+---------------------------------
+  Simulation Number: 95
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -197.8	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -50.83	abs( Change in Log-Likelihood ):       0.3216
+Logisitic Regression Iteration:   200	Log-Likelihood:   -31.41	abs( Change in Log-Likelihood ):       0.1197
+Logisitic Regression Iteration:   300	Log-Likelihood:   -22.76	abs( Change in Log-Likelihood ):      0.06306
+Logisitic Regression Iteration:   400	Log-Likelihood:   -17.82	abs( Change in Log-Likelihood ):      0.03894
+Logisitic Regression Iteration:   500	Log-Likelihood:   -14.62	abs( Change in Log-Likelihood ):      0.02641
+Logisitic Regression Iteration:   600	Log-Likelihood:   -12.38	abs( Change in Log-Likelihood ):      0.01905
+Logisitic Regression Iteration:   700	Log-Likelihood:   -10.72	abs( Change in Log-Likelihood ):      0.01438
+Logisitic Regression Iteration:   800	Log-Likelihood:   -9.454	abs( Change in Log-Likelihood ):      0.01122
+Logisitic Regression Iteration:   900	Log-Likelihood:    -8.45	abs( Change in Log-Likelihood ):     0.008998
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -7.637	abs( Change in Log-Likelihood ):     0.007369
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -6.964	abs( Change in Log-Likelihood ):     0.006144
+Logisitic Regression Iteration:  1200	Log-Likelihood:     -6.4	abs( Change in Log-Likelihood ):     0.005198
+Logisitic Regression Iteration:  1226	Log-Likelihood:   -6.272	abs( Change in Log-Likelihood ):     0.004996
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate: 0.0735
+*********************************
+---------------------------------
+  Simulation Number: 96
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -197.9	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -52.66	abs( Change in Log-Likelihood ):        0.324
+Logisitic Regression Iteration:   200	Log-Likelihood:   -32.82	abs( Change in Log-Likelihood ):       0.1241
+Logisitic Regression Iteration:   300	Log-Likelihood:    -23.8	abs( Change in Log-Likelihood ):      0.06606
+Logisitic Regression Iteration:   400	Log-Likelihood:   -18.61	abs( Change in Log-Likelihood ):      0.04091
+Logisitic Regression Iteration:   500	Log-Likelihood:   -15.25	abs( Change in Log-Likelihood ):      0.02775
+Logisitic Regression Iteration:   600	Log-Likelihood:   -12.89	abs( Change in Log-Likelihood ):      0.02001
+Logisitic Regression Iteration:   700	Log-Likelihood:   -11.16	abs( Change in Log-Likelihood ):      0.01509
+Logisitic Regression Iteration:   800	Log-Likelihood:   -9.827	abs( Change in Log-Likelihood ):      0.01176
+Logisitic Regression Iteration:   900	Log-Likelihood:   -8.775	abs( Change in Log-Likelihood ):     0.009422
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -7.923	abs( Change in Log-Likelihood ):      0.00771
+Logisitic Regression Iteration:  1100	Log-Likelihood:    -7.22	abs( Change in Log-Likelihood ):     0.006422
+Logisitic Regression Iteration:  1200	Log-Likelihood:    -6.63	abs( Change in Log-Likelihood ):      0.00543
+Logisitic Regression Iteration:  1254	Log-Likelihood:   -6.354	abs( Change in Log-Likelihood ):     0.004994
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate:   0.07
+*********************************
+---------------------------------
+  Simulation Number: 97
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:     -197	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -48.26	abs( Change in Log-Likelihood ):       0.3017
+Logisitic Regression Iteration:   200	Log-Likelihood:   -30.16	abs( Change in Log-Likelihood ):       0.1114
+Logisitic Regression Iteration:   300	Log-Likelihood:   -22.08	abs( Change in Log-Likelihood ):       0.0593
+Logisitic Regression Iteration:   400	Log-Likelihood:    -17.4	abs( Change in Log-Likelihood ):      0.03706
+Logisitic Regression Iteration:   500	Log-Likelihood:   -14.34	abs( Change in Log-Likelihood ):      0.02538
+Logisitic Regression Iteration:   600	Log-Likelihood:   -12.18	abs( Change in Log-Likelihood ):      0.01846
+Logisitic Regression Iteration:   700	Log-Likelihood:   -10.57	abs( Change in Log-Likelihood ):      0.01401
+Logisitic Regression Iteration:   800	Log-Likelihood:   -9.333	abs( Change in Log-Likelihood ):      0.01099
+Logisitic Regression Iteration:   900	Log-Likelihood:   -8.349	abs( Change in Log-Likelihood ):     0.008837
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -7.549	abs( Change in Log-Likelihood ):     0.007256
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -6.886	abs( Change in Log-Likelihood ):     0.006061
+Logisitic Regression Iteration:  1200	Log-Likelihood:   -6.329	abs( Change in Log-Likelihood ):     0.005135
+Logisitic Regression Iteration:  1218	Log-Likelihood:   -6.243	abs( Change in Log-Likelihood ):     0.004999
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate:  0.074
+*********************************
+---------------------------------
+  Simulation Number: 98
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -196.1	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -45.85	abs( Change in Log-Likelihood ):       0.3002
+Logisitic Regression Iteration:   200	Log-Likelihood:   -28.04	abs( Change in Log-Likelihood ):       0.1081
+Logisitic Regression Iteration:   300	Log-Likelihood:   -20.26	abs( Change in Log-Likelihood ):      0.05652
+Logisitic Regression Iteration:   400	Log-Likelihood:   -15.83	abs( Change in Log-Likelihood ):      0.03482
+Logisitic Regression Iteration:   500	Log-Likelihood:   -12.97	abs( Change in Log-Likelihood ):      0.02358
+Logisitic Regression Iteration:   600	Log-Likelihood:   -10.97	abs( Change in Log-Likelihood ):        0.017
+Logisitic Regression Iteration:   700	Log-Likelihood:   -9.499	abs( Change in Log-Likelihood ):      0.01282
+Logisitic Regression Iteration:   800	Log-Likelihood:   -8.369	abs( Change in Log-Likelihood ):     0.009997
+Logisitic Regression Iteration:   900	Log-Likelihood:   -7.475	abs( Change in Log-Likelihood ):     0.008008
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -6.751	abs( Change in Log-Likelihood ):     0.006554
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -6.153	abs( Change in Log-Likelihood ):      0.00546
+Logisitic Regression Iteration:  1153	Log-Likelihood:   -5.882	abs( Change in Log-Likelihood ):     0.004996
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate:  0.079
+*********************************
+---------------------------------
+  Simulation Number: 99
+---------------------------------
+*********************************
+
+Selecting training and test datasets...
+
+Training logistic model...
+Logisitic Regression Iteration:     0	Log-Likelihood:   -197.4	abs( Change in Log-Likelihood ):        1e+07
+Logisitic Regression Iteration:   100	Log-Likelihood:   -52.71	abs( Change in Log-Likelihood ):       0.3153
+Logisitic Regression Iteration:   200	Log-Likelihood:   -33.51	abs( Change in Log-Likelihood ):       0.1201
+Logisitic Regression Iteration:   300	Log-Likelihood:   -24.71	abs( Change in Log-Likelihood ):      0.06517
+Logisitic Regression Iteration:   400	Log-Likelihood:   -19.54	abs( Change in Log-Likelihood ):      0.04122
+Logisitic Regression Iteration:   500	Log-Likelihood:   -16.13	abs( Change in Log-Likelihood ):      0.02843
+Logisitic Regression Iteration:   600	Log-Likelihood:    -13.7	abs( Change in Log-Likelihood ):      0.02076
+Logisitic Regression Iteration:   700	Log-Likelihood:   -11.89	abs( Change in Log-Likelihood ):      0.01579
+Logisitic Regression Iteration:   800	Log-Likelihood:   -10.49	abs( Change in Log-Likelihood ):      0.01239
+Logisitic Regression Iteration:   900	Log-Likelihood:   -9.384	abs( Change in Log-Likelihood ):     0.009968
+Logisitic Regression Iteration:  1000	Log-Likelihood:   -8.481	abs( Change in Log-Likelihood ):     0.008184
+Logisitic Regression Iteration:  1100	Log-Likelihood:   -7.734	abs( Change in Log-Likelihood ):     0.006834
+Logisitic Regression Iteration:  1200	Log-Likelihood:   -7.106	abs( Change in Log-Likelihood ):     0.005789
+Logisitic Regression Iteration:  1297	Log-Likelihood:    -6.59	abs( Change in Log-Likelihood ):     0.004993
+
+Computing predicted probabilities for test dataset...
+
+Computing classification error rate...
+
+Classification Error Rate: 0.0775
+
+Code completed.

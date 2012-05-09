@@ -1,0 +1,123 @@
+
+R version 2.13.2 (2011-09-30)
+Copyright (C) 2011 The R Foundation for Statistical Computing
+ISBN 3-900051-07-0
+Platform: x86_64-pc-linux-gnu (64-bit)
+
+R is free software and comes with ABSOLUTELY NO WARRANTY.
+You are welcome to redistribute it under certain conditions.
+Type 'license()' or 'licence()' for distribution details.
+
+  Natural language support but running in an English locale
+
+R is a collaborative project with many contributors.
+Type 'contributors()' for more information and
+'citation()' on how to cite R or R packages in publications.
+
+Type 'demo()' for some demos, 'help()' for on-line help, or
+'help.start()' for an HTML browser interface to help.
+Type 'q()' to quit R.
+
+> ################################################################
+> # FILENAME   : Random_Forest.R
+> # AUTHOR     : Brian Denton
+> # DATE       : 11/08/2011
+> # DESCRIPTION:
+> ################################################################
+> 
+> #install.packages( "randomForest" )
+> library( randomForest )
+randomForest 4.6-2
+Type rfNews() to see new features/changes/bug fixes.
+> 
+> ProjectPath <- '/home/nfs/dentonb/Projects/Document_Classification/'
+> ProgramPath <- paste( ProjectPath, "R/", sep = "" )
+> DataPath <- paste( ProjectPath, "Documents/", sep = "" )
+> OutputPath <- paste( ProjectPath, "R/", sep = "" )
+> 
+> setwd( DataPath )
+> 
+> Neg_X <- read.csv( file = "Neg_RelativeFrequency.csv", header = FALSE )
+> Pos_X <- read.csv( file = "Pos_RelativeFrequency.csv", header = FALSE )
+> 
+> Neg_Y <- rep( 0, ncol(Neg_X) )
+> Pos_Y <- rep( 1, ncol(Pos_X) )
+> 
+> SelectData <- function( N_Pos_Training, N_Neg_Training, N_Pos_Test, N_Neg_Test ){
++ 
++   Pos_Rows <- 1:nrow(Pos_X)
++   Pos_Training_Rows <- sample( x = Pos_Rows, size = N_Pos_Training, replace = FALSE )
++   Pos_Rows[ !( Pos_Rows %in% Pos_Training_Rows) ]
++   Pos_Test_Rows <- sample( x = Pos_Rows, size = N_Pos_Test, replace = FALSE )
++   
++   Neg_Rows <- 1:nrow(Neg_X)
++   Neg_Training_Rows <- sample( x = Neg_Rows, size = N_Neg_Training, replace = FALSE )
++   Neg_Rows[ !( Neg_Rows %in% Neg_Training_Rows) ]
++   Neg_Test_Rows <- sample( x = Neg_Rows, size = N_Neg_Test, replace = FALSE )
++   
++   Training_X <- rbind( Pos_X[ Pos_Training_Rows, ], Neg_X[ Neg_Training_Rows, ] )
++   Training_Y <- as.factor( c( rep(1,N_Pos_Training), rep(0,N_Neg_Training) ) )
++ 
++   Test_X <- rbind( Pos_X[ Pos_Test_Rows, ], Neg_X[ Neg_Test_Rows, ] )
++   Test_Y <- as.factor( c( rep(1,N_Pos_Test), rep(0,N_Neg_Test) ) )
++   
++   return( list( Training_X = Training_X, Training_Y = Training_Y, Test_X = Test_X, Test_Y = Test_Y ) )
++ 
++ }
+> 
+> #################################################
+> # Do multiple simulations of random forest      #
+> # and record accuracy                           #
+> #################################################
+> 
+> RandomForest_ErrorRate <- NULL
+> 
+> for( simulation in 1:20 ){
++ 
++   print( paste( "Simulation Number:", simulation ) )
++   flush.console()
++   
++   data <- SelectData( N_Pos_Training = 150, N_Neg_Training = 150, N_Pos_Test = 1000, N_Neg_Test = 1000 )
++ 
++   fit <- randomForest( y = data$Training_Y, x = data$Training_X,
++                        ytest = data$Test_Y, xtest = data$Test_X,
++                        replace = FALSE, importance = FALSE, do.trace = FALSE )
++ 
++   PredictedClass <- ifelse( fit$test$votes[,1] > fit$test$votes[,2], 0, 1 )
++   Accuracy <- prop.table( table( PredictedClass == as.numeric( data$Test_Y ) - 1 ) )
++ 
++   ErrorRate <- Accuracy[["FALSE"]]
++ 
++   RandomForest_ErrorRate <- c( RandomForest_ErrorRate, ErrorRate )
++   
++ }
+[1] "Simulation Number: 1"
+[1] "Simulation Number: 2"
+[1] "Simulation Number: 3"
+[1] "Simulation Number: 4"
+[1] "Simulation Number: 5"
+[1] "Simulation Number: 6"
+[1] "Simulation Number: 7"
+[1] "Simulation Number: 8"
+[1] "Simulation Number: 9"
+[1] "Simulation Number: 10"
+[1] "Simulation Number: 11"
+[1] "Simulation Number: 12"
+[1] "Simulation Number: 13"
+[1] "Simulation Number: 14"
+[1] "Simulation Number: 15"
+[1] "Simulation Number: 16"
+[1] "Simulation Number: 17"
+[1] "Simulation Number: 18"
+[1] "Simulation Number: 19"
+[1] "Simulation Number: 20"
+> 
+> setwd( OutputPath )
+> save( RandomForest_ErrorRate, file = "RandomForest_ErrorRate.150Pos_150Neg.RData" )
+> 
+> 
+> # END OF FILE
+> 
+> proc.time()
+    user   system  elapsed 
+13161.75    42.12 13897.09 

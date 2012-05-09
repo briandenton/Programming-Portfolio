@@ -1,0 +1,3833 @@
+
+serviceTime = 8
+Processing package for Memphis (arrived t = 5)
+
+serviceTime = 16
+Processing package for Chicago (arrived t = 15)
+
+serviceTime = 24
+Maintain forklift at t = 24
+
+serviceTime = 30
+Processing package for Memphis (arrived t = 25)
+
+serviceTime = 38
+Processing package for Chicago (arrived t = 35)
+
+serviceTime = 46
+Processing package for Memphis (arrived t = 45)
+
+serviceTime = 54
+Maintain forklift at t = 54
+
+serviceTime = 60
+Processing package for Memphis (arrived t = 55)
+
+serviceTime = 68
+Processing package for Chicago (arrived t = 65)
+
+serviceTime = 76
+Processing package for Chicago (arrived t = 75)
+
+serviceTime = 84
+Loading plane to Chicago (arrived t = 80)
+Arrival time: 75, Service time: 84, Time in system : 34
+Arrival time: 65, Service time: 84, Time in system : 44
+Arrival time: 35, Service time: 84, Time in system : 74
+Arrival time: 15, Service time: 84, Time in system : 94
+
+serviceTime = 109
+Loading plane to Memphis (arrived t = 100)
+Arrival time: 55, Service time: 109, Time in system : 79
+Arrival time: 45, Service time: 109, Time in system : 89
+Arrival time: 25, Service time: 109, Time in system : 109
+Arrival time: 5, Service time: 109, Time in system : 129
+
+serviceTime = 134
+Processing package for Memphis (arrived t = 85)
+
+serviceTime = 142
+Processing package for Memphis (arrived t = 95)
+
+serviceTime = 150
+Processing package for Memphis (arrived t = 105)
+
+serviceTime = 158
+Processing package for Chicago (arrived t = 115)
+
+serviceTime = 166
+Processing package for Memphis (arrived t = 125)
+
+serviceTime = 174
+Processing package for Memphis (arrived t = 135)
+
+serviceTime = 182
+Processing package for Memphis (arrived t = 145)
+
+serviceTime = 190
+Processing package for Chicago (arrived t = 155)
+
+serviceTime = 198
+Processing package for Chicago (arrived t = 165)
+
+serviceTime = 206
+Processing package for Chicago (arrived t = 175)
+
+serviceTime = 214
+Processing package for Chicago (arrived t = 185)
+
+serviceTime = 222
+Processing package for Chicago (arrived t = 195)
+
+serviceTime = 230
+Loading plane to Chicago (arrived t = 230)
+Arrival time: 195, Service time: 230, Time in system : 60
+Arrival time: 185, Service time: 230, Time in system : 70
+Arrival time: 175, Service time: 230, Time in system : 80
+Arrival time: 165, Service time: 230, Time in system : 90
+Arrival time: 155, Service time: 230, Time in system : 100
+Arrival time: 115, Service time: 230, Time in system : 140
+
+serviceTime = 255
+Processing package for Chicago (arrived t = 205)
+
+serviceTime = 263
+Processing package for Memphis (arrived t = 215)
+
+serviceTime = 271
+Processing package for Chicago (arrived t = 225)
+
+serviceTime = 279
+Processing package for Chicago (arrived t = 235)
+
+serviceTime = 287
+Loading plane to Memphis (arrived t = 280)
+Arrival time: 215, Service time: 287, Time in system : 97
+Arrival time: 145, Service time: 287, Time in system : 167
+Arrival time: 135, Service time: 287, Time in system : 177
+Arrival time: 125, Service time: 287, Time in system : 187
+Arrival time: 105, Service time: 287, Time in system : 207
+Arrival time: 95, Service time: 287, Time in system : 217
+Arrival time: 85, Service time: 287, Time in system : 227
+
+serviceTime = 312
+Processing package for Chicago (arrived t = 245)
+
+serviceTime = 320
+Processing package for Chicago (arrived t = 255)
+
+serviceTime = 328
+Processing package for Chicago (arrived t = 265)
+
+serviceTime = 336
+Processing package for Memphis (arrived t = 275)
+
+serviceTime = 344
+Processing package for Memphis (arrived t = 285)
+
+serviceTime = 352
+Processing package for Memphis (arrived t = 295)
+
+serviceTime = 360
+Processing package for Memphis (arrived t = 305)
+
+serviceTime = 368
+Processing package for Chicago (arrived t = 315)
+
+serviceTime = 376
+Processing package for Memphis (arrived t = 325)
+
+serviceTime = 384
+Loading plane to Chicago (arrived t = 380)
+Arrival time: 315, Service time: 384, Time in system : 94
+Arrival time: 265, Service time: 384, Time in system : 144
+Arrival time: 255, Service time: 384, Time in system : 154
+Arrival time: 245, Service time: 384, Time in system : 164
+Arrival time: 235, Service time: 384, Time in system : 174
+Arrival time: 225, Service time: 384, Time in system : 184
+Arrival time: 205, Service time: 384, Time in system : 204
+
+serviceTime = 409
+Processing package for Chicago (arrived t = 335)
+
+serviceTime = 417
+Processing package for Chicago (arrived t = 345)
+
+serviceTime = 425
+Processing package for Chicago (arrived t = 355)
+
+serviceTime = 433
+Processing package for Memphis (arrived t = 365)
+
+serviceTime = 441
+Processing package for Memphis (arrived t = 375)
+
+serviceTime = 449
+Processing package for Memphis (arrived t = 385)
+
+serviceTime = 457
+Processing package for Memphis (arrived t = 395)
+
+serviceTime = 465
+Loading plane to Memphis (arrived t = 460)
+Arrival time: 395, Service time: 465, Time in system : 95
+Arrival time: 385, Service time: 465, Time in system : 105
+Arrival time: 375, Service time: 465, Time in system : 115
+Arrival time: 365, Service time: 465, Time in system : 125
+Arrival time: 325, Service time: 465, Time in system : 165
+Arrival time: 305, Service time: 465, Time in system : 185
+Arrival time: 295, Service time: 465, Time in system : 195
+Arrival time: 285, Service time: 465, Time in system : 205
+Arrival time: 275, Service time: 465, Time in system : 215
+
+serviceTime = 490
+Processing package for Chicago (arrived t = 405)
+
+serviceTime = 498
+Processing package for Memphis (arrived t = 415)
+
+serviceTime = 506
+Processing package for Memphis (arrived t = 425)
+
+serviceTime = 514
+Processing package for Memphis (arrived t = 435)
+
+serviceTime = 522
+Processing package for Memphis (arrived t = 445)
+
+serviceTime = 530
+Loading plane to Chicago (arrived t = 530)
+Arrival time: 405, Service time: 530, Time in system : 150
+Arrival time: 355, Service time: 530, Time in system : 200
+Arrival time: 345, Service time: 530, Time in system : 210
+Arrival time: 335, Service time: 530, Time in system : 220
+
+serviceTime = 555
+Processing package for Memphis (arrived t = 455)
+
+serviceTime = 563
+Processing package for Chicago (arrived t = 465)
+
+serviceTime = 571
+Processing package for Chicago (arrived t = 475)
+
+serviceTime = 579
+Processing package for Chicago (arrived t = 485)
+
+serviceTime = 587
+Processing package for Memphis (arrived t = 495)
+
+serviceTime = 595
+Processing package for Chicago (arrived t = 505)
+
+serviceTime = 603
+Processing package for Memphis (arrived t = 515)
+
+serviceTime = 611
+Processing package for Memphis (arrived t = 525)
+
+serviceTime = 619
+Processing package for Memphis (arrived t = 535)
+
+serviceTime = 627
+Processing package for Memphis (arrived t = 545)
+
+serviceTime = 635
+Processing package for Memphis (arrived t = 555)
+
+serviceTime = 643
+Loading plane to Memphis (arrived t = 640)
+Arrival time: 555, Service time: 643, Time in system : 113
+Arrival time: 545, Service time: 643, Time in system : 123
+Arrival time: 535, Service time: 643, Time in system : 133
+Arrival time: 525, Service time: 643, Time in system : 143
+Arrival time: 515, Service time: 643, Time in system : 153
+Arrival time: 495, Service time: 643, Time in system : 173
+Arrival time: 455, Service time: 643, Time in system : 213
+Arrival time: 445, Service time: 643, Time in system : 223
+Arrival time: 435, Service time: 643, Time in system : 233
+Arrival time: 425, Service time: 643, Time in system : 243
+Arrival time: 415, Service time: 643, Time in system : 253
+
+serviceTime = 668
+Processing package for Chicago (arrived t = 565)
+
+serviceTime = 676
+Processing package for Chicago (arrived t = 575)
+
+serviceTime = 684
+Loading plane to Chicago (arrived t = 680)
+Arrival time: 575, Service time: 684, Time in system : 134
+Arrival time: 565, Service time: 684, Time in system : 144
+Arrival time: 505, Service time: 684, Time in system : 204
+Arrival time: 485, Service time: 684, Time in system : 224
+Arrival time: 475, Service time: 684, Time in system : 234
+Arrival time: 465, Service time: 684, Time in system : 244
+
+serviceTime = 709
+Processing package for Chicago (arrived t = 585)
+
+serviceTime = 717
+Processing package for Memphis (arrived t = 595)
+
+serviceTime = 725
+Processing package for Chicago (arrived t = 605)
+
+serviceTime = 733
+Processing package for Chicago (arrived t = 615)
+
+serviceTime = 741
+Processing package for Chicago (arrived t = 625)
+
+serviceTime = 749
+Processing package for Memphis (arrived t = 635)
+
+serviceTime = 757
+Processing package for Chicago (arrived t = 645)
+
+serviceTime = 765
+Processing package for Chicago (arrived t = 655)
+
+serviceTime = 773
+Processing package for Memphis (arrived t = 665)
+
+serviceTime = 781
+Processing package for Chicago (arrived t = 675)
+
+serviceTime = 789
+Processing package for Chicago (arrived t = 685)
+
+serviceTime = 797
+Processing package for Memphis (arrived t = 695)
+
+serviceTime = 805
+Processing package for Memphis (arrived t = 705)
+
+serviceTime = 813
+Processing package for Memphis (arrived t = 715)
+
+serviceTime = 821
+Loading plane to Memphis (arrived t = 820)
+Arrival time: 715, Service time: 821, Time in system : 131
+Arrival time: 705, Service time: 821, Time in system : 141
+Arrival time: 695, Service time: 821, Time in system : 151
+Arrival time: 665, Service time: 821, Time in system : 181
+Arrival time: 635, Service time: 821, Time in system : 211
+Arrival time: 595, Service time: 821, Time in system : 251
+
+serviceTime = 846
+Loading plane to Chicago (arrived t = 830)
+Arrival time: 685, Service time: 846, Time in system : 186
+Arrival time: 675, Service time: 846, Time in system : 196
+Arrival time: 655, Service time: 846, Time in system : 216
+Arrival time: 645, Service time: 846, Time in system : 226
+Arrival time: 625, Service time: 846, Time in system : 246
+Arrival time: 615, Service time: 846, Time in system : 256
+Arrival time: 605, Service time: 846, Time in system : 266
+Arrival time: 585, Service time: 846, Time in system : 286
+
+serviceTime = 871
+Processing package for Memphis (arrived t = 725)
+
+serviceTime = 879
+Processing package for Chicago (arrived t = 735)
+
+serviceTime = 887
+Processing package for Chicago (arrived t = 745)
+
+serviceTime = 895
+Processing package for Memphis (arrived t = 755)
+
+serviceTime = 903
+Processing package for Chicago (arrived t = 765)
+
+serviceTime = 911
+Processing package for Chicago (arrived t = 775)
+
+serviceTime = 919
+Processing package for Memphis (arrived t = 785)
+
+serviceTime = 927
+Processing package for Memphis (arrived t = 795)
+
+serviceTime = 935
+Processing package for Chicago (arrived t = 805)
+
+serviceTime = 943
+Processing package for Memphis (arrived t = 815)
+
+serviceTime = 951
+Processing package for Chicago (arrived t = 825)
+
+serviceTime = 959
+Processing package for Memphis (arrived t = 835)
+
+serviceTime = 967
+Processing package for Memphis (arrived t = 845)
+
+serviceTime = 975
+Processing package for Memphis (arrived t = 855)
+
+serviceTime = 983
+Loading plane to Chicago (arrived t = 980)
+Arrival time: 825, Service time: 983, Time in system : 183
+Arrival time: 805, Service time: 983, Time in system : 203
+Arrival time: 775, Service time: 983, Time in system : 233
+Arrival time: 765, Service time: 983, Time in system : 243
+Arrival time: 745, Service time: 983, Time in system : 263
+Arrival time: 735, Service time: 983, Time in system : 273
+
+serviceTime = 1008
+Loading plane to Memphis (arrived t = 1000)
+Arrival time: 855, Service time: 1008, Time in system : 178
+Arrival time: 845, Service time: 1008, Time in system : 188
+Arrival time: 835, Service time: 1008, Time in system : 198
+Arrival time: 815, Service time: 1008, Time in system : 218
+Arrival time: 795, Service time: 1008, Time in system : 238
+Arrival time: 785, Service time: 1008, Time in system : 248
+Arrival time: 755, Service time: 1008, Time in system : 278
+Arrival time: 725, Service time: 1008, Time in system : 308
+
+serviceTime = 1033
+Processing package for Chicago (arrived t = 865)
+
+serviceTime = 1041
+Processing package for Chicago (arrived t = 875)
+
+serviceTime = 1049
+Processing package for Chicago (arrived t = 885)
+
+serviceTime = 1057
+Processing package for Chicago (arrived t = 895)
+
+serviceTime = 1065
+Processing package for Memphis (arrived t = 905)
+
+serviceTime = 1073
+Processing package for Memphis (arrived t = 915)
+
+serviceTime = 1081
+Processing package for Memphis (arrived t = 925)
+
+serviceTime = 1089
+Processing package for Memphis (arrived t = 935)
+
+serviceTime = 1097
+Processing package for Chicago (arrived t = 945)
+
+serviceTime = 1105
+Processing package for Chicago (arrived t = 955)
+
+serviceTime = 1113
+Processing package for Memphis (arrived t = 965)
+
+serviceTime = 1121
+Processing package for Chicago (arrived t = 975)
+
+serviceTime = 1129
+Processing package for Chicago (arrived t = 985)
+
+serviceTime = 1137
+Loading plane to Chicago (arrived t = 1130)
+Arrival time: 985, Service time: 1137, Time in system : 177
+Arrival time: 975, Service time: 1137, Time in system : 187
+Arrival time: 955, Service time: 1137, Time in system : 207
+Arrival time: 945, Service time: 1137, Time in system : 217
+Arrival time: 895, Service time: 1137, Time in system : 267
+Arrival time: 885, Service time: 1137, Time in system : 277
+Arrival time: 875, Service time: 1137, Time in system : 287
+Arrival time: 865, Service time: 1137, Time in system : 297
+
+serviceTime = 1162
+Processing package for Memphis (arrived t = 995)
+
+serviceTime = 1170
+Processing package for Memphis (arrived t = 1005)
+
+serviceTime = 1178
+Processing package for Chicago (arrived t = 1015)
+
+serviceTime = 1186
+Loading plane to Memphis (arrived t = 1180)
+Arrival time: 1005, Service time: 1186, Time in system : 206
+Arrival time: 995, Service time: 1186, Time in system : 216
+Arrival time: 965, Service time: 1186, Time in system : 246
+Arrival time: 935, Service time: 1186, Time in system : 276
+Arrival time: 925, Service time: 1186, Time in system : 286
+Arrival time: 915, Service time: 1186, Time in system : 296
+Arrival time: 905, Service time: 1186, Time in system : 306
+
+serviceTime = 1211
+Processing package for Memphis (arrived t = 1025)
+
+serviceTime = 1219
+Processing package for Chicago (arrived t = 1035)
+
+serviceTime = 1227
+Processing package for Memphis (arrived t = 1045)
+
+serviceTime = 1235
+Processing package for Memphis (arrived t = 1055)
+
+serviceTime = 1243
+Processing package for Chicago (arrived t = 1065)
+
+serviceTime = 1251
+Processing package for Chicago (arrived t = 1075)
+
+serviceTime = 1259
+Processing package for Chicago (arrived t = 1085)
+
+serviceTime = 1267
+Processing package for Memphis (arrived t = 1095)
+
+serviceTime = 1275
+Processing package for Memphis (arrived t = 1105)
+
+serviceTime = 1283
+Loading plane to Chicago (arrived t = 1280)
+Arrival time: 1085, Service time: 1283, Time in system : 223
+Arrival time: 1075, Service time: 1283, Time in system : 233
+Arrival time: 1065, Service time: 1283, Time in system : 243
+Arrival time: 1035, Service time: 1283, Time in system : 273
+Arrival time: 1015, Service time: 1283, Time in system : 293
+
+serviceTime = 1308
+Processing package for Chicago (arrived t = 1115)
+
+serviceTime = 1316
+Processing package for Memphis (arrived t = 1125)
+
+serviceTime = 1324
+Processing package for Memphis (arrived t = 1135)
+
+serviceTime = 1332
+Processing package for Memphis (arrived t = 1145)
+
+serviceTime = 1340
+Processing package for Chicago (arrived t = 1155)
+
+serviceTime = 1348
+Processing package for Chicago (arrived t = 1165)
+
+serviceTime = 1356
+Processing package for Memphis (arrived t = 1175)
+
+serviceTime = 1364
+Loading plane to Memphis (arrived t = 1360)
+Arrival time: 1175, Service time: 1364, Time in system : 214
+Arrival time: 1145, Service time: 1364, Time in system : 244
+Arrival time: 1135, Service time: 1364, Time in system : 254
+Arrival time: 1125, Service time: 1364, Time in system : 264
+Arrival time: 1105, Service time: 1364, Time in system : 284
+Arrival time: 1095, Service time: 1364, Time in system : 294
+Arrival time: 1055, Service time: 1364, Time in system : 334
+Arrival time: 1045, Service time: 1364, Time in system : 344
+Arrival time: 1025, Service time: 1364, Time in system : 364
+
+serviceTime = 1389
+Processing package for Chicago (arrived t = 1185)
+
+serviceTime = 1397
+Processing package for Chicago (arrived t = 1195)
+
+serviceTime = 1405
+Processing package for Memphis (arrived t = 1205)
+
+serviceTime = 1413
+Processing package for Memphis (arrived t = 1215)
+
+serviceTime = 1421
+Processing package for Chicago (arrived t = 1225)
+
+serviceTime = 1429
+Processing package for Chicago (arrived t = 1235)
+
+serviceTime = 1437
+Loading plane to Chicago (arrived t = 1430)
+Arrival time: 1235, Service time: 1437, Time in system : 227
+Arrival time: 1225, Service time: 1437, Time in system : 237
+Arrival time: 1195, Service time: 1437, Time in system : 267
+Arrival time: 1185, Service time: 1437, Time in system : 277
+Arrival time: 1165, Service time: 1437, Time in system : 297
+Arrival time: 1155, Service time: 1437, Time in system : 307
+Arrival time: 1115, Service time: 1437, Time in system : 347
+
+serviceTime = 1462
+Processing package for Memphis (arrived t = 1245)
+
+serviceTime = 1470
+Processing package for Memphis (arrived t = 1255)
+
+serviceTime = 1478
+Processing package for Memphis (arrived t = 1265)
+
+serviceTime = 1486
+Processing package for Memphis (arrived t = 1275)
+
+serviceTime = 1494
+Processing package for Chicago (arrived t = 1285)
+
+serviceTime = 1502
+Processing package for Chicago (arrived t = 1295)
+
+serviceTime = 1510
+Processing package for Chicago (arrived t = 1305)
+
+serviceTime = 1518
+Processing package for Memphis (arrived t = 1315)
+
+serviceTime = 1526
+Processing package for Chicago (arrived t = 1325)
+
+serviceTime = 1534
+Processing package for Memphis (arrived t = 1335)
+
+serviceTime = 1542
+Loading plane to Memphis (arrived t = 1540)
+Arrival time: 1335, Service time: 1542, Time in system : 232
+Arrival time: 1315, Service time: 1542, Time in system : 252
+Arrival time: 1275, Service time: 1542, Time in system : 292
+Arrival time: 1265, Service time: 1542, Time in system : 302
+Arrival time: 1255, Service time: 1542, Time in system : 312
+Arrival time: 1245, Service time: 1542, Time in system : 322
+Arrival time: 1215, Service time: 1542, Time in system : 352
+Arrival time: 1205, Service time: 1542, Time in system : 362
+
+serviceTime = 1567
+Processing package for Memphis (arrived t = 1345)
+
+serviceTime = 1575
+Processing package for Chicago (arrived t = 1355)
+
+serviceTime = 1583
+Loading plane to Chicago (arrived t = 1580)
+Arrival time: 1355, Service time: 1583, Time in system : 253
+Arrival time: 1325, Service time: 1583, Time in system : 283
+Arrival time: 1305, Service time: 1583, Time in system : 303
+Arrival time: 1295, Service time: 1583, Time in system : 313
+Arrival time: 1285, Service time: 1583, Time in system : 323
+
+serviceTime = 1608
+Processing package for Chicago (arrived t = 1365)
+
+serviceTime = 1616
+Processing package for Memphis (arrived t = 1375)
+
+serviceTime = 1624
+Processing package for Memphis (arrived t = 1385)
+
+serviceTime = 1632
+Processing package for Memphis (arrived t = 1395)
+
+serviceTime = 1640
+Processing package for Chicago (arrived t = 1405)
+
+serviceTime = 1648
+Processing package for Chicago (arrived t = 1415)
+
+serviceTime = 1656
+Processing package for Chicago (arrived t = 1425)
+
+serviceTime = 1664
+Processing package for Memphis (arrived t = 1435)
+
+serviceTime = 1672
+Processing package for Chicago (arrived t = 1445)
+
+serviceTime = 1680
+Processing package for Chicago (arrived t = 1455)
+
+serviceTime = 1688
+Processing package for Chicago (arrived t = 1465)
+
+serviceTime = 1696
+Processing package for Memphis (arrived t = 1475)
+
+serviceTime = 1704
+Processing package for Chicago (arrived t = 1485)
+
+serviceTime = 1712
+Processing package for Memphis (arrived t = 1495)
+
+serviceTime = 1720
+Loading plane to Memphis (arrived t = 1720)
+Arrival time: 1495, Service time: 1720, Time in system : 250
+Arrival time: 1475, Service time: 1720, Time in system : 270
+Arrival time: 1435, Service time: 1720, Time in system : 310
+Arrival time: 1395, Service time: 1720, Time in system : 350
+Arrival time: 1385, Service time: 1720, Time in system : 360
+Arrival time: 1375, Service time: 1720, Time in system : 370
+Arrival time: 1345, Service time: 1720, Time in system : 400
+
+serviceTime = 1745
+Loading plane to Chicago (arrived t = 1730)
+Arrival time: 1485, Service time: 1745, Time in system : 285
+Arrival time: 1465, Service time: 1745, Time in system : 305
+Arrival time: 1455, Service time: 1745, Time in system : 315
+Arrival time: 1445, Service time: 1745, Time in system : 325
+Arrival time: 1425, Service time: 1745, Time in system : 345
+Arrival time: 1415, Service time: 1745, Time in system : 355
+Arrival time: 1405, Service time: 1745, Time in system : 365
+Arrival time: 1365, Service time: 1745, Time in system : 405
+
+serviceTime = 1770
+Processing package for Memphis (arrived t = 1505)
+
+serviceTime = 1778
+Processing package for Chicago (arrived t = 1515)
+
+serviceTime = 1786
+Processing package for Memphis (arrived t = 1525)
+
+serviceTime = 1794
+Processing package for Memphis (arrived t = 1535)
+
+serviceTime = 1802
+Processing package for Chicago (arrived t = 1545)
+
+serviceTime = 1810
+Processing package for Memphis (arrived t = 1555)
+
+serviceTime = 1818
+Processing package for Memphis (arrived t = 1565)
+
+serviceTime = 1826
+Processing package for Chicago (arrived t = 1575)
+
+serviceTime = 1834
+Processing package for Memphis (arrived t = 1585)
+
+serviceTime = 1842
+Processing package for Memphis (arrived t = 1595)
+
+serviceTime = 1850
+Processing package for Chicago (arrived t = 1605)
+
+serviceTime = 1858
+Processing package for Memphis (arrived t = 1615)
+
+serviceTime = 1866
+Processing package for Chicago (arrived t = 1625)
+
+serviceTime = 1874
+Processing package for Memphis (arrived t = 1635)
+
+serviceTime = 1882
+Loading plane to Chicago (arrived t = 1880)
+Arrival time: 1625, Service time: 1882, Time in system : 282
+Arrival time: 1605, Service time: 1882, Time in system : 302
+Arrival time: 1575, Service time: 1882, Time in system : 332
+Arrival time: 1545, Service time: 1882, Time in system : 362
+Arrival time: 1515, Service time: 1882, Time in system : 392
+
+serviceTime = 1907
+Loading plane to Memphis (arrived t = 1900)
+Arrival time: 1635, Service time: 1907, Time in system : 297
+Arrival time: 1615, Service time: 1907, Time in system : 317
+Arrival time: 1595, Service time: 1907, Time in system : 337
+Arrival time: 1585, Service time: 1907, Time in system : 347
+Arrival time: 1565, Service time: 1907, Time in system : 367
+Arrival time: 1555, Service time: 1907, Time in system : 377
+Arrival time: 1535, Service time: 1907, Time in system : 397
+Arrival time: 1525, Service time: 1907, Time in system : 407
+Arrival time: 1505, Service time: 1907, Time in system : 427
+
+serviceTime = 1932
+Processing package for Memphis (arrived t = 1645)
+
+serviceTime = 1940
+Processing package for Memphis (arrived t = 1655)
+
+serviceTime = 1948
+Processing package for Chicago (arrived t = 1665)
+
+serviceTime = 1956
+Processing package for Memphis (arrived t = 1675)
+
+serviceTime = 1964
+Processing package for Chicago (arrived t = 1685)
+
+serviceTime = 1972
+Processing package for Chicago (arrived t = 1695)
+
+serviceTime = 1980
+Processing package for Memphis (arrived t = 1705)
+
+serviceTime = 1988
+Processing package for Chicago (arrived t = 1715)
+
+serviceTime = 1996
+Processing package for Memphis (arrived t = 1725)
+
+serviceTime = 2004
+Processing package for Chicago (arrived t = 1735)
+
+serviceTime = 2012
+Processing package for Chicago (arrived t = 1745)
+
+serviceTime = 2020
+Processing package for Chicago (arrived t = 1755)
+
+serviceTime = 2028
+Processing package for Memphis (arrived t = 1765)
+
+serviceTime = 2036
+Loading plane to Chicago (arrived t = 2030)
+Arrival time: 1755, Service time: 2036, Time in system : 306
+Arrival time: 1745, Service time: 2036, Time in system : 316
+Arrival time: 1735, Service time: 2036, Time in system : 326
+Arrival time: 1715, Service time: 2036, Time in system : 346
+Arrival time: 1695, Service time: 2036, Time in system : 366
+Arrival time: 1685, Service time: 2036, Time in system : 376
+Arrival time: 1665, Service time: 2036, Time in system : 396
+
+serviceTime = 2061
+Processing package for Memphis (arrived t = 1775)
+
+serviceTime = 2069
+Processing package for Memphis (arrived t = 1785)
+
+serviceTime = 2077
+Processing package for Memphis (arrived t = 1795)
+
+serviceTime = 2085
+Loading plane to Memphis (arrived t = 2080)
+Arrival time: 1795, Service time: 2085, Time in system : 315
+Arrival time: 1785, Service time: 2085, Time in system : 325
+Arrival time: 1775, Service time: 2085, Time in system : 335
+Arrival time: 1765, Service time: 2085, Time in system : 345
+Arrival time: 1725, Service time: 2085, Time in system : 385
+Arrival time: 1705, Service time: 2085, Time in system : 405
+Arrival time: 1675, Service time: 2085, Time in system : 435
+Arrival time: 1655, Service time: 2085, Time in system : 455
+Arrival time: 1645, Service time: 2085, Time in system : 465
+
+serviceTime = 2110
+Processing package for Memphis (arrived t = 1805)
+
+serviceTime = 2118
+Processing package for Chicago (arrived t = 1815)
+
+serviceTime = 2126
+Processing package for Chicago (arrived t = 1825)
+
+serviceTime = 2134
+Processing package for Chicago (arrived t = 1835)
+
+serviceTime = 2142
+Processing package for Chicago (arrived t = 1845)
+
+serviceTime = 2150
+Processing package for Memphis (arrived t = 1855)
+
+serviceTime = 2158
+Processing package for Memphis (arrived t = 1865)
+
+serviceTime = 2166
+Processing package for Chicago (arrived t = 1875)
+
+serviceTime = 2174
+Processing package for Chicago (arrived t = 1885)
+
+serviceTime = 2182
+Loading plane to Chicago (arrived t = 2180)
+Arrival time: 1885, Service time: 2182, Time in system : 322
+Arrival time: 1875, Service time: 2182, Time in system : 332
+Arrival time: 1845, Service time: 2182, Time in system : 362
+Arrival time: 1835, Service time: 2182, Time in system : 372
+Arrival time: 1825, Service time: 2182, Time in system : 382
+Arrival time: 1815, Service time: 2182, Time in system : 392
+
+serviceTime = 2207
+Processing package for Memphis (arrived t = 1895)
+
+serviceTime = 2215
+Processing package for Chicago (arrived t = 1905)
+
+serviceTime = 2223
+Processing package for Chicago (arrived t = 1915)
+
+serviceTime = 2231
+Processing package for Chicago (arrived t = 1925)
+
+serviceTime = 2239
+Processing package for Memphis (arrived t = 1935)
+
+serviceTime = 2247
+Processing package for Memphis (arrived t = 1945)
+
+serviceTime = 2255
+Processing package for Memphis (arrived t = 1955)
+
+serviceTime = 2263
+Loading plane to Memphis (arrived t = 2260)
+Arrival time: 1955, Service time: 2263, Time in system : 333
+Arrival time: 1945, Service time: 2263, Time in system : 343
+Arrival time: 1935, Service time: 2263, Time in system : 353
+Arrival time: 1895, Service time: 2263, Time in system : 393
+Arrival time: 1865, Service time: 2263, Time in system : 423
+Arrival time: 1855, Service time: 2263, Time in system : 433
+Arrival time: 1805, Service time: 2263, Time in system : 483
+
+serviceTime = 2288
+Processing package for Chicago (arrived t = 1965)
+
+serviceTime = 2296
+Processing package for Chicago (arrived t = 1975)
+
+serviceTime = 2304
+Processing package for Chicago (arrived t = 1985)
+
+serviceTime = 2312
+Processing package for Memphis (arrived t = 1995)
+
+serviceTime = 2320
+Processing package for Chicago (arrived t = 2005)
+
+serviceTime = 2328
+Processing package for Chicago (arrived t = 2015)
+
+serviceTime = 2336
+Loading plane to Chicago (arrived t = 2330)
+Arrival time: 2015, Service time: 2336, Time in system : 346
+Arrival time: 2005, Service time: 2336, Time in system : 356
+Arrival time: 1985, Service time: 2336, Time in system : 376
+Arrival time: 1975, Service time: 2336, Time in system : 386
+Arrival time: 1965, Service time: 2336, Time in system : 396
+Arrival time: 1925, Service time: 2336, Time in system : 436
+Arrival time: 1915, Service time: 2336, Time in system : 446
+Arrival time: 1905, Service time: 2336, Time in system : 456
+
+serviceTime = 2361
+Processing package for Chicago (arrived t = 2025)
+
+serviceTime = 2369
+Processing package for Memphis (arrived t = 2035)
+
+serviceTime = 2377
+Processing package for Memphis (arrived t = 2045)
+
+serviceTime = 2385
+Processing package for Memphis (arrived t = 2055)
+
+serviceTime = 2393
+Processing package for Chicago (arrived t = 2065)
+
+serviceTime = 2401
+Processing package for Memphis (arrived t = 2075)
+
+serviceTime = 2409
+Processing package for Memphis (arrived t = 2085)
+
+serviceTime = 2417
+Processing package for Memphis (arrived t = 2095)
+
+serviceTime = 2425
+Processing package for Memphis (arrived t = 2105)
+
+serviceTime = 2433
+Processing package for Chicago (arrived t = 2115)
+
+serviceTime = 2441
+Loading plane to Memphis (arrived t = 2440)
+Arrival time: 2105, Service time: 2441, Time in system : 361
+Arrival time: 2095, Service time: 2441, Time in system : 371
+Arrival time: 2085, Service time: 2441, Time in system : 381
+Arrival time: 2075, Service time: 2441, Time in system : 391
+Arrival time: 2055, Service time: 2441, Time in system : 411
+Arrival time: 2045, Service time: 2441, Time in system : 421
+Arrival time: 2035, Service time: 2441, Time in system : 431
+Arrival time: 1995, Service time: 2441, Time in system : 471
+
+serviceTime = 2466
+Processing package for Chicago (arrived t = 2125)
+
+serviceTime = 2474
+Processing package for Chicago (arrived t = 2135)
+
+serviceTime = 2482
+Loading plane to Chicago (arrived t = 2480)
+Arrival time: 2135, Service time: 2482, Time in system : 372
+Arrival time: 2125, Service time: 2482, Time in system : 382
+Arrival time: 2115, Service time: 2482, Time in system : 392
+Arrival time: 2065, Service time: 2482, Time in system : 442
+Arrival time: 2025, Service time: 2482, Time in system : 482
+
+serviceTime = 2507
+Processing package for Memphis (arrived t = 2145)
+
+serviceTime = 2515
+Processing package for Chicago (arrived t = 2155)
+
+serviceTime = 2523
+Processing package for Memphis (arrived t = 2165)
+
+serviceTime = 2531
+Processing package for Chicago (arrived t = 2175)
+
+serviceTime = 2539
+Processing package for Memphis (arrived t = 2185)
+
+serviceTime = 2547
+Processing package for Chicago (arrived t = 2195)
+
+serviceTime = 2555
+Processing package for Chicago (arrived t = 2205)
+
+serviceTime = 2563
+Processing package for Memphis (arrived t = 2215)
+
+serviceTime = 2571
+Processing package for Chicago (arrived t = 2225)
+
+serviceTime = 2579
+Processing package for Memphis (arrived t = 2235)
+
+serviceTime = 2587
+Processing package for Chicago (arrived t = 2245)
+
+serviceTime = 2595
+Processing package for Chicago (arrived t = 2255)
+
+serviceTime = 2603
+Processing package for Memphis (arrived t = 2265)
+
+serviceTime = 2611
+Processing package for Chicago (arrived t = 2275)
+
+serviceTime = 2619
+Processing package for Chicago (arrived t = 2285)
+
+serviceTime = 2627
+Loading plane to Memphis (arrived t = 2620)
+Arrival time: 2265, Service time: 2627, Time in system : 387
+Arrival time: 2235, Service time: 2627, Time in system : 417
+Arrival time: 2215, Service time: 2627, Time in system : 437
+Arrival time: 2185, Service time: 2627, Time in system : 467
+Arrival time: 2165, Service time: 2627, Time in system : 487
+Arrival time: 2145, Service time: 2627, Time in system : 507
+
+serviceTime = 2652
+Loading plane to Chicago (arrived t = 2630)
+Arrival time: 2285, Service time: 2652, Time in system : 392
+Arrival time: 2275, Service time: 2652, Time in system : 402
+Arrival time: 2255, Service time: 2652, Time in system : 422
+Arrival time: 2245, Service time: 2652, Time in system : 432
+Arrival time: 2225, Service time: 2652, Time in system : 452
+Arrival time: 2205, Service time: 2652, Time in system : 472
+Arrival time: 2195, Service time: 2652, Time in system : 482
+Arrival time: 2175, Service time: 2652, Time in system : 502
+Arrival time: 2155, Service time: 2652, Time in system : 522
+
+serviceTime = 2677
+Processing package for Memphis (arrived t = 2295)
+
+serviceTime = 2685
+Processing package for Memphis (arrived t = 2305)
+
+serviceTime = 2693
+Processing package for Chicago (arrived t = 2315)
+
+serviceTime = 2701
+Processing package for Chicago (arrived t = 2325)
+
+serviceTime = 2709
+Processing package for Memphis (arrived t = 2335)
+
+serviceTime = 2717
+Processing package for Memphis (arrived t = 2345)
+
+serviceTime = 2725
+Processing package for Memphis (arrived t = 2355)
+
+serviceTime = 2733
+Processing package for Memphis (arrived t = 2365)
+
+serviceTime = 2741
+Processing package for Memphis (arrived t = 2375)
+
+serviceTime = 2749
+Processing package for Memphis (arrived t = 2385)
+
+serviceTime = 2757
+Processing package for Memphis (arrived t = 2395)
+
+serviceTime = 2765
+Processing package for Chicago (arrived t = 2405)
+
+serviceTime = 2773
+Processing package for Chicago (arrived t = 2415)
+
+serviceTime = 2781
+Loading plane to Chicago (arrived t = 2780)
+Arrival time: 2415, Service time: 2781, Time in system : 391
+Arrival time: 2405, Service time: 2781, Time in system : 401
+Arrival time: 2325, Service time: 2781, Time in system : 481
+Arrival time: 2315, Service time: 2781, Time in system : 491
+
+serviceTime = 2806
+Loading plane to Memphis (arrived t = 2800)
+Arrival time: 2395, Service time: 2806, Time in system : 436
+Arrival time: 2385, Service time: 2806, Time in system : 446
+Arrival time: 2375, Service time: 2806, Time in system : 456
+Arrival time: 2365, Service time: 2806, Time in system : 466
+Arrival time: 2355, Service time: 2806, Time in system : 476
+Arrival time: 2345, Service time: 2806, Time in system : 486
+Arrival time: 2335, Service time: 2806, Time in system : 496
+Arrival time: 2305, Service time: 2806, Time in system : 526
+Arrival time: 2295, Service time: 2806, Time in system : 536
+
+serviceTime = 2831
+Processing package for Memphis (arrived t = 2425)
+
+serviceTime = 2839
+Processing package for Memphis (arrived t = 2435)
+
+serviceTime = 2847
+Processing package for Memphis (arrived t = 2445)
+
+serviceTime = 2855
+Processing package for Chicago (arrived t = 2455)
+
+serviceTime = 2863
+Processing package for Chicago (arrived t = 2465)
+
+serviceTime = 2871
+Processing package for Memphis (arrived t = 2475)
+
+serviceTime = 2879
+Processing package for Memphis (arrived t = 2485)
+
+serviceTime = 2887
+Processing package for Memphis (arrived t = 2495)
+
+serviceTime = 2895
+Processing package for Chicago (arrived t = 2505)
+
+serviceTime = 2903
+Processing package for Chicago (arrived t = 2515)
+
+serviceTime = 2911
+Processing package for Chicago (arrived t = 2525)
+
+serviceTime = 2919
+Processing package for Memphis (arrived t = 2535)
+
+serviceTime = 2927
+Processing package for Memphis (arrived t = 2545)
+
+serviceTime = 2935
+Loading plane to Chicago (arrived t = 2930)
+Arrival time: 2525, Service time: 2935, Time in system : 435
+Arrival time: 2515, Service time: 2935, Time in system : 445
+Arrival time: 2505, Service time: 2935, Time in system : 455
+Arrival time: 2465, Service time: 2935, Time in system : 495
+Arrival time: 2455, Service time: 2935, Time in system : 505
+
+serviceTime = 2960
+Processing package for Memphis (arrived t = 2555)
+
+serviceTime = 2968
+Processing package for Memphis (arrived t = 2565)
+
+serviceTime = 2976
+Processing package for Memphis (arrived t = 2575)
+
+serviceTime = 2984
+Loading plane to Memphis (arrived t = 2980)
+Arrival time: 2575, Service time: 2984, Time in system : 434
+Arrival time: 2565, Service time: 2984, Time in system : 444
+Arrival time: 2555, Service time: 2984, Time in system : 454
+Arrival time: 2545, Service time: 2984, Time in system : 464
+Arrival time: 2535, Service time: 2984, Time in system : 474
+Arrival time: 2495, Service time: 2984, Time in system : 514
+Arrival time: 2485, Service time: 2984, Time in system : 524
+Arrival time: 2475, Service time: 2984, Time in system : 534
+Arrival time: 2445, Service time: 2984, Time in system : 564
+Arrival time: 2435, Service time: 2984, Time in system : 574
+Arrival time: 2425, Service time: 2984, Time in system : 584
+
+serviceTime = 3009
+Processing package for Chicago (arrived t = 2585)
+
+serviceTime = 3017
+Processing package for Memphis (arrived t = 2595)
+
+serviceTime = 3025
+Processing package for Memphis (arrived t = 2605)
+
+serviceTime = 3033
+Processing package for Memphis (arrived t = 2615)
+
+serviceTime = 3041
+Processing package for Memphis (arrived t = 2625)
+
+serviceTime = 3049
+Processing package for Memphis (arrived t = 2635)
+
+serviceTime = 3057
+Processing package for Chicago (arrived t = 2645)
+
+serviceTime = 3065
+Processing package for Memphis (arrived t = 2655)
+
+serviceTime = 3073
+Processing package for Memphis (arrived t = 2665)
+
+serviceTime = 3081
+Loading plane to Chicago (arrived t = 3080)
+Arrival time: 2645, Service time: 3081, Time in system : 461
+Arrival time: 2585, Service time: 3081, Time in system : 521
+
+serviceTime = 3106
+Processing package for Chicago (arrived t = 2675)
+
+serviceTime = 3114
+Processing package for Memphis (arrived t = 2685)
+
+serviceTime = 3122
+Processing package for Chicago (arrived t = 2695)
+
+serviceTime = 3130
+Processing package for Chicago (arrived t = 2705)
+
+serviceTime = 3138
+Processing package for Chicago (arrived t = 2715)
+
+serviceTime = 3146
+Processing package for Memphis (arrived t = 2725)
+
+serviceTime = 3154
+Processing package for Memphis (arrived t = 2735)
+
+serviceTime = 3162
+Loading plane to Memphis (arrived t = 3160)
+Arrival time: 2735, Service time: 3162, Time in system : 452
+Arrival time: 2725, Service time: 3162, Time in system : 462
+Arrival time: 2685, Service time: 3162, Time in system : 502
+Arrival time: 2665, Service time: 3162, Time in system : 522
+Arrival time: 2655, Service time: 3162, Time in system : 532
+Arrival time: 2635, Service time: 3162, Time in system : 552
+Arrival time: 2625, Service time: 3162, Time in system : 562
+Arrival time: 2615, Service time: 3162, Time in system : 572
+Arrival time: 2605, Service time: 3162, Time in system : 582
+Arrival time: 2595, Service time: 3162, Time in system : 592
+
+serviceTime = 3187
+Processing package for Memphis (arrived t = 2745)
+
+serviceTime = 3195
+Processing package for Chicago (arrived t = 2755)
+
+serviceTime = 3203
+Processing package for Chicago (arrived t = 2765)
+
+serviceTime = 3211
+Processing package for Chicago (arrived t = 2775)
+
+serviceTime = 3219
+Processing package for Chicago (arrived t = 2785)
+
+serviceTime = 3227
+Processing package for Memphis (arrived t = 2795)
+
+serviceTime = 3235
+Loading plane to Chicago (arrived t = 3230)
+Arrival time: 2785, Service time: 3235, Time in system : 475
+Arrival time: 2775, Service time: 3235, Time in system : 485
+Arrival time: 2765, Service time: 3235, Time in system : 495
+Arrival time: 2755, Service time: 3235, Time in system : 505
+Arrival time: 2715, Service time: 3235, Time in system : 545
+Arrival time: 2705, Service time: 3235, Time in system : 555
+Arrival time: 2695, Service time: 3235, Time in system : 565
+Arrival time: 2675, Service time: 3235, Time in system : 585
+
+serviceTime = 3260
+Processing package for Memphis (arrived t = 2805)
+
+serviceTime = 3268
+Processing package for Memphis (arrived t = 2815)
+
+serviceTime = 3276
+Processing package for Chicago (arrived t = 2825)
+
+serviceTime = 3284
+Processing package for Chicago (arrived t = 2835)
+
+serviceTime = 3292
+Processing package for Chicago (arrived t = 2845)
+
+serviceTime = 3300
+Processing package for Chicago (arrived t = 2855)
+
+serviceTime = 3308
+Processing package for Memphis (arrived t = 2865)
+
+serviceTime = 3316
+Processing package for Chicago (arrived t = 2875)
+
+serviceTime = 3324
+Processing package for Chicago (arrived t = 2885)
+
+serviceTime = 3332
+Processing package for Memphis (arrived t = 2895)
+
+serviceTime = 3340
+Loading plane to Memphis (arrived t = 3340)
+Arrival time: 2895, Service time: 3340, Time in system : 470
+Arrival time: 2865, Service time: 3340, Time in system : 500
+Arrival time: 2815, Service time: 3340, Time in system : 550
+Arrival time: 2805, Service time: 3340, Time in system : 560
+Arrival time: 2795, Service time: 3340, Time in system : 570
+Arrival time: 2745, Service time: 3340, Time in system : 620
+
+serviceTime = 3365
+Processing package for Chicago (arrived t = 2905)
+
+serviceTime = 3373
+Processing package for Memphis (arrived t = 2915)
+
+serviceTime = 3381
+Loading plane to Chicago (arrived t = 3380)
+Arrival time: 2905, Service time: 3381, Time in system : 501
+Arrival time: 2885, Service time: 3381, Time in system : 521
+Arrival time: 2875, Service time: 3381, Time in system : 531
+Arrival time: 2855, Service time: 3381, Time in system : 551
+Arrival time: 2845, Service time: 3381, Time in system : 561
+Arrival time: 2835, Service time: 3381, Time in system : 571
+Arrival time: 2825, Service time: 3381, Time in system : 581
+
+serviceTime = 3406
+Processing package for Memphis (arrived t = 2925)
+
+serviceTime = 3414
+Processing package for Memphis (arrived t = 2935)
+
+serviceTime = 3422
+Processing package for Memphis (arrived t = 2945)
+
+serviceTime = 3430
+Processing package for Chicago (arrived t = 2955)
+
+serviceTime = 3438
+Processing package for Memphis (arrived t = 2965)
+
+serviceTime = 3446
+Processing package for Chicago (arrived t = 2975)
+
+serviceTime = 3454
+Processing package for Chicago (arrived t = 2985)
+
+serviceTime = 3462
+Processing package for Memphis (arrived t = 2995)
+
+serviceTime = 3470
+Processing package for Memphis (arrived t = 3005)
+
+serviceTime = 3478
+Processing package for Memphis (arrived t = 3015)
+
+serviceTime = 3486
+Processing package for Memphis (arrived t = 3025)
+
+serviceTime = 3494
+Processing package for Chicago (arrived t = 3035)
+
+serviceTime = 3502
+Processing package for Memphis (arrived t = 3045)
+
+serviceTime = 3510
+Processing package for Memphis (arrived t = 3055)
+
+serviceTime = 3518
+Processing package for Chicago (arrived t = 3065)
+
+serviceTime = 3526
+Loading plane to Memphis (arrived t = 3520)
+Arrival time: 3055, Service time: 3526, Time in system : 496
+Arrival time: 3045, Service time: 3526, Time in system : 506
+Arrival time: 3025, Service time: 3526, Time in system : 526
+Arrival time: 3015, Service time: 3526, Time in system : 536
+Arrival time: 3005, Service time: 3526, Time in system : 546
+Arrival time: 2995, Service time: 3526, Time in system : 556
+Arrival time: 2965, Service time: 3526, Time in system : 586
+Arrival time: 2945, Service time: 3526, Time in system : 606
+Arrival time: 2935, Service time: 3526, Time in system : 616
+Arrival time: 2925, Service time: 3526, Time in system : 626
+Arrival time: 2915, Service time: 3526, Time in system : 636
+
+serviceTime = 3551
+Loading plane to Chicago (arrived t = 3530)
+Arrival time: 3065, Service time: 3551, Time in system : 511
+Arrival time: 3035, Service time: 3551, Time in system : 541
+Arrival time: 2985, Service time: 3551, Time in system : 591
+Arrival time: 2975, Service time: 3551, Time in system : 601
+Arrival time: 2955, Service time: 3551, Time in system : 621
+
+serviceTime = 3576
+Processing package for Chicago (arrived t = 3075)
+
+serviceTime = 3584
+Processing package for Memphis (arrived t = 3085)
+
+serviceTime = 3592
+Processing package for Chicago (arrived t = 3095)
+
+serviceTime = 3600
+Processing package for Chicago (arrived t = 3105)
+
+serviceTime = 3608
+Processing package for Memphis (arrived t = 3115)
+
+serviceTime = 3616
+Processing package for Memphis (arrived t = 3125)
+
+serviceTime = 3624
+Processing package for Memphis (arrived t = 3135)
+
+serviceTime = 3632
+Processing package for Chicago (arrived t = 3145)
+
+serviceTime = 3640
+Processing package for Chicago (arrived t = 3155)
+
+serviceTime = 3648
+Processing package for Chicago (arrived t = 3165)
+
+serviceTime = 3656
+Processing package for Chicago (arrived t = 3175)
+
+serviceTime = 3664
+Processing package for Memphis (arrived t = 3185)
+
+serviceTime = 3672
+Processing package for Memphis (arrived t = 3195)
+
+serviceTime = 3680
+Loading plane to Chicago (arrived t = 3680)
+Arrival time: 3175, Service time: 3680, Time in system : 530
+Arrival time: 3165, Service time: 3680, Time in system : 540
+Arrival time: 3155, Service time: 3680, Time in system : 550
+Arrival time: 3145, Service time: 3680, Time in system : 560
+Arrival time: 3105, Service time: 3680, Time in system : 600
+Arrival time: 3095, Service time: 3680, Time in system : 610
+Arrival time: 3075, Service time: 3680, Time in system : 630
+
+serviceTime = 3705
+Loading plane to Memphis (arrived t = 3700)
+Arrival time: 3195, Service time: 3705, Time in system : 535
+Arrival time: 3185, Service time: 3705, Time in system : 545
+Arrival time: 3135, Service time: 3705, Time in system : 595
+Arrival time: 3125, Service time: 3705, Time in system : 605
+Arrival time: 3115, Service time: 3705, Time in system : 615
+Arrival time: 3085, Service time: 3705, Time in system : 645
+
+serviceTime = 3730
+Processing package for Chicago (arrived t = 3205)
+
+serviceTime = 3738
+Processing package for Memphis (arrived t = 3215)
+
+serviceTime = 3746
+Processing package for Memphis (arrived t = 3225)
+
+serviceTime = 3754
+Processing package for Memphis (arrived t = 3235)
+
+serviceTime = 3762
+Processing package for Chicago (arrived t = 3245)
+
+serviceTime = 3770
+Processing package for Chicago (arrived t = 3255)
+
+serviceTime = 3778
+Processing package for Memphis (arrived t = 3265)
+
+serviceTime = 3786
+Processing package for Chicago (arrived t = 3275)
+
+serviceTime = 3794
+Processing package for Memphis (arrived t = 3285)
+
+serviceTime = 3802
+Processing package for Memphis (arrived t = 3295)
+
+serviceTime = 3810
+Processing package for Chicago (arrived t = 3305)
+
+serviceTime = 3818
+Processing package for Memphis (arrived t = 3315)
+
+serviceTime = 3826
+Processing package for Chicago (arrived t = 3325)
+
+serviceTime = 3834
+Loading plane to Chicago (arrived t = 3830)
+Arrival time: 3325, Service time: 3834, Time in system : 534
+Arrival time: 3305, Service time: 3834, Time in system : 554
+Arrival time: 3275, Service time: 3834, Time in system : 584
+Arrival time: 3255, Service time: 3834, Time in system : 604
+Arrival time: 3245, Service time: 3834, Time in system : 614
+Arrival time: 3205, Service time: 3834, Time in system : 654
+
+serviceTime = 3859
+Processing package for Chicago (arrived t = 3335)
+
+serviceTime = 3867
+Processing package for Memphis (arrived t = 3345)
+
+serviceTime = 3875
+Processing package for Memphis (arrived t = 3355)
+
+serviceTime = 3883
+Loading plane to Memphis (arrived t = 3880)
+Arrival time: 3355, Service time: 3883, Time in system : 553
+Arrival time: 3345, Service time: 3883, Time in system : 563
+Arrival time: 3315, Service time: 3883, Time in system : 593
+Arrival time: 3295, Service time: 3883, Time in system : 613
+Arrival time: 3285, Service time: 3883, Time in system : 623
+Arrival time: 3265, Service time: 3883, Time in system : 643
+Arrival time: 3235, Service time: 3883, Time in system : 673
+Arrival time: 3225, Service time: 3883, Time in system : 683
+Arrival time: 3215, Service time: 3883, Time in system : 693
+
+serviceTime = 3908
+Processing package for Chicago (arrived t = 3365)
+
+serviceTime = 3916
+Processing package for Memphis (arrived t = 3375)
+
+serviceTime = 3924
+Processing package for Memphis (arrived t = 3385)
+
+serviceTime = 3932
+Processing package for Chicago (arrived t = 3395)
+
+serviceTime = 3940
+Processing package for Chicago (arrived t = 3405)
+
+serviceTime = 3948
+Processing package for Chicago (arrived t = 3415)
+
+serviceTime = 3956
+Processing package for Memphis (arrived t = 3425)
+
+serviceTime = 3964
+Processing package for Memphis (arrived t = 3435)
+
+serviceTime = 3972
+Processing package for Memphis (arrived t = 3445)
+
+serviceTime = 3980
+Loading plane to Chicago (arrived t = 3980)
+Arrival time: 3415, Service time: 3980, Time in system : 590
+Arrival time: 3405, Service time: 3980, Time in system : 600
+Arrival time: 3395, Service time: 3980, Time in system : 610
+Arrival time: 3365, Service time: 3980, Time in system : 640
+Arrival time: 3335, Service time: 3980, Time in system : 670
+
+serviceTime = 4005
+Processing package for Chicago (arrived t = 3455)
+
+serviceTime = 4013
+Processing package for Chicago (arrived t = 3465)
+
+serviceTime = 4021
+Processing package for Chicago (arrived t = 3475)
+
+serviceTime = 4029
+Processing package for Memphis (arrived t = 3485)
+
+serviceTime = 4037
+Processing package for Chicago (arrived t = 3495)
+
+serviceTime = 4045
+Processing package for Memphis (arrived t = 3505)
+
+serviceTime = 4053
+Processing package for Memphis (arrived t = 3515)
+
+serviceTime = 4061
+Loading plane to Memphis (arrived t = 4060)
+Arrival time: 3515, Service time: 4061, Time in system : 571
+Arrival time: 3505, Service time: 4061, Time in system : 581
+Arrival time: 3485, Service time: 4061, Time in system : 601
+Arrival time: 3445, Service time: 4061, Time in system : 641
+Arrival time: 3435, Service time: 4061, Time in system : 651
+Arrival time: 3425, Service time: 4061, Time in system : 661
+Arrival time: 3385, Service time: 4061, Time in system : 701
+Arrival time: 3375, Service time: 4061, Time in system : 711
+
+serviceTime = 4086
+Processing package for Memphis (arrived t = 3525)
+
+serviceTime = 4094
+Processing package for Memphis (arrived t = 3535)
+
+serviceTime = 4102
+Processing package for Memphis (arrived t = 3545)
+
+serviceTime = 4110
+Processing package for Chicago (arrived t = 3555)
+
+serviceTime = 4118
+Processing package for Chicago (arrived t = 3565)
+
+serviceTime = 4126
+Processing package for Memphis (arrived t = 3575)
+
+serviceTime = 4134
+Loading plane to Chicago (arrived t = 4130)
+Arrival time: 3565, Service time: 4134, Time in system : 594
+Arrival time: 3555, Service time: 4134, Time in system : 604
+Arrival time: 3495, Service time: 4134, Time in system : 664
+Arrival time: 3475, Service time: 4134, Time in system : 684
+Arrival time: 3465, Service time: 4134, Time in system : 694
+Arrival time: 3455, Service time: 4134, Time in system : 704
+
+serviceTime = 4159
+Processing package for Memphis (arrived t = 3585)
+
+serviceTime = 4167
+Processing package for Chicago (arrived t = 3595)
+
+serviceTime = 4175
+Processing package for Chicago (arrived t = 3605)
+
+serviceTime = 4183
+Processing package for Chicago (arrived t = 3615)
+
+serviceTime = 4191
+Processing package for Memphis (arrived t = 3625)
+
+serviceTime = 4199
+Processing package for Chicago (arrived t = 3635)
+
+serviceTime = 4207
+Processing package for Chicago (arrived t = 3645)
+
+serviceTime = 4215
+Processing package for Chicago (arrived t = 3655)
+
+serviceTime = 4223
+Processing package for Memphis (arrived t = 3665)
+
+serviceTime = 4231
+Processing package for Memphis (arrived t = 3675)
+
+serviceTime = 4239
+Processing package for Memphis (arrived t = 3685)
+
+serviceTime = 4247
+Loading plane to Memphis (arrived t = 4240)
+Arrival time: 3685, Service time: 4247, Time in system : 587
+Arrival time: 3675, Service time: 4247, Time in system : 597
+Arrival time: 3665, Service time: 4247, Time in system : 607
+Arrival time: 3625, Service time: 4247, Time in system : 647
+Arrival time: 3585, Service time: 4247, Time in system : 687
+Arrival time: 3575, Service time: 4247, Time in system : 697
+Arrival time: 3545, Service time: 4247, Time in system : 727
+Arrival time: 3535, Service time: 4247, Time in system : 737
+Arrival time: 3525, Service time: 4247, Time in system : 747
+
+serviceTime = 4272
+Processing package for Memphis (arrived t = 3695)
+
+serviceTime = 4280
+Loading plane to Chicago (arrived t = 4280)
+Arrival time: 3655, Service time: 4280, Time in system : 650
+Arrival time: 3645, Service time: 4280, Time in system : 660
+Arrival time: 3635, Service time: 4280, Time in system : 670
+Arrival time: 3615, Service time: 4280, Time in system : 690
+Arrival time: 3605, Service time: 4280, Time in system : 700
+Arrival time: 3595, Service time: 4280, Time in system : 710
+
+serviceTime = 4305
+Processing package for Memphis (arrived t = 3705)
+
+serviceTime = 4313
+Processing package for Memphis (arrived t = 3715)
+
+serviceTime = 4321
+Processing package for Memphis (arrived t = 3725)
+
+serviceTime = 4329
+Processing package for Chicago (arrived t = 3735)
+
+serviceTime = 4337
+Processing package for Memphis (arrived t = 3745)
+
+serviceTime = 4345
+Processing package for Chicago (arrived t = 3755)
+
+serviceTime = 4353
+Processing package for Chicago (arrived t = 3765)
+
+serviceTime = 4361
+Processing package for Chicago (arrived t = 3775)
+
+serviceTime = 4369
+Processing package for Memphis (arrived t = 3785)
+
+serviceTime = 4377
+Processing package for Chicago (arrived t = 3795)
+
+serviceTime = 4385
+Processing package for Chicago (arrived t = 3805)
+
+serviceTime = 4393
+Processing package for Memphis (arrived t = 3815)
+
+serviceTime = 4401
+Processing package for Chicago (arrived t = 3825)
+
+serviceTime = 4409
+Processing package for Memphis (arrived t = 3835)
+
+serviceTime = 4417
+Processing package for Chicago (arrived t = 3845)
+
+serviceTime = 4425
+Loading plane to Memphis (arrived t = 4420)
+Arrival time: 3835, Service time: 4425, Time in system : 615
+Arrival time: 3815, Service time: 4425, Time in system : 635
+Arrival time: 3785, Service time: 4425, Time in system : 665
+Arrival time: 3745, Service time: 4425, Time in system : 705
+Arrival time: 3725, Service time: 4425, Time in system : 725
+Arrival time: 3715, Service time: 4425, Time in system : 735
+Arrival time: 3705, Service time: 4425, Time in system : 745
+Arrival time: 3695, Service time: 4425, Time in system : 755
+
+serviceTime = 4450
+Loading plane to Chicago (arrived t = 4430)
+Arrival time: 3845, Service time: 4450, Time in system : 630
+Arrival time: 3825, Service time: 4450, Time in system : 650
+Arrival time: 3805, Service time: 4450, Time in system : 670
+Arrival time: 3795, Service time: 4450, Time in system : 680
+Arrival time: 3775, Service time: 4450, Time in system : 700
+Arrival time: 3765, Service time: 4450, Time in system : 710
+Arrival time: 3755, Service time: 4450, Time in system : 720
+Arrival time: 3735, Service time: 4450, Time in system : 740
+
+serviceTime = 4475
+Processing package for Chicago (arrived t = 3855)
+
+serviceTime = 4483
+Processing package for Chicago (arrived t = 3865)
+
+serviceTime = 4491
+Processing package for Memphis (arrived t = 3875)
+
+serviceTime = 4499
+Processing package for Chicago (arrived t = 3885)
+
+serviceTime = 4507
+Processing package for Chicago (arrived t = 3895)
+
+serviceTime = 4515
+Processing package for Memphis (arrived t = 3905)
+
+serviceTime = 4523
+Processing package for Memphis (arrived t = 3915)
+
+serviceTime = 4531
+Processing package for Memphis (arrived t = 3925)
+
+serviceTime = 4539
+Processing package for Memphis (arrived t = 3935)
+
+serviceTime = 4547
+Processing package for Memphis (arrived t = 3945)
+
+serviceTime = 4555
+Processing package for Chicago (arrived t = 3955)
+
+serviceTime = 4563
+Processing package for Memphis (arrived t = 3965)
+
+serviceTime = 4571
+Processing package for Chicago (arrived t = 3975)
+
+serviceTime = 4579
+Processing package for Memphis (arrived t = 3985)
+
+serviceTime = 4587
+Loading plane to Chicago (arrived t = 4580)
+Arrival time: 3975, Service time: 4587, Time in system : 637
+Arrival time: 3955, Service time: 4587, Time in system : 657
+Arrival time: 3895, Service time: 4587, Time in system : 717
+Arrival time: 3885, Service time: 4587, Time in system : 727
+Arrival time: 3865, Service time: 4587, Time in system : 747
+Arrival time: 3855, Service time: 4587, Time in system : 757
+
+serviceTime = 4612
+Loading plane to Memphis (arrived t = 4600)
+Arrival time: 3985, Service time: 4612, Time in system : 652
+Arrival time: 3965, Service time: 4612, Time in system : 672
+Arrival time: 3945, Service time: 4612, Time in system : 692
+Arrival time: 3935, Service time: 4612, Time in system : 702
+Arrival time: 3925, Service time: 4612, Time in system : 712
+Arrival time: 3915, Service time: 4612, Time in system : 722
+Arrival time: 3905, Service time: 4612, Time in system : 732
+Arrival time: 3875, Service time: 4612, Time in system : 762
+
+serviceTime = 4637
+Processing package for Chicago (arrived t = 3995)
+
+serviceTime = 4645
+Processing package for Chicago (arrived t = 4005)
+
+serviceTime = 4653
+Processing package for Memphis (arrived t = 4015)
+
+serviceTime = 4661
+Processing package for Memphis (arrived t = 4025)
+
+serviceTime = 4669
+Processing package for Chicago (arrived t = 4035)
+
+serviceTime = 4677
+Processing package for Chicago (arrived t = 4045)
+
+serviceTime = 4685
+Processing package for Memphis (arrived t = 4055)
+
+serviceTime = 4693
+Processing package for Chicago (arrived t = 4065)
+
+serviceTime = 4701
+Processing package for Chicago (arrived t = 4075)
+
+serviceTime = 4709
+Processing package for Chicago (arrived t = 4085)
+
+serviceTime = 4717
+Processing package for Memphis (arrived t = 4095)
+
+serviceTime = 4725
+Processing package for Chicago (arrived t = 4105)
+
+serviceTime = 4733
+Loading plane to Chicago (arrived t = 4730)
+Arrival time: 4105, Service time: 4733, Time in system : 653
+Arrival time: 4085, Service time: 4733, Time in system : 673
+Arrival time: 4075, Service time: 4733, Time in system : 683
+Arrival time: 4065, Service time: 4733, Time in system : 693
+Arrival time: 4045, Service time: 4733, Time in system : 713
+Arrival time: 4035, Service time: 4733, Time in system : 723
+Arrival time: 4005, Service time: 4733, Time in system : 753
+Arrival time: 3995, Service time: 4733, Time in system : 763
+
+serviceTime = 4758
+Processing package for Chicago (arrived t = 4115)
+
+serviceTime = 4766
+Processing package for Chicago (arrived t = 4125)
+
+serviceTime = 4774
+Processing package for Memphis (arrived t = 4135)
+
+serviceTime = 4782
+Loading plane to Memphis (arrived t = 4780)
+Arrival time: 4135, Service time: 4782, Time in system : 672
+Arrival time: 4095, Service time: 4782, Time in system : 712
+Arrival time: 4055, Service time: 4782, Time in system : 752
+Arrival time: 4025, Service time: 4782, Time in system : 782
+Arrival time: 4015, Service time: 4782, Time in system : 792
+
+serviceTime = 4807
+Processing package for Chicago (arrived t = 4145)
+
+serviceTime = 4815
+Processing package for Chicago (arrived t = 4155)
+
+serviceTime = 4823
+Processing package for Chicago (arrived t = 4165)
+
+serviceTime = 4831
+Processing package for Chicago (arrived t = 4175)
+
+serviceTime = 4839
+Processing package for Memphis (arrived t = 4185)
+
+serviceTime = 4847
+Processing package for Chicago (arrived t = 4195)
+
+serviceTime = 4855
+Processing package for Chicago (arrived t = 4205)
+
+serviceTime = 4863
+Processing package for Memphis (arrived t = 4215)
+
+serviceTime = 4871
+Processing package for Memphis (arrived t = 4225)
+
+serviceTime = 4879
+Processing package for Memphis (arrived t = 4235)
+
+serviceTime = 4887
+Loading plane to Chicago (arrived t = 4880)
+Arrival time: 4205, Service time: 4887, Time in system : 707
+Arrival time: 4195, Service time: 4887, Time in system : 717
+Arrival time: 4175, Service time: 4887, Time in system : 737
+Arrival time: 4165, Service time: 4887, Time in system : 747
+Arrival time: 4155, Service time: 4887, Time in system : 757
+Arrival time: 4145, Service time: 4887, Time in system : 767
+Arrival time: 4125, Service time: 4887, Time in system : 787
+Arrival time: 4115, Service time: 4887, Time in system : 797
+
+serviceTime = 4912
+Processing package for Memphis (arrived t = 4245)
+
+serviceTime = 4920
+Processing package for Memphis (arrived t = 4255)
+
+serviceTime = 4928
+Processing package for Chicago (arrived t = 4265)
+
+serviceTime = 4936
+Processing package for Chicago (arrived t = 4275)
+
+serviceTime = 4944
+Processing package for Chicago (arrived t = 4285)
+
+serviceTime = 4952
+Processing package for Memphis (arrived t = 4295)
+
+serviceTime = 4960
+Loading plane to Memphis (arrived t = 4960)
+Arrival time: 4295, Service time: 4960, Time in system : 690
+Arrival time: 4255, Service time: 4960, Time in system : 730
+Arrival time: 4245, Service time: 4960, Time in system : 740
+Arrival time: 4235, Service time: 4960, Time in system : 750
+Arrival time: 4225, Service time: 4960, Time in system : 760
+Arrival time: 4215, Service time: 4960, Time in system : 770
+Arrival time: 4185, Service time: 4960, Time in system : 800
+
+serviceTime = 4985
+Processing package for Memphis (arrived t = 4305)
+
+serviceTime = 4993
+Processing package for Chicago (arrived t = 4315)
+
+serviceTime = 5001
+Processing package for Chicago (arrived t = 4325)
+
+serviceTime = 5009
+Processing package for Memphis (arrived t = 4335)
+
+serviceTime = 5017
+Processing package for Chicago (arrived t = 4345)
+
+serviceTime = 5025
+Processing package for Memphis (arrived t = 4355)
+
+serviceTime = 5033
+Loading plane to Chicago (arrived t = 5030)
+Arrival time: 4345, Service time: 5033, Time in system : 713
+Arrival time: 4325, Service time: 5033, Time in system : 733
+Arrival time: 4315, Service time: 5033, Time in system : 743
+Arrival time: 4285, Service time: 5033, Time in system : 773
+Arrival time: 4275, Service time: 5033, Time in system : 783
+Arrival time: 4265, Service time: 5033, Time in system : 793
+
+serviceTime = 5058
+Processing package for Memphis (arrived t = 4365)
+
+serviceTime = 5066
+Processing package for Chicago (arrived t = 4375)
+
+serviceTime = 5074
+Processing package for Memphis (arrived t = 4385)
+
+serviceTime = 5082
+Processing package for Chicago (arrived t = 4395)
+
+serviceTime = 5090
+Processing package for Memphis (arrived t = 4405)
+
+serviceTime = 5098
+Processing package for Memphis (arrived t = 4415)
+
+serviceTime = 5106
+Processing package for Memphis (arrived t = 4425)
+
+serviceTime = 5114
+Processing package for Memphis (arrived t = 4435)
+
+serviceTime = 5122
+Processing package for Chicago (arrived t = 4445)
+
+serviceTime = 5130
+Processing package for Chicago (arrived t = 4455)
+
+serviceTime = 5138
+Processing package for Chicago (arrived t = 4465)
+
+serviceTime = 5146
+Loading plane to Memphis (arrived t = 5140)
+Arrival time: 4435, Service time: 5146, Time in system : 736
+Arrival time: 4425, Service time: 5146, Time in system : 746
+Arrival time: 4415, Service time: 5146, Time in system : 756
+Arrival time: 4405, Service time: 5146, Time in system : 766
+Arrival time: 4385, Service time: 5146, Time in system : 786
+Arrival time: 4365, Service time: 5146, Time in system : 806
+Arrival time: 4355, Service time: 5146, Time in system : 816
+Arrival time: 4335, Service time: 5146, Time in system : 836
+Arrival time: 4305, Service time: 5146, Time in system : 866
+
+serviceTime = 5171
+Processing package for Chicago (arrived t = 4475)
+
+serviceTime = 5179
+Processing package for Chicago (arrived t = 4485)
+
+serviceTime = 5187
+Loading plane to Chicago (arrived t = 5180)
+Arrival time: 4485, Service time: 5187, Time in system : 727
+Arrival time: 4475, Service time: 5187, Time in system : 737
+Arrival time: 4465, Service time: 5187, Time in system : 747
+Arrival time: 4455, Service time: 5187, Time in system : 757
+Arrival time: 4445, Service time: 5187, Time in system : 767
+Arrival time: 4395, Service time: 5187, Time in system : 817
+Arrival time: 4375, Service time: 5187, Time in system : 837
+
+serviceTime = 5212
+Processing package for Chicago (arrived t = 4495)
+
+serviceTime = 5220
+Processing package for Memphis (arrived t = 4505)
+
+serviceTime = 5228
+Processing package for Memphis (arrived t = 4515)
+
+serviceTime = 5236
+Processing package for Chicago (arrived t = 4525)
+
+serviceTime = 5244
+Processing package for Memphis (arrived t = 4535)
+
+serviceTime = 5252
+Processing package for Memphis (arrived t = 4545)
+
+serviceTime = 5260
+Processing package for Memphis (arrived t = 4555)
+
+serviceTime = 5268
+Processing package for Memphis (arrived t = 4565)
+
+serviceTime = 5276
+Processing package for Memphis (arrived t = 4575)
+
+serviceTime = 5284
+Processing package for Memphis (arrived t = 4585)
+
+serviceTime = 5292
+Processing package for Chicago (arrived t = 4595)
+
+serviceTime = 5300
+Processing package for Memphis (arrived t = 4605)
+
+serviceTime = 5308
+Processing package for Memphis (arrived t = 4615)
+
+serviceTime = 5316
+Processing package for Memphis (arrived t = 4625)
+
+serviceTime = 5324
+Loading plane to Memphis (arrived t = 5320)
+Arrival time: 4625, Service time: 5324, Time in system : 724
+Arrival time: 4615, Service time: 5324, Time in system : 734
+Arrival time: 4605, Service time: 5324, Time in system : 744
+Arrival time: 4585, Service time: 5324, Time in system : 764
+Arrival time: 4575, Service time: 5324, Time in system : 774
+Arrival time: 4565, Service time: 5324, Time in system : 784
+Arrival time: 4555, Service time: 5324, Time in system : 794
+Arrival time: 4545, Service time: 5324, Time in system : 804
+Arrival time: 4535, Service time: 5324, Time in system : 814
+Arrival time: 4515, Service time: 5324, Time in system : 834
+Arrival time: 4505, Service time: 5324, Time in system : 844
+
+serviceTime = 5349
+Loading plane to Chicago (arrived t = 5330)
+Arrival time: 4595, Service time: 5349, Time in system : 779
+Arrival time: 4525, Service time: 5349, Time in system : 849
+Arrival time: 4495, Service time: 5349, Time in system : 879
+
+serviceTime = 5374
+Processing package for Chicago (arrived t = 4635)
+
+serviceTime = 5382
+Processing package for Memphis (arrived t = 4645)
+
+serviceTime = 5390
+Processing package for Memphis (arrived t = 4655)
+
+serviceTime = 5398
+Processing package for Memphis (arrived t = 4665)
+
+serviceTime = 5406
+Processing package for Chicago (arrived t = 4675)
+
+serviceTime = 5414
+Processing package for Memphis (arrived t = 4685)
+
+serviceTime = 5422
+Processing package for Memphis (arrived t = 4695)
+
+serviceTime = 5430
+Processing package for Chicago (arrived t = 4705)
+
+serviceTime = 5438
+Processing package for Chicago (arrived t = 4715)
+
+serviceTime = 5446
+Processing package for Chicago (arrived t = 4725)
+
+serviceTime = 5454
+Processing package for Memphis (arrived t = 4735)
+
+serviceTime = 5462
+Processing package for Memphis (arrived t = 4745)
+
+serviceTime = 5470
+Processing package for Chicago (arrived t = 4755)
+
+serviceTime = 5478
+Processing package for Memphis (arrived t = 4765)
+
+serviceTime = 5486
+Loading plane to Chicago (arrived t = 5480)
+Arrival time: 4755, Service time: 5486, Time in system : 756
+Arrival time: 4725, Service time: 5486, Time in system : 786
+Arrival time: 4715, Service time: 5486, Time in system : 796
+Arrival time: 4705, Service time: 5486, Time in system : 806
+Arrival time: 4675, Service time: 5486, Time in system : 836
+Arrival time: 4635, Service time: 5486, Time in system : 876
+
+serviceTime = 5511
+Loading plane to Memphis (arrived t = 5500)
+Arrival time: 4765, Service time: 5511, Time in system : 771
+Arrival time: 4745, Service time: 5511, Time in system : 791
+Arrival time: 4735, Service time: 5511, Time in system : 801
+Arrival time: 4695, Service time: 5511, Time in system : 841
+Arrival time: 4685, Service time: 5511, Time in system : 851
+Arrival time: 4665, Service time: 5511, Time in system : 871
+Arrival time: 4655, Service time: 5511, Time in system : 881
+Arrival time: 4645, Service time: 5511, Time in system : 891
+
+serviceTime = 5536
+Processing package for Chicago (arrived t = 4775)
+
+serviceTime = 5544
+Processing package for Memphis (arrived t = 4785)
+
+serviceTime = 5552
+Processing package for Chicago (arrived t = 4795)
+
+serviceTime = 5560
+Processing package for Chicago (arrived t = 4805)
+
+serviceTime = 5568
+Processing package for Chicago (arrived t = 4815)
+
+serviceTime = 5576
+Processing package for Memphis (arrived t = 4825)
+
+serviceTime = 5584
+Processing package for Memphis (arrived t = 4835)
+
+serviceTime = 5592
+Processing package for Chicago (arrived t = 4845)
+
+serviceTime = 5600
+Processing package for Memphis (arrived t = 4855)
+
+serviceTime = 5608
+Processing package for Chicago (arrived t = 4865)
+
+serviceTime = 5616
+Processing package for Chicago (arrived t = 4875)
+
+serviceTime = 5624
+Processing package for Memphis (arrived t = 4885)
+
+serviceTime = 5632
+Loading plane to Chicago (arrived t = 5630)
+Arrival time: 4875, Service time: 5632, Time in system : 782
+Arrival time: 4865, Service time: 5632, Time in system : 792
+Arrival time: 4845, Service time: 5632, Time in system : 812
+Arrival time: 4815, Service time: 5632, Time in system : 842
+Arrival time: 4805, Service time: 5632, Time in system : 852
+Arrival time: 4795, Service time: 5632, Time in system : 862
+Arrival time: 4775, Service time: 5632, Time in system : 882
+
+serviceTime = 5657
+Processing package for Chicago (arrived t = 4895)
+
+serviceTime = 5665
+Processing package for Memphis (arrived t = 4905)
+
+serviceTime = 5673
+Processing package for Memphis (arrived t = 4915)
+
+serviceTime = 5681
+Loading plane to Memphis (arrived t = 5680)
+Arrival time: 4915, Service time: 5681, Time in system : 791
+Arrival time: 4905, Service time: 5681, Time in system : 801
+Arrival time: 4885, Service time: 5681, Time in system : 821
+Arrival time: 4855, Service time: 5681, Time in system : 851
+Arrival time: 4835, Service time: 5681, Time in system : 871
+Arrival time: 4825, Service time: 5681, Time in system : 881
+Arrival time: 4785, Service time: 5681, Time in system : 921
+
+serviceTime = 5706
+Processing package for Memphis (arrived t = 4925)
+
+serviceTime = 5714
+Processing package for Chicago (arrived t = 4935)
+
+serviceTime = 5722
+Processing package for Chicago (arrived t = 4945)
+
+serviceTime = 5730
+Processing package for Chicago (arrived t = 4955)
+
+serviceTime = 5738
+Processing package for Memphis (arrived t = 4965)
+
+serviceTime = 5746
+Processing package for Chicago (arrived t = 4975)
+
+serviceTime = 5754
+Processing package for Chicago (arrived t = 4985)
+
+serviceTime = 5762
+Processing package for Chicago (arrived t = 4995)
+
+serviceTime = 5770
+Processing package for Memphis (arrived t = 5005)
+
+serviceTime = 5778
+Processing package for Chicago (arrived t = 5015)
+
+serviceTime = 5786
+Loading plane to Chicago (arrived t = 5780)
+Arrival time: 5015, Service time: 5786, Time in system : 796
+Arrival time: 4995, Service time: 5786, Time in system : 816
+Arrival time: 4985, Service time: 5786, Time in system : 826
+Arrival time: 4975, Service time: 5786, Time in system : 836
+Arrival time: 4955, Service time: 5786, Time in system : 856
+Arrival time: 4945, Service time: 5786, Time in system : 866
+Arrival time: 4935, Service time: 5786, Time in system : 876
+Arrival time: 4895, Service time: 5786, Time in system : 916
+
+serviceTime = 5811
+Processing package for Chicago (arrived t = 5025)
+
+serviceTime = 5819
+Processing package for Chicago (arrived t = 5035)
+
+serviceTime = 5827
+Processing package for Chicago (arrived t = 5045)
+
+serviceTime = 5835
+Processing package for Chicago (arrived t = 5055)
+
+serviceTime = 5843
+Processing package for Memphis (arrived t = 5065)
+
+serviceTime = 5851
+Processing package for Memphis (arrived t = 5075)
+
+serviceTime = 5859
+Processing package for Memphis (arrived t = 5085)
+
+serviceTime = 5867
+Loading plane to Memphis (arrived t = 5860)
+Arrival time: 5085, Service time: 5867, Time in system : 807
+Arrival time: 5075, Service time: 5867, Time in system : 817
+Arrival time: 5065, Service time: 5867, Time in system : 827
+Arrival time: 5005, Service time: 5867, Time in system : 887
+Arrival time: 4965, Service time: 5867, Time in system : 927
+Arrival time: 4925, Service time: 5867, Time in system : 967
+
+serviceTime = 5892
+Processing package for Chicago (arrived t = 5095)
+
+serviceTime = 5900
+Processing package for Memphis (arrived t = 5105)
+
+serviceTime = 5908
+Processing package for Memphis (arrived t = 5115)
+
+serviceTime = 5916
+Processing package for Memphis (arrived t = 5125)
+
+serviceTime = 5924
+Processing package for Memphis (arrived t = 5135)
+
+serviceTime = 5932
+Loading plane to Chicago (arrived t = 5930)
+Arrival time: 5095, Service time: 5932, Time in system : 862
+Arrival time: 5055, Service time: 5932, Time in system : 902
+Arrival time: 5045, Service time: 5932, Time in system : 912
+Arrival time: 5035, Service time: 5932, Time in system : 922
+Arrival time: 5025, Service time: 5932, Time in system : 932
+
+serviceTime = 5957
+Processing package for Chicago (arrived t = 5145)
+
+serviceTime = 5965
+Processing package for Memphis (arrived t = 5155)
+
+serviceTime = 5973
+Processing package for Memphis (arrived t = 5165)
+
+serviceTime = 5981
+Processing package for Chicago (arrived t = 5175)
+
+serviceTime = 5989
+Processing package for Memphis (arrived t = 5185)
+
+serviceTime = 5997
+Processing package for Memphis (arrived t = 5195)
+
+serviceTime = 6005
+Processing package for Chicago (arrived t = 5205)
+
+serviceTime = 6013
+Processing package for Memphis (arrived t = 5215)
+
+serviceTime = 6021
+Processing package for Memphis (arrived t = 5225)
+
+serviceTime = 6029
+Processing package for Memphis (arrived t = 5235)
+
+serviceTime = 6037
+Processing package for Memphis (arrived t = 5245)
+
+serviceTime = 6045
+Loading plane to Memphis (arrived t = 6040)
+Arrival time: 5245, Service time: 6045, Time in system : 825
+Arrival time: 5235, Service time: 6045, Time in system : 835
+Arrival time: 5225, Service time: 6045, Time in system : 845
+Arrival time: 5215, Service time: 6045, Time in system : 855
+Arrival time: 5195, Service time: 6045, Time in system : 875
+Arrival time: 5185, Service time: 6045, Time in system : 885
+Arrival time: 5165, Service time: 6045, Time in system : 905
+Arrival time: 5155, Service time: 6045, Time in system : 915
+Arrival time: 5135, Service time: 6045, Time in system : 935
+Arrival time: 5125, Service time: 6045, Time in system : 945
+Arrival time: 5115, Service time: 6045, Time in system : 955
+Arrival time: 5105, Service time: 6045, Time in system : 965
+
+serviceTime = 6070
+Processing package for Chicago (arrived t = 5255)
+
+serviceTime = 6078
+Processing package for Chicago (arrived t = 5265)
+
+serviceTime = 6086
+Loading plane to Chicago (arrived t = 6080)
+Arrival time: 5265, Service time: 6086, Time in system : 846
+Arrival time: 5255, Service time: 6086, Time in system : 856
+Arrival time: 5205, Service time: 6086, Time in system : 906
+Arrival time: 5175, Service time: 6086, Time in system : 936
+Arrival time: 5145, Service time: 6086, Time in system : 966
+
+serviceTime = 6111
+Processing package for Chicago (arrived t = 5275)
+
+serviceTime = 6119
+Processing package for Chicago (arrived t = 5285)
+
+serviceTime = 6127
+Processing package for Memphis (arrived t = 5295)
+
+serviceTime = 6135
+Processing package for Chicago (arrived t = 5305)
+
+serviceTime = 6143
+Processing package for Chicago (arrived t = 5315)
+
+serviceTime = 6151
+Processing package for Chicago (arrived t = 5325)
+
+serviceTime = 6159
+Processing package for Memphis (arrived t = 5335)
+
+serviceTime = 6167
+Processing package for Chicago (arrived t = 5345)
+
+serviceTime = 6175
+Processing package for Chicago (arrived t = 5355)
+
+serviceTime = 6183
+Processing package for Chicago (arrived t = 5365)
+
+serviceTime = 6191
+Processing package for Memphis (arrived t = 5375)
+
+serviceTime = 6199
+Processing package for Chicago (arrived t = 5385)
+
+serviceTime = 6207
+Processing package for Memphis (arrived t = 5395)
+
+serviceTime = 6215
+Processing package for Memphis (arrived t = 5405)
+
+serviceTime = 6223
+Loading plane to Memphis (arrived t = 6220)
+Arrival time: 5405, Service time: 6223, Time in system : 843
+Arrival time: 5395, Service time: 6223, Time in system : 853
+Arrival time: 5375, Service time: 6223, Time in system : 873
+Arrival time: 5335, Service time: 6223, Time in system : 913
+Arrival time: 5295, Service time: 6223, Time in system : 953
+
+serviceTime = 6248
+Loading plane to Chicago (arrived t = 6230)
+Arrival time: 5385, Service time: 6248, Time in system : 888
+Arrival time: 5365, Service time: 6248, Time in system : 908
+Arrival time: 5355, Service time: 6248, Time in system : 918
+Arrival time: 5345, Service time: 6248, Time in system : 928
+Arrival time: 5325, Service time: 6248, Time in system : 948
+Arrival time: 5315, Service time: 6248, Time in system : 958
+Arrival time: 5305, Service time: 6248, Time in system : 968
+Arrival time: 5285, Service time: 6248, Time in system : 988
+Arrival time: 5275, Service time: 6248, Time in system : 998
+
+serviceTime = 6273
+Processing package for Chicago (arrived t = 5415)
+
+serviceTime = 6281
+Processing package for Memphis (arrived t = 5425)
+
+serviceTime = 6289
+Processing package for Chicago (arrived t = 5435)
+
+serviceTime = 6297
+Processing package for Memphis (arrived t = 5445)
+
+serviceTime = 6305
+Processing package for Memphis (arrived t = 5455)
+
+serviceTime = 6313
+Processing package for Chicago (arrived t = 5465)
+
+serviceTime = 6321
+Processing package for Memphis (arrived t = 5475)
+
+serviceTime = 6329
+Processing package for Memphis (arrived t = 5485)
+
+serviceTime = 6337
+Processing package for Chicago (arrived t = 5495)
+
+serviceTime = 6345
+Processing package for Memphis (arrived t = 5505)
+
+serviceTime = 6353
+Processing package for Chicago (arrived t = 5515)
+
+serviceTime = 6361
+Processing package for Memphis (arrived t = 5525)
+
+serviceTime = 6369
+Processing package for Memphis (arrived t = 5535)
+
+serviceTime = 6377
+Processing package for Chicago (arrived t = 5545)
+
+serviceTime = 6385
+Loading plane to Chicago (arrived t = 6380)
+Arrival time: 5545, Service time: 6385, Time in system : 865
+Arrival time: 5515, Service time: 6385, Time in system : 895
+Arrival time: 5495, Service time: 6385, Time in system : 915
+Arrival time: 5465, Service time: 6385, Time in system : 945
+Arrival time: 5435, Service time: 6385, Time in system : 975
+Arrival time: 5415, Service time: 6385, Time in system : 995
+
+serviceTime = 6410
+Loading plane to Memphis (arrived t = 6400)
+Arrival time: 5535, Service time: 6410, Time in system : 900
+Arrival time: 5525, Service time: 6410, Time in system : 910
+Arrival time: 5505, Service time: 6410, Time in system : 930
+Arrival time: 5485, Service time: 6410, Time in system : 950
+Arrival time: 5475, Service time: 6410, Time in system : 960
+Arrival time: 5455, Service time: 6410, Time in system : 980
+Arrival time: 5445, Service time: 6410, Time in system : 990
+Arrival time: 5425, Service time: 6410, Time in system : 1010
+
+serviceTime = 6435
+Processing package for Memphis (arrived t = 5555)
+
+serviceTime = 6443
+Processing package for Memphis (arrived t = 5565)
+
+serviceTime = 6451
+Processing package for Chicago (arrived t = 5575)
+
+serviceTime = 6459
+Processing package for Chicago (arrived t = 5585)
+
+serviceTime = 6467
+Processing package for Chicago (arrived t = 5595)
+
+serviceTime = 6475
+Processing package for Chicago (arrived t = 5605)
+
+serviceTime = 6483
+Processing package for Memphis (arrived t = 5615)
+
+serviceTime = 6491
+Processing package for Memphis (arrived t = 5625)
+
+serviceTime = 6499
+Processing package for Memphis (arrived t = 5635)
+
+serviceTime = 6507
+Processing package for Memphis (arrived t = 5645)
+
+serviceTime = 6515
+Processing package for Chicago (arrived t = 5655)
+
+serviceTime = 6523
+Processing package for Chicago (arrived t = 5665)
+
+serviceTime = 6531
+Loading plane to Chicago (arrived t = 6530)
+Arrival time: 5665, Service time: 6531, Time in system : 891
+Arrival time: 5655, Service time: 6531, Time in system : 901
+Arrival time: 5605, Service time: 6531, Time in system : 951
+Arrival time: 5595, Service time: 6531, Time in system : 961
+Arrival time: 5585, Service time: 6531, Time in system : 971
+Arrival time: 5575, Service time: 6531, Time in system : 981
+
+serviceTime = 6556
+Processing package for Memphis (arrived t = 5675)
+
+serviceTime = 6564
+Processing package for Chicago (arrived t = 5685)
+
+serviceTime = 6572
+Processing package for Chicago (arrived t = 5695)
+
+serviceTime = 6580
+Loading plane to Memphis (arrived t = 6580)
+Arrival time: 5675, Service time: 6580, Time in system : 930
+Arrival time: 5645, Service time: 6580, Time in system : 960
+Arrival time: 5635, Service time: 6580, Time in system : 970
+Arrival time: 5625, Service time: 6580, Time in system : 980
+Arrival time: 5615, Service time: 6580, Time in system : 990
+Arrival time: 5565, Service time: 6580, Time in system : 1040
+Arrival time: 5555, Service time: 6580, Time in system : 1050
+
+serviceTime = 6605
+Processing package for Memphis (arrived t = 5705)
+
+serviceTime = 6613
+Processing package for Chicago (arrived t = 5715)
+
+serviceTime = 6621
+Processing package for Memphis (arrived t = 5725)
+
+serviceTime = 6629
+Processing package for Memphis (arrived t = 5735)
+
+serviceTime = 6637
+Processing package for Memphis (arrived t = 5745)
+
+serviceTime = 6645
+Processing package for Memphis (arrived t = 5755)
+
+serviceTime = 6653
+Processing package for Chicago (arrived t = 5765)
+
+serviceTime = 6661
+Processing package for Chicago (arrived t = 5775)
+
+serviceTime = 6669
+Processing package for Chicago (arrived t = 5785)
+
+serviceTime = 6677
+Processing package for Memphis (arrived t = 5795)
+
+serviceTime = 6685
+Loading plane to Chicago (arrived t = 6680)
+Arrival time: 5785, Service time: 6685, Time in system : 925
+Arrival time: 5775, Service time: 6685, Time in system : 935
+Arrival time: 5765, Service time: 6685, Time in system : 945
+Arrival time: 5715, Service time: 6685, Time in system : 995
+Arrival time: 5695, Service time: 6685, Time in system : 1015
+Arrival time: 5685, Service time: 6685, Time in system : 1025
+
+serviceTime = 6710
+Processing package for Memphis (arrived t = 5805)
+
+serviceTime = 6718
+Processing package for Chicago (arrived t = 5815)
+
+serviceTime = 6726
+Processing package for Memphis (arrived t = 5825)
+
+serviceTime = 6734
+Processing package for Chicago (arrived t = 5835)
+
+serviceTime = 6742
+Processing package for Memphis (arrived t = 5845)
+
+serviceTime = 6750
+Processing package for Chicago (arrived t = 5855)
+
+serviceTime = 6758
+Processing package for Memphis (arrived t = 5865)
+
+serviceTime = 6766
+Loading plane to Memphis (arrived t = 6760)
+Arrival time: 5865, Service time: 6766, Time in system : 926
+Arrival time: 5845, Service time: 6766, Time in system : 946
+Arrival time: 5825, Service time: 6766, Time in system : 966
+Arrival time: 5805, Service time: 6766, Time in system : 986
+Arrival time: 5795, Service time: 6766, Time in system : 996
+Arrival time: 5755, Service time: 6766, Time in system : 1036
+Arrival time: 5745, Service time: 6766, Time in system : 1046
+Arrival time: 5735, Service time: 6766, Time in system : 1056
+Arrival time: 5725, Service time: 6766, Time in system : 1066
+Arrival time: 5705, Service time: 6766, Time in system : 1086
+
+serviceTime = 6791
+Processing package for Memphis (arrived t = 5875)
+
+serviceTime = 6799
+Processing package for Chicago (arrived t = 5885)
+
+serviceTime = 6807
+Processing package for Memphis (arrived t = 5895)
+
+serviceTime = 6815
+Processing package for Chicago (arrived t = 5905)
+
+serviceTime = 6823
+Processing package for Chicago (arrived t = 5915)
+
+serviceTime = 6831
+Loading plane to Chicago (arrived t = 6830)
+Arrival time: 5915, Service time: 6831, Time in system : 941
+Arrival time: 5905, Service time: 6831, Time in system : 951
+Arrival time: 5885, Service time: 6831, Time in system : 971
+Arrival time: 5855, Service time: 6831, Time in system : 1001
+Arrival time: 5835, Service time: 6831, Time in system : 1021
+Arrival time: 5815, Service time: 6831, Time in system : 1041
+
+serviceTime = 6856
+Processing package for Chicago (arrived t = 5925)
+
+serviceTime = 6864
+Processing package for Chicago (arrived t = 5935)
+
+serviceTime = 6872
+Processing package for Chicago (arrived t = 5945)
+
+serviceTime = 6880
+Processing package for Chicago (arrived t = 5955)
+
+serviceTime = 6888
+Processing package for Memphis (arrived t = 5965)
+
+serviceTime = 6896
+Processing package for Chicago (arrived t = 5975)
+
+serviceTime = 6904
+Processing package for Chicago (arrived t = 5985)
+
+serviceTime = 6912
+Processing package for Chicago (arrived t = 5995)
+
+serviceTime = 6920
+Processing package for Memphis (arrived t = 6005)
+
+serviceTime = 6928
+Processing package for Memphis (arrived t = 6015)
+
+serviceTime = 6936
+Processing package for Chicago (arrived t = 6025)
+
+serviceTime = 6944
+Loading plane to Memphis (arrived t = 6940)
+Arrival time: 6015, Service time: 6944, Time in system : 954
+Arrival time: 6005, Service time: 6944, Time in system : 964
+Arrival time: 5965, Service time: 6944, Time in system : 1004
+Arrival time: 5895, Service time: 6944, Time in system : 1074
+Arrival time: 5875, Service time: 6944, Time in system : 1094
+
+serviceTime = 6969
+Processing package for Memphis (arrived t = 6035)
+
+serviceTime = 6977
+Processing package for Memphis (arrived t = 6045)
+
+serviceTime = 6985
+Loading plane to Chicago (arrived t = 6980)
+Arrival time: 6025, Service time: 6985, Time in system : 985
+Arrival time: 5995, Service time: 6985, Time in system : 1015
+Arrival time: 5985, Service time: 6985, Time in system : 1025
+Arrival time: 5975, Service time: 6985, Time in system : 1035
+Arrival time: 5955, Service time: 6985, Time in system : 1055
+Arrival time: 5945, Service time: 6985, Time in system : 1065
+Arrival time: 5935, Service time: 6985, Time in system : 1075
+Arrival time: 5925, Service time: 6985, Time in system : 1085
+
+serviceTime = 7010
+Processing package for Memphis (arrived t = 6055)
+
+serviceTime = 7018
+Processing package for Memphis (arrived t = 6065)
+
+serviceTime = 7026
+Processing package for Chicago (arrived t = 6075)
+
+serviceTime = 7034
+Processing package for Memphis (arrived t = 6085)
+
+serviceTime = 7042
+Processing package for Chicago (arrived t = 6095)
+
+serviceTime = 7050
+Processing package for Memphis (arrived t = 6105)
+
+serviceTime = 7058
+Processing package for Chicago (arrived t = 6115)
+
+serviceTime = 7066
+Processing package for Memphis (arrived t = 6125)
+
+serviceTime = 7074
+Processing package for Memphis (arrived t = 6135)
+
+serviceTime = 7082
+Processing package for Memphis (arrived t = 6145)
+
+serviceTime = 7090
+Processing package for Memphis (arrived t = 6155)
+
+serviceTime = 7098
+Processing package for Memphis (arrived t = 6165)
+
+serviceTime = 7106
+Processing package for Chicago (arrived t = 6175)
+
+serviceTime = 7114
+Processing package for Chicago (arrived t = 6185)
+
+serviceTime = 7122
+Loading plane to Memphis (arrived t = 7120)
+Arrival time: 6165, Service time: 7122, Time in system : 982
+Arrival time: 6155, Service time: 7122, Time in system : 992
+Arrival time: 6145, Service time: 7122, Time in system : 1002
+Arrival time: 6135, Service time: 7122, Time in system : 1012
+Arrival time: 6125, Service time: 7122, Time in system : 1022
+Arrival time: 6105, Service time: 7122, Time in system : 1042
+Arrival time: 6085, Service time: 7122, Time in system : 1062
+Arrival time: 6065, Service time: 7122, Time in system : 1082
+Arrival time: 6055, Service time: 7122, Time in system : 1092
+Arrival time: 6045, Service time: 7122, Time in system : 1102
+Arrival time: 6035, Service time: 7122, Time in system : 1112
+
+serviceTime = 7147
+Loading plane to Chicago (arrived t = 7130)
+Arrival time: 6185, Service time: 7147, Time in system : 987
+Arrival time: 6175, Service time: 7147, Time in system : 997
+Arrival time: 6115, Service time: 7147, Time in system : 1057
+Arrival time: 6095, Service time: 7147, Time in system : 1077
+Arrival time: 6075, Service time: 7147, Time in system : 1097
+
+serviceTime = 7172
+Processing package for Chicago (arrived t = 6195)
+
+serviceTime = 7180
+Processing package for Memphis (arrived t = 6205)
+
+serviceTime = 7188
+Processing package for Chicago (arrived t = 6215)
+
+serviceTime = 7196
+Processing package for Chicago (arrived t = 6225)
+
+serviceTime = 7204
+Processing package for Chicago (arrived t = 6235)
+
+serviceTime = 7212
+Processing package for Memphis (arrived t = 6245)
+
+serviceTime = 7220
+Processing package for Chicago (arrived t = 6255)
+
+serviceTime = 7228
+Processing package for Chicago (arrived t = 6265)
+
+serviceTime = 7236
+Processing package for Chicago (arrived t = 6275)
+
+serviceTime = 7244
+Processing package for Chicago (arrived t = 6285)
+
+serviceTime = 7252
+Processing package for Chicago (arrived t = 6295)
+
+serviceTime = 7260
+Processing package for Memphis (arrived t = 6305)
+
+serviceTime = 7268
+Processing package for Memphis (arrived t = 6315)
+
+serviceTime = 7276
+Processing package for Memphis (arrived t = 6325)
+
+serviceTime = 7284
+Loading plane to Chicago (arrived t = 7280)
+Arrival time: 6295, Service time: 7284, Time in system : 1014
+Arrival time: 6285, Service time: 7284, Time in system : 1024
+Arrival time: 6275, Service time: 7284, Time in system : 1034
+Arrival time: 6265, Service time: 7284, Time in system : 1044
+Arrival time: 6255, Service time: 7284, Time in system : 1054
+Arrival time: 6235, Service time: 7284, Time in system : 1074
+Arrival time: 6225, Service time: 7284, Time in system : 1084
+Arrival time: 6215, Service time: 7284, Time in system : 1094
+Arrival time: 6195, Service time: 7284, Time in system : 1114
+
+serviceTime = 7309
+Loading plane to Memphis (arrived t = 7300)
+Arrival time: 6325, Service time: 7309, Time in system : 1009
+Arrival time: 6315, Service time: 7309, Time in system : 1019
+Arrival time: 6305, Service time: 7309, Time in system : 1029
+Arrival time: 6245, Service time: 7309, Time in system : 1089
+Arrival time: 6205, Service time: 7309, Time in system : 1129
+
+serviceTime = 7334
+Processing package for Chicago (arrived t = 6335)
+
+serviceTime = 7342
+Processing package for Chicago (arrived t = 6345)
+
+serviceTime = 7350
+Processing package for Memphis (arrived t = 6355)
+
+serviceTime = 7358
+Processing package for Memphis (arrived t = 6365)
+
+serviceTime = 7366
+Processing package for Memphis (arrived t = 6375)
+
+serviceTime = 7374
+Processing package for Memphis (arrived t = 6385)
+
+serviceTime = 7382
+Processing package for Chicago (arrived t = 6395)
+
+serviceTime = 7390
+Processing package for Memphis (arrived t = 6405)
+
+serviceTime = 7398
+Processing package for Memphis (arrived t = 6415)
+
+serviceTime = 7406
+Processing package for Chicago (arrived t = 6425)
+
+serviceTime = 7414
+Processing package for Chicago (arrived t = 6435)
+
+serviceTime = 7422
+Processing package for Chicago (arrived t = 6445)
+
+serviceTime = 7430
+Loading plane to Chicago (arrived t = 7430)
+Arrival time: 6445, Service time: 7430, Time in system : 1010
+Arrival time: 6435, Service time: 7430, Time in system : 1020
+Arrival time: 6425, Service time: 7430, Time in system : 1030
+Arrival time: 6395, Service time: 7430, Time in system : 1060
+Arrival time: 6345, Service time: 7430, Time in system : 1110
+Arrival time: 6335, Service time: 7430, Time in system : 1120
+
+serviceTime = 7455
+Processing package for Chicago (arrived t = 6455)
+
+serviceTime = 7463
+Processing package for Memphis (arrived t = 6465)
+
+serviceTime = 7471
+Processing package for Chicago (arrived t = 6475)
+
+serviceTime = 7479
+Processing package for Chicago (arrived t = 6485)
+
+serviceTime = 7487
+Loading plane to Memphis (arrived t = 7480)
+Arrival time: 6465, Service time: 7487, Time in system : 1047
+Arrival time: 6415, Service time: 7487, Time in system : 1097
+Arrival time: 6405, Service time: 7487, Time in system : 1107
+Arrival time: 6385, Service time: 7487, Time in system : 1127
+Arrival time: 6375, Service time: 7487, Time in system : 1137
+Arrival time: 6365, Service time: 7487, Time in system : 1147
+Arrival time: 6355, Service time: 7487, Time in system : 1157
+
+serviceTime = 7512
+Processing package for Chicago (arrived t = 6495)
+
+serviceTime = 7520
+Processing package for Chicago (arrived t = 6505)
+
+serviceTime = 7528
+Processing package for Memphis (arrived t = 6515)
+
+serviceTime = 7536
+Processing package for Memphis (arrived t = 6525)
+
+serviceTime = 7544
+Processing package for Chicago (arrived t = 6535)
+
+serviceTime = 7552
+Processing package for Memphis (arrived t = 6545)
+
+serviceTime = 7560
+Processing package for Memphis (arrived t = 6555)
+
+serviceTime = 7568
+Processing package for Memphis (arrived t = 6565)
+
+serviceTime = 7576
+Processing package for Memphis (arrived t = 6575)
+
+serviceTime = 7584
+Loading plane to Chicago (arrived t = 7580)
+Arrival time: 6535, Service time: 7584, Time in system : 1074
+Arrival time: 6505, Service time: 7584, Time in system : 1104
+Arrival time: 6495, Service time: 7584, Time in system : 1114
+Arrival time: 6485, Service time: 7584, Time in system : 1124
+Arrival time: 6475, Service time: 7584, Time in system : 1134
+Arrival time: 6455, Service time: 7584, Time in system : 1154
+
+serviceTime = 7609
+Processing package for Memphis (arrived t = 6585)
+
+serviceTime = 7617
+Processing package for Memphis (arrived t = 6595)
+
+serviceTime = 7625
+Processing package for Chicago (arrived t = 6605)
+
+serviceTime = 7633
+Processing package for Memphis (arrived t = 6615)
+
+serviceTime = 7641
+Processing package for Chicago (arrived t = 6625)
+
+serviceTime = 7649
+Processing package for Memphis (arrived t = 6635)
+
+serviceTime = 7657
+Processing package for Memphis (arrived t = 6645)
+
+serviceTime = 7665
+Loading plane to Memphis (arrived t = 7660)
+Arrival time: 6645, Service time: 7665, Time in system : 1045
+Arrival time: 6635, Service time: 7665, Time in system : 1055
+Arrival time: 6615, Service time: 7665, Time in system : 1075
+Arrival time: 6595, Service time: 7665, Time in system : 1095
+Arrival time: 6585, Service time: 7665, Time in system : 1105
+Arrival time: 6575, Service time: 7665, Time in system : 1115
+Arrival time: 6565, Service time: 7665, Time in system : 1125
+Arrival time: 6555, Service time: 7665, Time in system : 1135
+Arrival time: 6545, Service time: 7665, Time in system : 1145
+Arrival time: 6525, Service time: 7665, Time in system : 1165
+Arrival time: 6515, Service time: 7665, Time in system : 1175
+
+serviceTime = 7690
+Processing package for Memphis (arrived t = 6655)
+
+serviceTime = 7698
+Processing package for Memphis (arrived t = 6665)
+
+serviceTime = 7706
+Processing package for Memphis (arrived t = 6675)
+
+serviceTime = 7714
+Processing package for Chicago (arrived t = 6685)
+
+serviceTime = 7722
+Processing package for Chicago (arrived t = 6695)
+
+serviceTime = 7730
+Loading plane to Chicago (arrived t = 7730)
+Arrival time: 6695, Service time: 7730, Time in system : 1060
+Arrival time: 6685, Service time: 7730, Time in system : 1070
+Arrival time: 6625, Service time: 7730, Time in system : 1130
+Arrival time: 6605, Service time: 7730, Time in system : 1150
+
+serviceTime = 7755
+Processing package for Chicago (arrived t = 6705)
+
+serviceTime = 7763
+Processing package for Chicago (arrived t = 6715)
+
+serviceTime = 7771
+Processing package for Chicago (arrived t = 6725)
+
+serviceTime = 7779
+Processing package for Memphis (arrived t = 6735)
+
+serviceTime = 7787
+Processing package for Chicago (arrived t = 6745)
+
+serviceTime = 7795
+Processing package for Memphis (arrived t = 6755)
+
+serviceTime = 7803
+Processing package for Chicago (arrived t = 6765)
+
+serviceTime = 7811
+Processing package for Memphis (arrived t = 6775)
+
+serviceTime = 7819
+Processing package for Memphis (arrived t = 6785)
+
+serviceTime = 7827
+Processing package for Memphis (arrived t = 6795)
+
+serviceTime = 7835
+Processing package for Chicago (arrived t = 6805)
+
+serviceTime = 7843
+Loading plane to Memphis (arrived t = 7840)
+Arrival time: 6795, Service time: 7843, Time in system : 1073
+Arrival time: 6785, Service time: 7843, Time in system : 1083
+Arrival time: 6775, Service time: 7843, Time in system : 1093
+Arrival time: 6755, Service time: 7843, Time in system : 1113
+Arrival time: 6735, Service time: 7843, Time in system : 1133
+Arrival time: 6675, Service time: 7843, Time in system : 1193
+Arrival time: 6665, Service time: 7843, Time in system : 1203
+Arrival time: 6655, Service time: 7843, Time in system : 1213
+
+serviceTime = 7868
+Processing package for Memphis (arrived t = 6815)
+
+serviceTime = 7876
+Processing package for Memphis (arrived t = 6825)
+
+serviceTime = 7884
+Loading plane to Chicago (arrived t = 7880)
+Arrival time: 6805, Service time: 7884, Time in system : 1104
+Arrival time: 6765, Service time: 7884, Time in system : 1144
+Arrival time: 6745, Service time: 7884, Time in system : 1164
+Arrival time: 6725, Service time: 7884, Time in system : 1184
+Arrival time: 6715, Service time: 7884, Time in system : 1194
+Arrival time: 6705, Service time: 7884, Time in system : 1204
+
+serviceTime = 7909
+Processing package for Memphis (arrived t = 6835)
+
+serviceTime = 7917
+Processing package for Memphis (arrived t = 6845)
+
+serviceTime = 7925
+Processing package for Chicago (arrived t = 6855)
+
+serviceTime = 7933
+Processing package for Memphis (arrived t = 6865)
+
+serviceTime = 7941
+Processing package for Memphis (arrived t = 6875)
+
+serviceTime = 7949
+Processing package for Memphis (arrived t = 6885)
+
+serviceTime = 7957
+Processing package for Memphis (arrived t = 6895)
+
+serviceTime = 7965
+Processing package for Memphis (arrived t = 6905)
+
+serviceTime = 7973
+Processing package for Memphis (arrived t = 6915)
+
+serviceTime = 7981
+Processing package for Chicago (arrived t = 6925)
+
+serviceTime = 7989
+Processing package for Memphis (arrived t = 6935)
+
+serviceTime = 7997
+Processing package for Chicago (arrived t = 6945)
+
+serviceTime = 8005
+Processing package for Chicago (arrived t = 6955)
+
+serviceTime = 8013
+Processing package for Memphis (arrived t = 6965)
+
+serviceTime = 8021
+Loading plane to Memphis (arrived t = 8020)
+Arrival time: 6965, Service time: 8021, Time in system : 1081
+Arrival time: 6935, Service time: 8021, Time in system : 1111
+Arrival time: 6915, Service time: 8021, Time in system : 1131
+Arrival time: 6905, Service time: 8021, Time in system : 1141
+Arrival time: 6895, Service time: 8021, Time in system : 1151
+Arrival time: 6885, Service time: 8021, Time in system : 1161
+Arrival time: 6875, Service time: 8021, Time in system : 1171
+Arrival time: 6865, Service time: 8021, Time in system : 1181
+Arrival time: 6845, Service time: 8021, Time in system : 1201
+Arrival time: 6835, Service time: 8021, Time in system : 1211
+Arrival time: 6825, Service time: 8021, Time in system : 1221
+Arrival time: 6815, Service time: 8021, Time in system : 1231
+
+serviceTime = 8046
+Loading plane to Chicago (arrived t = 8030)
+Arrival time: 6955, Service time: 8046, Time in system : 1116
+Arrival time: 6945, Service time: 8046, Time in system : 1126
+Arrival time: 6925, Service time: 8046, Time in system : 1146
+Arrival time: 6855, Service time: 8046, Time in system : 1216
+
+serviceTime = 8071
+Processing package for Memphis (arrived t = 6975)
+
+serviceTime = 8079
+Processing package for Chicago (arrived t = 6985)
+
+serviceTime = 8087
+Processing package for Memphis (arrived t = 6995)
+
+serviceTime = 8095
+Processing package for Chicago (arrived t = 7005)
+
+serviceTime = 8103
+Processing package for Chicago (arrived t = 7015)
+
+serviceTime = 8111
+Processing package for Memphis (arrived t = 7025)
+
+serviceTime = 8119
+Processing package for Memphis (arrived t = 7035)
+
+serviceTime = 8127
+Processing package for Chicago (arrived t = 7045)
+
+serviceTime = 8135
+Processing package for Chicago (arrived t = 7055)
+
+serviceTime = 8143
+Processing package for Memphis (arrived t = 7065)
+
+serviceTime = 8151
+Processing package for Chicago (arrived t = 7075)
+
+serviceTime = 8159
+Processing package for Memphis (arrived t = 7085)
+
+serviceTime = 8167
+Processing package for Chicago (arrived t = 7095)
+
+serviceTime = 8175
+Processing package for Memphis (arrived t = 7105)
+
+serviceTime = 8183
+Loading plane to Chicago (arrived t = 8180)
+Arrival time: 7095, Service time: 8183, Time in system : 1113
+Arrival time: 7075, Service time: 8183, Time in system : 1133
+Arrival time: 7055, Service time: 8183, Time in system : 1153
+Arrival time: 7045, Service time: 8183, Time in system : 1163
+Arrival time: 7015, Service time: 8183, Time in system : 1193
+Arrival time: 7005, Service time: 8183, Time in system : 1203
+Arrival time: 6985, Service time: 8183, Time in system : 1223
+
+serviceTime = 8208
+Loading plane to Memphis (arrived t = 8200)
+Arrival time: 7105, Service time: 8208, Time in system : 1128
+Arrival time: 7085, Service time: 8208, Time in system : 1148
+Arrival time: 7065, Service time: 8208, Time in system : 1168
+Arrival time: 7035, Service time: 8208, Time in system : 1198
+Arrival time: 7025, Service time: 8208, Time in system : 1208
+Arrival time: 6995, Service time: 8208, Time in system : 1238
+Arrival time: 6975, Service time: 8208, Time in system : 1258
+
+serviceTime = 8233
+Processing package for Memphis (arrived t = 7115)
+
+serviceTime = 8241
+Processing package for Chicago (arrived t = 7125)
+
+serviceTime = 8249
+Processing package for Memphis (arrived t = 7135)
+
+serviceTime = 8257
+Processing package for Memphis (arrived t = 7145)
+
+serviceTime = 8265
+Processing package for Chicago (arrived t = 7155)
+
+serviceTime = 8273
+Processing package for Chicago (arrived t = 7165)
+
+serviceTime = 8281
+Processing package for Chicago (arrived t = 7175)
+
+serviceTime = 8289
+Processing package for Memphis (arrived t = 7185)
+
+serviceTime = 8297
+Processing package for Memphis (arrived t = 7195)
+
+serviceTime = 8305
+Processing package for Memphis (arrived t = 7205)
+
+serviceTime = 8313
+Processing package for Chicago (arrived t = 7215)
+
+serviceTime = 8321
+Processing package for Memphis (arrived t = 7225)
+
+serviceTime = 8329
+Processing package for Chicago (arrived t = 7235)
+
+serviceTime = 8337
+Loading plane to Chicago (arrived t = 8330)
+Arrival time: 7235, Service time: 8337, Time in system : 1127
+Arrival time: 7215, Service time: 8337, Time in system : 1147
+Arrival time: 7175, Service time: 8337, Time in system : 1187
+Arrival time: 7165, Service time: 8337, Time in system : 1197
+Arrival time: 7155, Service time: 8337, Time in system : 1207
+Arrival time: 7125, Service time: 8337, Time in system : 1237
+
+serviceTime = 8362
+Processing package for Memphis (arrived t = 7245)
+
+serviceTime = 8370
+Processing package for Chicago (arrived t = 7255)
+
+serviceTime = 8378
+Processing package for Chicago (arrived t = 7265)
+
+serviceTime = 8386
+Loading plane to Memphis (arrived t = 8380)
+Arrival time: 7245, Service time: 8386, Time in system : 1166
+Arrival time: 7225, Service time: 8386, Time in system : 1186
+Arrival time: 7205, Service time: 8386, Time in system : 1206
+Arrival time: 7195, Service time: 8386, Time in system : 1216
+Arrival time: 7185, Service time: 8386, Time in system : 1226
+Arrival time: 7145, Service time: 8386, Time in system : 1266
+Arrival time: 7135, Service time: 8386, Time in system : 1276
+Arrival time: 7115, Service time: 8386, Time in system : 1296
+
+serviceTime = 8411
+Processing package for Memphis (arrived t = 7275)
+
+serviceTime = 8419
+Processing package for Chicago (arrived t = 7285)
+
+serviceTime = 8427
+Processing package for Chicago (arrived t = 7295)
+
+serviceTime = 8435
+Processing package for Memphis (arrived t = 7305)
+
+serviceTime = 8443
+Processing package for Chicago (arrived t = 7315)
+
+serviceTime = 8451
+Processing package for Chicago (arrived t = 7325)
+
+serviceTime = 8459
+Processing package for Chicago (arrived t = 7335)
+
+serviceTime = 8467
+Processing package for Chicago (arrived t = 7345)
+
+serviceTime = 8475
+Processing package for Memphis (arrived t = 7355)
+
+serviceTime = 8483
+Loading plane to Chicago (arrived t = 8480)
+Arrival time: 7345, Service time: 8483, Time in system : 1163
+Arrival time: 7335, Service time: 8483, Time in system : 1173
+Arrival time: 7325, Service time: 8483, Time in system : 1183
+Arrival time: 7315, Service time: 8483, Time in system : 1193
+Arrival time: 7295, Service time: 8483, Time in system : 1213
+Arrival time: 7285, Service time: 8483, Time in system : 1223
+Arrival time: 7265, Service time: 8483, Time in system : 1243
+Arrival time: 7255, Service time: 8483, Time in system : 1253
+
+serviceTime = 8508
+Processing package for Chicago (arrived t = 7365)
+
+serviceTime = 8516
+Processing package for Chicago (arrived t = 7375)
+
+serviceTime = 8524
+Processing package for Chicago (arrived t = 7385)
+
+serviceTime = 8532
+Processing package for Chicago (arrived t = 7395)
+
+serviceTime = 8540
+Processing package for Memphis (arrived t = 7405)
+
+serviceTime = 8548
+Processing package for Memphis (arrived t = 7415)
+
+serviceTime = 8556
+Processing package for Chicago (arrived t = 7425)
+
+serviceTime = 8564
+Loading plane to Memphis (arrived t = 8560)
+Arrival time: 7415, Service time: 8564, Time in system : 1174
+Arrival time: 7405, Service time: 8564, Time in system : 1184
+Arrival time: 7355, Service time: 8564, Time in system : 1234
+Arrival time: 7305, Service time: 8564, Time in system : 1284
+Arrival time: 7275, Service time: 8564, Time in system : 1314
+
+serviceTime = 8589
+Processing package for Memphis (arrived t = 7435)
+
+serviceTime = 8597
+Processing package for Memphis (arrived t = 7445)
+
+serviceTime = 8605
+Processing package for Memphis (arrived t = 7455)
+
+serviceTime = 8613
+Processing package for Memphis (arrived t = 7465)
+
+serviceTime = 8621
+Processing package for Chicago (arrived t = 7475)
+
+serviceTime = 8629
+Processing package for Chicago (arrived t = 7485)
+
+serviceTime = 8637
+Loading plane to Chicago (arrived t = 8630)
+Arrival time: 7485, Service time: 8637, Time in system : 1177
+Arrival time: 7475, Service time: 8637, Time in system : 1187
+Arrival time: 7425, Service time: 8637, Time in system : 1237
+Arrival time: 7395, Service time: 8637, Time in system : 1267
+Arrival time: 7385, Service time: 8637, Time in system : 1277
+Arrival time: 7375, Service time: 8637, Time in system : 1287
+Arrival time: 7365, Service time: 8637, Time in system : 1297
+
+serviceTime = 8662
+Processing package for Chicago (arrived t = 7495)
+
+serviceTime = 8670
+Processing package for Chicago (arrived t = 7505)
+
+serviceTime = 8678
+Processing package for Memphis (arrived t = 7515)
+
+serviceTime = 8686
+Processing package for Chicago (arrived t = 7525)
+
+serviceTime = 8694
+Processing package for Chicago (arrived t = 7535)
+
+serviceTime = 8702
+Processing package for Memphis (arrived t = 7545)
+
+serviceTime = 8710
+Processing package for Memphis (arrived t = 7555)
+
+serviceTime = 8718
+Processing package for Memphis (arrived t = 7565)
+
+serviceTime = 8726
+Processing package for Memphis (arrived t = 7575)
+
+serviceTime = 8734
+Processing package for Memphis (arrived t = 7585)
+
+serviceTime = 8742
+Loading plane to Memphis (arrived t = 8740)
+Arrival time: 7585, Service time: 8742, Time in system : 1182
+Arrival time: 7575, Service time: 8742, Time in system : 1192
+Arrival time: 7565, Service time: 8742, Time in system : 1202
+Arrival time: 7555, Service time: 8742, Time in system : 1212
+Arrival time: 7545, Service time: 8742, Time in system : 1222
+Arrival time: 7515, Service time: 8742, Time in system : 1252
+Arrival time: 7465, Service time: 8742, Time in system : 1302
+Arrival time: 7455, Service time: 8742, Time in system : 1312
+Arrival time: 7445, Service time: 8742, Time in system : 1322
+Arrival time: 7435, Service time: 8742, Time in system : 1332
+
+serviceTime = 8767
+Processing package for Chicago (arrived t = 7595)
+
+serviceTime = 8775
+Processing package for Memphis (arrived t = 7605)
+
+serviceTime = 8783
+Loading plane to Chicago (arrived t = 8780)
+Arrival time: 7595, Service time: 8783, Time in system : 1213
+Arrival time: 7535, Service time: 8783, Time in system : 1273
+Arrival time: 7525, Service time: 8783, Time in system : 1283
+Arrival time: 7505, Service time: 8783, Time in system : 1303
+Arrival time: 7495, Service time: 8783, Time in system : 1313
+
+serviceTime = 8808
+Processing package for Memphis (arrived t = 7615)
+
+serviceTime = 8816
+Processing package for Memphis (arrived t = 7625)
+
+serviceTime = 8824
+Processing package for Memphis (arrived t = 7635)
+
+serviceTime = 8832
+Processing package for Memphis (arrived t = 7645)
+
+serviceTime = 8840
+Processing package for Memphis (arrived t = 7655)
+
+serviceTime = 8848
+Processing package for Memphis (arrived t = 7665)
+
+serviceTime = 8856
+Processing package for Memphis (arrived t = 7675)
+
+serviceTime = 8864
+Processing package for Memphis (arrived t = 7685)
+
+serviceTime = 8872
+Processing package for Chicago (arrived t = 7695)
+
+serviceTime = 8880
+Processing package for Chicago (arrived t = 7705)
+
+serviceTime = 8888
+Processing package for Chicago (arrived t = 7715)
+
+serviceTime = 8896
+Processing package for Memphis (arrived t = 7725)
+
+serviceTime = 8904
+Processing package for Chicago (arrived t = 7735)
+
+serviceTime = 8912
+Processing package for Chicago (arrived t = 7745)
+
+serviceTime = 8920
+Loading plane to Memphis (arrived t = 8920)
+Arrival time: 7725, Service time: 8920, Time in system : 1220
+Arrival time: 7685, Service time: 8920, Time in system : 1260
+Arrival time: 7675, Service time: 8920, Time in system : 1270
+Arrival time: 7665, Service time: 8920, Time in system : 1280
+Arrival time: 7655, Service time: 8920, Time in system : 1290
+Arrival time: 7645, Service time: 8920, Time in system : 1300
+Arrival time: 7635, Service time: 8920, Time in system : 1310
+Arrival time: 7625, Service time: 8920, Time in system : 1320
+Arrival time: 7615, Service time: 8920, Time in system : 1330
+Arrival time: 7605, Service time: 8920, Time in system : 1340
+
+serviceTime = 8945
+Loading plane to Chicago (arrived t = 8930)
+Arrival time: 7745, Service time: 8945, Time in system : 1225
+Arrival time: 7735, Service time: 8945, Time in system : 1235
+Arrival time: 7715, Service time: 8945, Time in system : 1255
+Arrival time: 7705, Service time: 8945, Time in system : 1265
+Arrival time: 7695, Service time: 8945, Time in system : 1275
+
+serviceTime = 8970
+Processing package for Chicago (arrived t = 7755)
+
+serviceTime = 8978
+Processing package for Memphis (arrived t = 7765)
+
+serviceTime = 8986
+Processing package for Memphis (arrived t = 7775)
+
+serviceTime = 8994
+Processing package for Chicago (arrived t = 7785)
+
+serviceTime = 9002
+Processing package for Chicago (arrived t = 7795)
+
+serviceTime = 9010
+Processing package for Chicago (arrived t = 7805)
+
+serviceTime = 9018
+Processing package for Memphis (arrived t = 7815)
+
+serviceTime = 9026
+Processing package for Memphis (arrived t = 7825)
+
+serviceTime = 9034
+Processing package for Chicago (arrived t = 7835)
+
+serviceTime = 9042
+Processing package for Chicago (arrived t = 7845)
+
+serviceTime = 9050
+Processing package for Chicago (arrived t = 7855)
+
+serviceTime = 9058
+Processing package for Chicago (arrived t = 7865)
+
+serviceTime = 9066
+Processing package for Chicago (arrived t = 7875)
+
+serviceTime = 9074
+Processing package for Memphis (arrived t = 7885)
+
+serviceTime = 9082
+Loading plane to Chicago (arrived t = 9080)
+Arrival time: 7875, Service time: 9082, Time in system : 1232
+Arrival time: 7865, Service time: 9082, Time in system : 1242
+Arrival time: 7855, Service time: 9082, Time in system : 1252
+Arrival time: 7845, Service time: 9082, Time in system : 1262
+Arrival time: 7835, Service time: 9082, Time in system : 1272
+Arrival time: 7805, Service time: 9082, Time in system : 1302
+Arrival time: 7795, Service time: 9082, Time in system : 1312
+Arrival time: 7785, Service time: 9082, Time in system : 1322
+Arrival time: 7755, Service time: 9082, Time in system : 1352
+
+serviceTime = 9107
+Loading plane to Memphis (arrived t = 9100)
+Arrival time: 7885, Service time: 9107, Time in system : 1247
+Arrival time: 7825, Service time: 9107, Time in system : 1307
+Arrival time: 7815, Service time: 9107, Time in system : 1317
+Arrival time: 7775, Service time: 9107, Time in system : 1357
+Arrival time: 7765, Service time: 9107, Time in system : 1367
+
+serviceTime = 9132
+Processing package for Memphis (arrived t = 7895)
+
+serviceTime = 9140
+Processing package for Chicago (arrived t = 7905)
+
+serviceTime = 9148
+Processing package for Memphis (arrived t = 7915)
+
+serviceTime = 9156
+Processing package for Memphis (arrived t = 7925)
+
+serviceTime = 9164
+Processing package for Chicago (arrived t = 7935)
+
+serviceTime = 9172
+Processing package for Chicago (arrived t = 7945)
+
+serviceTime = 9180
+Processing package for Chicago (arrived t = 7955)
+
+serviceTime = 9188
+Processing package for Chicago (arrived t = 7965)
+
+serviceTime = 9196
+Processing package for Memphis (arrived t = 7975)
+
+serviceTime = 9204
+Processing package for Memphis (arrived t = 7985)
+
+serviceTime = 9212
+Processing package for Chicago (arrived t = 7995)
+
+serviceTime = 9220
+Processing package for Memphis (arrived t = 8005)
+
+serviceTime = 9228
+Processing package for Chicago (arrived t = 8015)
+
+serviceTime = 9236
+Loading plane to Chicago (arrived t = 9230)
+Arrival time: 8015, Service time: 9236, Time in system : 1246
+Arrival time: 7995, Service time: 9236, Time in system : 1266
+Arrival time: 7965, Service time: 9236, Time in system : 1296
+Arrival time: 7955, Service time: 9236, Time in system : 1306
+Arrival time: 7945, Service time: 9236, Time in system : 1316
+Arrival time: 7935, Service time: 9236, Time in system : 1326
+Arrival time: 7905, Service time: 9236, Time in system : 1356
+
+serviceTime = 9261
+Processing package for Memphis (arrived t = 8025)
+
+serviceTime = 9269
+Processing package for Memphis (arrived t = 8035)
+
+serviceTime = 9277
+Processing package for Memphis (arrived t = 8045)
+
+serviceTime = 9285
+Loading plane to Memphis (arrived t = 9280)
+Arrival time: 8045, Service time: 9285, Time in system : 1265
+Arrival time: 8035, Service time: 9285, Time in system : 1275
+Arrival time: 8025, Service time: 9285, Time in system : 1285
+Arrival time: 8005, Service time: 9285, Time in system : 1305
+Arrival time: 7985, Service time: 9285, Time in system : 1325
+Arrival time: 7975, Service time: 9285, Time in system : 1335
+Arrival time: 7925, Service time: 9285, Time in system : 1385
+Arrival time: 7915, Service time: 9285, Time in system : 1395
+Arrival time: 7895, Service time: 9285, Time in system : 1415
+
+serviceTime = 9310
+Processing package for Chicago (arrived t = 8055)
+
+serviceTime = 9318
+Processing package for Chicago (arrived t = 8065)
+
+serviceTime = 9326
+Processing package for Chicago (arrived t = 8075)
+
+serviceTime = 9334
+Processing package for Memphis (arrived t = 8085)
+
+serviceTime = 9342
+Processing package for Chicago (arrived t = 8095)
+
+serviceTime = 9350
+Processing package for Chicago (arrived t = 8105)
+
+serviceTime = 9358
+Processing package for Memphis (arrived t = 8115)
+
+serviceTime = 9366
+Processing package for Chicago (arrived t = 8125)
+
+serviceTime = 9374
+Processing package for Memphis (arrived t = 8135)
+
+serviceTime = 9382
+Loading plane to Chicago (arrived t = 9380)
+Arrival time: 8125, Service time: 9382, Time in system : 1282
+Arrival time: 8105, Service time: 9382, Time in system : 1302
+Arrival time: 8095, Service time: 9382, Time in system : 1312
+Arrival time: 8075, Service time: 9382, Time in system : 1332
+Arrival time: 8065, Service time: 9382, Time in system : 1342
+Arrival time: 8055, Service time: 9382, Time in system : 1352
+
+serviceTime = 9407
+Processing package for Memphis (arrived t = 8145)
+
+serviceTime = 9415
+Processing package for Chicago (arrived t = 8155)
+
+serviceTime = 9423
+Processing package for Chicago (arrived t = 8165)
+
+serviceTime = 9431
+Processing package for Memphis (arrived t = 8175)
+
+serviceTime = 9439
+Processing package for Memphis (arrived t = 8185)
+
+serviceTime = 9447
+Processing package for Memphis (arrived t = 8195)
+
+serviceTime = 9455
+Processing package for Memphis (arrived t = 8205)
+
+serviceTime = 9463
+Loading plane to Memphis (arrived t = 9460)
+Arrival time: 8205, Service time: 9463, Time in system : 1283
+Arrival time: 8195, Service time: 9463, Time in system : 1293
+Arrival time: 8185, Service time: 9463, Time in system : 1303
+Arrival time: 8175, Service time: 9463, Time in system : 1313
+Arrival time: 8145, Service time: 9463, Time in system : 1343
+Arrival time: 8135, Service time: 9463, Time in system : 1353
+Arrival time: 8115, Service time: 9463, Time in system : 1373
+Arrival time: 8085, Service time: 9463, Time in system : 1403
+
+serviceTime = 9488
+Processing package for Memphis (arrived t = 8215)
+
+serviceTime = 9496
+Processing package for Memphis (arrived t = 8225)
+
+serviceTime = 9504
+Processing package for Memphis (arrived t = 8235)
+
+serviceTime = 9512
+Processing package for Chicago (arrived t = 8245)
+
+serviceTime = 9520
+Processing package for Memphis (arrived t = 8255)
+
+serviceTime = 9528
+Processing package for Chicago (arrived t = 8265)
+
+serviceTime = 9536
+Loading plane to Chicago (arrived t = 9530)
+Arrival time: 8265, Service time: 9536, Time in system : 1296
+Arrival time: 8245, Service time: 9536, Time in system : 1316
+Arrival time: 8165, Service time: 9536, Time in system : 1396
+Arrival time: 8155, Service time: 9536, Time in system : 1406
+
+serviceTime = 9561
+Processing package for Memphis (arrived t = 8275)
+
+serviceTime = 9569
+Processing package for Memphis (arrived t = 8285)
+
+serviceTime = 9577
+Processing package for Chicago (arrived t = 8295)
+
+serviceTime = 9585
+Processing package for Memphis (arrived t = 8305)
+
+serviceTime = 9593
+Processing package for Chicago (arrived t = 8315)
+
+serviceTime = 9601
+Processing package for Memphis (arrived t = 8325)
+
+serviceTime = 9609
+Processing package for Memphis (arrived t = 8335)
+
+serviceTime = 9617
+Processing package for Memphis (arrived t = 8345)
+
+serviceTime = 9625
+Processing package for Memphis (arrived t = 8355)
+
+serviceTime = 9633
+Processing package for Chicago (arrived t = 8365)
+
+serviceTime = 9641
+Loading plane to Memphis (arrived t = 9640)
+Arrival time: 8355, Service time: 9641, Time in system : 1311
+Arrival time: 8345, Service time: 9641, Time in system : 1321
+Arrival time: 8335, Service time: 9641, Time in system : 1331
+Arrival time: 8325, Service time: 9641, Time in system : 1341
+Arrival time: 8305, Service time: 9641, Time in system : 1361
+Arrival time: 8285, Service time: 9641, Time in system : 1381
+Arrival time: 8275, Service time: 9641, Time in system : 1391
+Arrival time: 8255, Service time: 9641, Time in system : 1411
+Arrival time: 8235, Service time: 9641, Time in system : 1431
+Arrival time: 8225, Service time: 9641, Time in system : 1441
+Arrival time: 8215, Service time: 9641, Time in system : 1451
+
+serviceTime = 9666
+Processing package for Memphis (arrived t = 8375)
+
+serviceTime = 9674
+Processing package for Memphis (arrived t = 8385)
+
+serviceTime = 9682
+Loading plane to Chicago (arrived t = 9680)
+Arrival time: 8365, Service time: 9682, Time in system : 1342
+Arrival time: 8315, Service time: 9682, Time in system : 1392
+Arrival time: 8295, Service time: 9682, Time in system : 1412
+
+serviceTime = 9707
+Processing package for Memphis (arrived t = 8395)
+
+serviceTime = 9715
+Processing package for Chicago (arrived t = 8405)
+
+serviceTime = 9723
+Processing package for Memphis (arrived t = 8415)
+
+serviceTime = 9731
+Processing package for Memphis (arrived t = 8425)
+
+serviceTime = 9739
+Processing package for Memphis (arrived t = 8435)
+
+serviceTime = 9747
+Processing package for Memphis (arrived t = 8445)
+
+serviceTime = 9755
+Processing package for Memphis (arrived t = 8455)
+
+serviceTime = 9763
+Processing package for Chicago (arrived t = 8465)
+
+serviceTime = 9771
+Processing package for Chicago (arrived t = 8475)
+
+serviceTime = 9779
+Processing package for Memphis (arrived t = 8485)
+
+serviceTime = 9787
+Processing package for Memphis (arrived t = 8495)
+
+serviceTime = 9795
+Processing package for Chicago (arrived t = 8505)
+
+serviceTime = 9803
+Processing package for Chicago (arrived t = 8515)
+
+serviceTime = 9811
+Processing package for Chicago (arrived t = 8525)
+
+serviceTime = 9819
+Processing package for Memphis (arrived t = 8535)
+
+serviceTime = 9827
+Loading plane to Memphis (arrived t = 9820)
+Arrival time: 8535, Service time: 9827, Time in system : 1317
+Arrival time: 8495, Service time: 9827, Time in system : 1357
+Arrival time: 8485, Service time: 9827, Time in system : 1367
+Arrival time: 8455, Service time: 9827, Time in system : 1397
+Arrival time: 8445, Service time: 9827, Time in system : 1407
+Arrival time: 8435, Service time: 9827, Time in system : 1417
+Arrival time: 8425, Service time: 9827, Time in system : 1427
+Arrival time: 8415, Service time: 9827, Time in system : 1437
+Arrival time: 8395, Service time: 9827, Time in system : 1457
+Arrival time: 8385, Service time: 9827, Time in system : 1467
+Arrival time: 8375, Service time: 9827, Time in system : 1477
+
+serviceTime = 9852
+Loading plane to Chicago (arrived t = 9830)
+Arrival time: 8525, Service time: 9852, Time in system : 1352
+Arrival time: 8515, Service time: 9852, Time in system : 1362
+Arrival time: 8505, Service time: 9852, Time in system : 1372
+Arrival time: 8475, Service time: 9852, Time in system : 1402
+Arrival time: 8465, Service time: 9852, Time in system : 1412
+Arrival time: 8405, Service time: 9852, Time in system : 1472
+
+serviceTime = 9877
+Processing package for Memphis (arrived t = 8545)
+
+serviceTime = 9885
+Processing package for Memphis (arrived t = 8555)
+
+serviceTime = 9893
+Processing package for Chicago (arrived t = 8565)
+
+serviceTime = 9901
+Processing package for Memphis (arrived t = 8575)
+
+serviceTime = 9909
+Processing package for Chicago (arrived t = 8585)
+
+serviceTime = 9917
+Processing package for Memphis (arrived t = 8595)
+
+serviceTime = 9925
+Processing package for Memphis (arrived t = 8605)
+
+serviceTime = 9933
+Processing package for Chicago (arrived t = 8615)
+
+serviceTime = 9941
+Processing package for Chicago (arrived t = 8625)
+
+serviceTime = 9949
+Processing package for Memphis (arrived t = 8635)
+
+serviceTime = 9957
+Processing package for Chicago (arrived t = 8645)
+
+serviceTime = 9965
+Processing package for Memphis (arrived t = 8655)
+
+serviceTime = 9973
+Processing package for Chicago (arrived t = 8665)
+
+serviceTime = 9981
+Loading plane to Chicago (arrived t = 9980)
+Arrival time: 8665, Service time: 9981, Time in system : 1341
+Arrival time: 8645, Service time: 9981, Time in system : 1361
+Arrival time: 8625, Service time: 9981, Time in system : 1381
+Arrival time: 8615, Service time: 9981, Time in system : 1391
+Arrival time: 8585, Service time: 9981, Time in system : 1421
+Arrival time: 8565, Service time: 9981, Time in system : 1441
